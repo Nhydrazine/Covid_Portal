@@ -1,0 +1,117 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+ACCESSION=Q5MQD0.1;CHAIN=X;TAXID=443239      MLLIIFILPTTLAVIGDFNCTNFAINDLNTTVPRISEYVVDVSYGLGTYYILDRVYLNTT	60
+PDB=5GNB;CHAIN=A;TAXID=443239                ------------------------------------------------------------	0
+PDB=5KWB;CHAIN=A;TAXID=443239                ------------------------------------------------------------	0
+                                                                                                         
+
+ACCESSION=Q5MQD0.1;CHAIN=X;TAXID=443239      ILFTGYFPKSGANFRDLSLKGTTYLSTLWYQKPFLSDFNNGIFSRVKNTKLYVNKTLYSE	120
+PDB=5GNB;CHAIN=A;TAXID=443239                ------------------------------------------------------------	0
+PDB=5KWB;CHAIN=A;TAXID=443239                ------------------------------------------------------------	0
+                                                                                                         
+
+ACCESSION=Q5MQD0.1;CHAIN=X;TAXID=443239      FSTIVIGSVFINNSYTIVVQPHNGVLEITACQYTMCEYPHTICKSKGSSRNESWHFDKSE	180
+PDB=5GNB;CHAIN=A;TAXID=443239                ------------------------------------------------------------	0
+PDB=5KWB;CHAIN=A;TAXID=443239                ------------------------------------------------------------	0
+                                                                                                         
+
+ACCESSION=Q5MQD0.1;CHAIN=X;TAXID=443239      PLCLFKKNFTYNVSTDWLYFHFYQERGTFYAYYADSGMPTTFLFSLYLGTLLSHYYVLPL	240
+PDB=5GNB;CHAIN=A;TAXID=443239                ------------------------------------------------------------	0
+PDB=5KWB;CHAIN=A;TAXID=443239                ------------------------------------------------------------	0
+                                                                                                         
+
+ACCESSION=Q5MQD0.1;CHAIN=X;TAXID=443239      TCNAISSNTDNETLQYWVTPLSKRQYLLKFDNRGVITNAVDCSSSFFSEIQCKTKSLLPN	300
+PDB=5GNB;CHAIN=A;TAXID=443239                ------------------------------------------------------------	0
+PDB=5KWB;CHAIN=A;TAXID=443239                ------------------------------------------------------------	0
+                                                                                                         
+
+ACCESSION=Q5MQD0.1;CHAIN=X;TAXID=443239      TGVYDLSGFTVKPVATVH-RRIPDLPDCDIDKWLNNFNVPSPLNWERKIFSNCNFNLSTL	359
+PDB=5GNB;CHAIN=A;TAXID=443239                ----------VKPVATVHRRRIPDLPDCDIDKWLNNFNVPSPLNWERKIFSNCNFNLSTL	50
+PDB=5KWB;CHAIN=A;TAXID=443239                ----------VKPVATVHRRRIPDLPDCDIDKWLNNFNVPSPLNWERKIFSNCNFNLSTL	50
+                                                       ******** *****************************************
+
+ACCESSION=Q5MQD0.1;CHAIN=X;TAXID=443239      LRLVHT-DSFSCNNFDE-SKIYGSCFKSIVLDKFAIPNSRRSDLQLGSSGFLQSSNYKID	417
+PDB=5GNB;CHAIN=A;TAXID=443239                LRLVHTDDSFSCNNFDE-SKIYGSCFKSIVLDKFAIPNSRRSDLQLGSSGFLQSSNYKID	109
+PDB=5KWB;CHAIN=A;TAXID=443239                LRLVHTDDSFSCNNFDEESKIYGSCFKSIVLDKFAIPNSRRSDLQLGSSGFLQSSNYKID	110
+                                             ****** ********** ******************************************
+
+ACCESSION=Q5MQD0.1;CHAIN=X;TAXID=443239      TTSS-SCQLYYSLPA-INVTINNYNPSSWNR-RYGFN-NFNLSSHSVVYSRYC-FSVNNT	472
+PDB=5GNB;CHAIN=A;TAXID=443239                TTSSSCCQLYYSLPAIINVTINNYNPSSWNRRRYGFNNNFNLSSHSVVYSRYCCFSVNNT	169
+PDB=5KWB;CHAIN=A;TAXID=443239                TTSSSCCQLYYSLPAIINVTINNYNPSSWNRRRYGFNNNFNLSSHSVVYSRYCCFSVNNT	170
+                                             **** .********* *************** ***** *************** ******
+
+ACCESSION=Q5MQD0.1;CHAIN=X;TAXID=443239      FCPCAKPSFASSCKSHKPPSASCPIGTNYRSCESTTVLDHTDWCRCS-CLPDPITAYDPR	531
+PDB=5GNB;CHAIN=A;TAXID=443239                FCPCAKPSFASSCKSHKPPSASCPIGTNYRSCESTTVLDHTDWCRCSCCLPDPITAYDPR	229
+PDB=5KWB;CHAIN=A;TAXID=443239                FCPCAKPSFASSCKSHKPPSASCPIGTNYRSCESTTVLDHTDWCRCSCCLPDPITAYDPR	230
+                                             *********************************************** ************
+
+ACCESSION=Q5MQD0.1;CHAIN=X;TAXID=443239      SCSQKKSLVGVGEHCAGFGV-DEEKCGVLDGSYN-VSCLCSTDAFLGWSYDTCVSNNR-C	588
+PDB=5GNB;CHAIN=A;TAXID=443239                SCSQKKSLVGVGEHCAGFGVVDEEKCGVLDGSYNNVSCLCSTDAFLGWSYDTCVSNNRCC	289
+PDB=5KWB;CHAIN=A;TAXID=443239                SCSQKKSLVGVGEHCAGFGVVDEEKCGVLDGSYNNVSCLCSTDAFLGWSYDTCVSNNRCC	290
+                                             ******************** ************* *********************** *
+
+ACCESSION=Q5MQD0.1;CHAIN=X;TAXID=443239      NIFSNFILNGINSGTT-CSNDLLQPNTEVFTDVCVDYDLYGITGQGIFKEVSAVYYNSWQ	647
+PDB=5GNB;CHAIN=A;TAXID=443239                NIFSNFILNGINSGTTCCSNDLLQPNTEVFTDVCVDYDLYGITGQGIFKEVSAVYYNSWQ	349
+PDB=5KWB;CHAIN=A;TAXID=443239                NIFSNFILNGINSGTTCCSNDLLQPNTEVFTDVCVDYDLYGITGQGIFKEVSAVYYNSWQ	350
+                                             **************** *******************************************
+
+ACCESSION=Q5MQD0.1;CHAIN=X;TAXID=443239      NLLYDSNGNIIGFKDFVTNKTYNIFPCYAGRVSAAFHQNASSLALLYRNLKCSYVLNNIS	707
+PDB=5GNB;CHAIN=A;TAXID=443239                NLLYDSNGNIIGFKDFVTNKTYNIFPC---------------------------------	376
+PDB=5KWB;CHAIN=A;TAXID=443239                NLLYDSNGNIIGFKDFVTNKTYNIFPC---------------------------------	377
+                                             ***************************                                 
+
+ACCESSION=Q5MQD0.1;CHAIN=X;TAXID=443239      LTTQPYFDSYLGCVFNADNLTDYSVSSCALRMGSGFCVDYNSPSSSSSRRKRRSISASYR	767
+PDB=5GNB;CHAIN=A;TAXID=443239                ------------------------------------------------------------	376
+PDB=5KWB;CHAIN=A;TAXID=443239                ------------------------------------------------------------	377
+                                                                                                         
+
+ACCESSION=Q5MQD0.1;CHAIN=X;TAXID=443239      FVTFEPFNVSFVNDSIESVGGLYEIKIPTNFTIVGQEEFIQTNSPKVTIDCSLFVCSNYA	827
+PDB=5GNB;CHAIN=A;TAXID=443239                ------------------------------------------------------------	376
+PDB=5KWB;CHAIN=A;TAXID=443239                ------------------------------------------------------------	377
+                                                                                                         
+
+ACCESSION=Q5MQD0.1;CHAIN=X;TAXID=443239      ACHDLLSEYGTFCDNINSILDEVNGLLDTTQLHVADTLMQGVTLSSNLNTNLHFDVDNIN	887
+PDB=5GNB;CHAIN=A;TAXID=443239                ------------------------------------------------------------	376
+PDB=5KWB;CHAIN=A;TAXID=443239                ------------------------------------------------------------	377
+                                                                                                         
+
+ACCESSION=Q5MQD0.1;CHAIN=X;TAXID=443239      FKSLVGCLGPHCGSSSRSFFEDLLFDKVKLSDVGFVEAYNNCTGGSEIRDLLCVQSFNGI	947
+PDB=5GNB;CHAIN=A;TAXID=443239                ------------------------------------------------------------	376
+PDB=5KWB;CHAIN=A;TAXID=443239                ------------------------------------------------------------	377
+                                                                                                         
+
+ACCESSION=Q5MQD0.1;CHAIN=X;TAXID=443239      KVLPPILSESQISGYTTAATVAAMFPPWSAAAGIPFSLNVQYRINGLGVTMDVLNKNQKL	1007
+PDB=5GNB;CHAIN=A;TAXID=443239                ------------------------------------------------------------	376
+PDB=5KWB;CHAIN=A;TAXID=443239                ------------------------------------------------------------	377
+                                                                                                         
+
+ACCESSION=Q5MQD0.1;CHAIN=X;TAXID=443239      IATAFNNALLSIQNGFSATNSALAKIQSVVNSNAQALNSLLQQLFNKFGAISSSLQEILS	1067
+PDB=5GNB;CHAIN=A;TAXID=443239                ------------------------------------------------------------	376
+PDB=5KWB;CHAIN=A;TAXID=443239                ------------------------------------------------------------	377
+                                                                                                         
+
+ACCESSION=Q5MQD0.1;CHAIN=X;TAXID=443239      RLDALEAQVQIDRLINGRLTALNAYVSQQLSDISLVKFGAALAMEKVNECVKSQSPRINF	1127
+PDB=5GNB;CHAIN=A;TAXID=443239                ------------------------------------------------------------	376
+PDB=5KWB;CHAIN=A;TAXID=443239                ------------------------------------------------------------	377
+                                                                                                         
+
+ACCESSION=Q5MQD0.1;CHAIN=X;TAXID=443239      CGNGNHILSLVQNAPYGLLFMHFSYKPISFKTVLVSPGLCISGDVGIAPKQGYFIKHNDH	1187
+PDB=5GNB;CHAIN=A;TAXID=443239                ------------------------------------------------------------	376
+PDB=5KWB;CHAIN=A;TAXID=443239                ------------------------------------------------------------	377
+                                                                                                         
+
+ACCESSION=Q5MQD0.1;CHAIN=X;TAXID=443239      WMFTGSSYYYPEPISDKNVVFMNTCSVNFTKAPLVYLNHSVPKLSDFESELSHWFKNQTS	1247
+PDB=5GNB;CHAIN=A;TAXID=443239                ------------------------------------------------------------	376
+PDB=5KWB;CHAIN=A;TAXID=443239                ------------------------------------------------------------	377
+                                                                                                         
+
+ACCESSION=Q5MQD0.1;CHAIN=X;TAXID=443239      IAPNLTLNLHTINATFLDLYYEMNLIQESIKSLNNSYINLKDIGTYEMYVKWPWYVWLLI	1307
+PDB=5GNB;CHAIN=A;TAXID=443239                ------------------------------------------------------------	376
+PDB=5KWB;CHAIN=A;TAXID=443239                ------------------------------------------------------------	377
+                                                                                                         
+
+ACCESSION=Q5MQD0.1;CHAIN=X;TAXID=443239      SFSFIIFLVLLFFICCCTGCGSACFSKCHNCCDEYGGHHDFVIKTSHDD	1356
+PDB=5GNB;CHAIN=A;TAXID=443239                -------------------------------------------------	376
+PDB=5KWB;CHAIN=A;TAXID=443239                -------------------------------------------------	377
+                                                                                              

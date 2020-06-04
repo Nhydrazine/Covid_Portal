@@ -9,7 +9,7 @@ from rest_framework_jwt.views import obtain_jwt_token, refresh_jwt_token
 admin.autodiscover()
 
 urlpatterns = [
-
+    url(r'^explorer/', include('explorer.urls')),
     url(r'^admin/', admin.site.urls),
 
     url(r'^covidPortalApp/submitUploadFile/', submitUploadFile, name = 'submitUploadFile'),

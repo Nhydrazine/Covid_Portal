@@ -1,7 +1,7 @@
 from django.contrib.auth.decorators import login_required
 from django.contrib import messages
 from django.template import RequestContext
-from django.shortcuts import render_to_response
+# from django.shortcuts import render_to_response
 from django.shortcuts import render
 from django.http import HttpResponse
 from django.http import JsonResponse
@@ -57,14 +57,15 @@ from conf import *
 import asyncio, asyncssh, sys
 
 from django.contrib.auth.tokens import PasswordResetTokenGenerator
-from django.utils import six
+# from django.utils import six
 
 class AccountActivationTokenGenerator(PasswordResetTokenGenerator):
     def _make_hash_value(self, user, timestamp):
-        return (
-            six.text_type(user.pk) + six.text_type(timestamp) +
-            six.text_type(user.profile.email_confirmed)
-        )
+        return str(user.pk)+str(timestamp);
+        # return (
+        #     six.text_type(user.pk) + six.text_type(timestamp) +
+        #     six.text_type(user.profile.email_confirmed)
+        # )
 
 class UploadFileForm(forms.Form):
     title = forms.CharField(max_length=50)

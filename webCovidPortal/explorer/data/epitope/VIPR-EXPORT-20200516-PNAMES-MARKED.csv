@@ -1,0 +1,219 @@
+,Protein Names,Spike Synonym
+0,E2 glycoprotein precursor,0
+1,spike glycoprotein,1
+2,,0
+3,N,0
+4,N protein,0
+5,nucleocapsid,0
+6,nucleocapsid protein,0
+7,nucleocapsid protein N,0
+8,nucleoprotein,0
+9,putative nucleocapsid protein,0
+10,putative nucleocapsid protein N,0
+11,S protein,1
+12,putative E2 glycoprotein precursor,0
+13,putative spike glycoprotein,1
+14,putative spike glycoprotein S,1
+15,spike,1
+16,spike glycoprotein S,1
+17,spike glycoprotein precursor,1
+18,spike protein,1
+19,spike protein S,1
+20,3a protein,0
+21,ORF3a,0
+22,Orf1,0
+23,Orf3,0
+24,Orf3a,0
+25,X1 protein,0
+26,hypothetical protein,0
+27,hypothetical protein sars3a,0
+28,non-structural protein 3a,0
+29,orf3a,0
+30,protein X1,0
+31,putative protein,0
+32,putative transmembrane protein 3a,0
+33,putative transmembrane protein 3a; Orf3a,0
+34,putative uncharacterized protein 1,0
+35,sars3a,0
+36,unknown,0
+37,E2 90A,0
+38,membrane associated glycoprotein E2 precursor,0
+39,M protein,0
+40,matrix protein,0
+41,membrane glycoprotein,0
+42,membrane glycoprotein M,0
+43,membrane protein,0
+44,membrane protein M,0
+45,putative M protein,0
+46,putative envelope protein M,0
+47,putative membrane protein M,0
+48,putative protein M,0
+49,ORF8,0
+50,ORF14,0
+51,Genomic RNA,0
+52, nearly complete genome,0
+53, clone: persistent virus #21,0
+54,ORF6,0
+55,Orf6,0
+56,Orf7,0
+57,X3 protein,0
+58,hypothetical protein ORF6,0
+59,hypothetical protein sars6,0
+60,non-structural protein 6,0
+61,orf6,0
+62,orf7,0
+63,protein X3,0
+64,putative uncharacterized protein 3,0
+65,sars6,0
+66,uncharacterized protein 6,0
+67,ORF7b,0
+68,ORF9,0
+69,hypothetical protein 7b,0
+70,hypothetical protein ORF7b,0
+71,3b protein,0
+72,ORF3b,0
+73,Orf2,0
+74,Orf3b,0
+75,Orf4,0
+76,X2 protein,0
+77,hypothetical protein 3b,0
+78,hypothetical protein sars3b,0
+79,non-structural protein 3b,0
+80,orf3b,0
+81,protein X2,0
+82,putative uncharacterized protein 2,0
+83,sars3b,0
+84,ORF8b,0
+85,Orf11,0
+86,Orf8b,0
+87,X5 protein,0
+88,hypothetical protein sars8b,0
+89,non-structural protein 8b,0
+90,orf11,0
+91,orf8b,0
+92,protein X5,0
+93,putative uncharacterized protein 7,0
+94,sars8b,0
+95,uncharacterized protein 8b,0
+96,E,0
+97,E protein,0
+98,envelope,0
+99,envelope protein,0
+100,envelope protein E,0
+101,envelope small membrane protein,0
+102,protein E,0
+103,putative envelope protein E,0
+104,putative small envelope protein,0
+105,small envelope E protein,0
+106,small envelope protein,0
+107,small membrane protein,0
+108,orf1ab,0
+109,polyprotein orf1ab,0
+110,nonstructural polyprotein pp1a,0
+111,nsp3-pp1a/pp1ab,0
+112,orf1a polyprotein,0
+113,orf1a polyprotein (pp1a),0
+114,polyprotein 1a,0
+115,polyprotein orf1a,0
+116,putative polyprotein orf1a,0
+117,uncharacterized protein 1c,0
+118,9b,0
+119,BGI-PUP7,0
+120,ORF9b,0
+121,Orf13,0
+122,Orf9b,0
+123,hypothetical protein Orf9b,0
+124,hypothetical protein orf9b,0
+125,hypothetical protein sars9b,0
+126,non-structural protein 9b,0
+127,orf13,0
+128,orf9b,0
+129,putative uncharacterized protein 5,0
+130,sars9b,0
+131,uncharacterized protein 9b,0
+132,orf10,0
+133,3a,0
+134,nsp8-pp1a/pp1ab,0
+135,ORF1a,0
+136,replicase polyprotein 1a,0
+137,BGI-PUP4,0
+138,ORF7a,0
+139,ORF8 protein,0
+140,Orf7a,0
+141,Orf8,0
+142,X4 protein,0
+143,hypothetical protein sars7a,0
+144,non-structural protein 7a,0
+145,orf7a,0
+146,orf8,0
+147,protein X4,0
+148,putative uncharacterized protein 4,0
+149,sars7a,0
+150,uncharacterized protein 7a,0
+151,putative transmembrane protein 2d,0
+152,nucleocapsid protein (N),0
+153,E2 90B,0
+154,E2,0
+155,E2 glycoprotein,0
+156,spike glycoprotein (S),1
+157,Nucleoprotein,0
+158,ORF3,0
+159,RNA-dependent RNA polymerase,0
+160,nonstructural polyprotein pp1ab,0
+161,orf1ab polyprotein,0
+162,orf1ab polyprotein (pp1ab),0
+163,polyprotein 1ab,0
+164,putative orf1ab polyprotein,0
+165,putative polyprotein,0
+166,putative polyprotein orf1ab,0
+167,formerly known as growth-factor-like protein (GFL),0
+168,ORF7,0
+169,putative ORF6,0
+170,3C-like proteinase,0
+171,E1 glycoprotein,0
+172,Membrane protein,0
+173,matrix glycoprotein,0
+174,2'-O-ribose methyltransferase (2'-o-MT),0
+175,7b,0
+176,Orf7b,0
+177,Orf9,0
+178,hypothetical protein orf7b,0
+179,hypothetical protein sars7b,0
+180,non-structural protein 7b,0
+181,non-structural protein NS7b,0
+182,orf7b,0
+183,orf9,0
+184,sars7b,0
+185,uncharacterized protein 7b,0
+186,nsp13-pp1ab (ZD,0
+187, NTPase/HEL; RNA 5'-triphosphatase),0
+188,3b,0
+189,nsp7-pp1a/pp1ab,0
+190,3'-to-5' exonuclease,0
+191,putative uncharacterized protein 6,0
+192,endoRNAse,0
+193,ORF10,0
+194,ORF8a,0
+195,Orf10,0
+196,Orf8A,0
+197,Orf8a,0
+198,hypothetical protein sars8a,0
+199,non-functional hypothetical protein sars8a,0
+200,non-structural protein 8a,0
+201,orf8a,0
+202,sars8a,0
+203,uncharacterized protein 8a,0
+204,Orf14,0
+205,hypothetical orf10 protein,0
+206,hypothetical orf14 protein,0
+207,hypothetical protein orf10,0
+208,hypothetical protein orf14,0
+209,non-structural protein 10,0
+210,uncharacterized protein 9c,0
+211,leader protein,0
+212,hypothetical protein orf7a,0
+213,nsp11-pp1a,0
+214,surface projection glycoprotein,1
+215,membrane protein (M),0
+216,S peplomer polypeptide precursor,1
+217,nonstructural protein,0

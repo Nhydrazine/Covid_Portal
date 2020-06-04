@@ -1,0 +1,127 @@
+<html>
+<script>
+    let seqrecords = [];    // raw data from API fetch
+    let hosts = {};         // object with host names as properties
+    let countries = {};     // object with country names as properties
+    let show_seqrecords = []; // array of seqrecords indices to show
+
+    // update all select boxes with seqrecords data
+    function process_seqRecords() {
+        // track changes so we only modify elements when the data is different
+        let changes_hosts = 0;      // # of changes to hosts object
+        let changes_countries = 0;  // # of changes to countries object
+
+        seqrecords.forEach( rec => {
+            // add host if it doesn't already exist and note change
+            if (! hosts.hasOwnProperty(rec.fields.host)) {
+                changes_hosts++;
+                hosts[rec.fields.host] = true;
+            }
+            // add country if it doesn't already exist and note change
+            if ( rec.fields.country ) {
+                country = rec.fields.country.split(":");
+                if (! countries.hasOwnProperty(country)) {
+                    changes_countries++;
+                    countries[country] = true;
+                }
+            }
+        });
+        // update select lists only if they need it
+        if ( changes_hosts ) { update_selectBox(hosts, 'hosts'); }
+        if ( changes_countries ) { update_selectBox(countries, 'countries'); }
+    }
+
+
+    function update_selectBox(obj, domid) {
+        let el = document.getElementById(domid);
+        // remove existing options
+        for (i=el.length; i>=0; i--) { el.remove(i); }
+        // add new options sorted case insensitive
+        Object.keys(obj).sort(
+            // case insensitive sort
+            function(a,b) {
+                a = a.toLowerCase();
+                b = b.toLowerCase();
+                if (a==b) { return 0; }
+                else if (a>b) { return 1; }
+                else { return -1; }
+            }
+        ).forEach( rec => {
+            // create and append option
+            o = document.createElement('option');
+            o.text = rec;
+            o.id = rec;
+            el.options.add(o);
+        });
+    }
+
+    // fetch sequencrecords from API given MeSH ID
+    function fetch_sequencerecords(mesh_id) {
+        var request = new XMLHttpRequest();
+        request.open('GET', 'http://127.0.0.1:8000/explorer/sequencerecords?mesh_id='+mesh_id);
+        request.onload = function() {
+            // parse and update filter elements
+            seqrecords = JSON.parse(this.response);
+            process_seqRecords();
+        }
+        request.send();
+    }
+
+</script>
+<body>
+    hello there<br>
+
+    <button onclick="fetch_sequencerecords('D064370')">FETCH SEQUENCERECORDS</button><br>
+    <button onclick="alert('not implemented yet')">Filter</button>
+    <form>
+        <table border=1>
+        <thead>
+            <td>Accession</td>
+            <td>Organism</td>
+            <td>Isolate</td>
+            <td>Host</td>
+            <td>Country</td>
+        </thead>
+        <tbody>
+            <tr>
+                <td><input type="text"></td>
+                <td><input type="text"></td>
+                <td><input type="text"></td>
+                <td>
+                    <select id="hosts">
+                    <option value="none" id='none'>none</option>
+                    </select>
+                </td>
+                <td>
+                    <select id="countries">
+                    <option value="none" id='none'>none</option>
+                    </select>
+                </td>
+            </tr>
+            <tr>
+                <td>[Accession]</td>
+                <td>[Organism]</td>
+                <td>[Isolate]</td>
+                <td>[Host]</td>
+                <td>[Country]</td>
+            </tr>
+            <tr>
+                <td>[Accession]</td>
+                <td>[Organism]</td>
+                <td>[Isolate]</td>
+                <td>[Host]</td>
+                <td>[Country]</td>
+            </tr>
+            <tr>
+                <td>[Accession]</td>
+                <td>[Organism]</td>
+                <td>[Isolate]</td>
+                <td>[Host]</td>
+                <td>[Country]</td>
+            </tr>
+
+        </tbody>
+        </table>
+    </form>
+</body>
+</html>

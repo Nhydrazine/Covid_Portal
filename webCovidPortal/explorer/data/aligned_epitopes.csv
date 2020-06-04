@@ -1,0 +1,605 @@
+,IEDB_ID,protein,alignment,matched,sequence,offset,host,assay_type,assay_result,mhc_allele,mhc_class,exp_method,measurement_type
+0,307,D064370,20200505,ATO98145.1,AALVSGTATAGWTFGAG,835,Human,B Cell,Positive,,,ELISA,qualitative binding
+1,462,D064370,20200505,QIS60846.1,AATKMSECVLGQSKRVD,1024,Human,B Cell,Positive,,,ELISA,qualitative binding
+2,525,D064370,20200505,ABE77216.1,AAYFVGYLKPTTFMLKY,249,Human,B Cell,Positive,,,ELISA,qualitative binding
+3,971,D064370,20200505,ABE77216.1,AEHVDT----SYECDIPIGA,638,Chicken,B Cell,Positive-Low,,,ELISA,qualitative binding
+4,1460,D064370,20200505,ABE77216.1,AGCLIGAEHVDT----SYECD,632,Human,B Cell,Positive,,,ELISA,qualitative binding
+5,2053,D064370,20200505,ABE77216.1,AIPTNFSISITTEVMPV,694,Human,B Cell,Positive,,,ELISA,qualitative binding
+6,2092,D064370,20200505,QIS60846.1,AISSVLNDILSRLDKVE,971,Human,B Cell,Positive,,,ELISA,qualitative binding
+7,2769,D064370,20200505,ABE77216.1,ALNCYW,470,Human,B Cell,Positive,,,biological activity,antibody binding
+8,2770,D064370,20200505,ABE77216.1,ALNCYW---------------------------PLNDY--------------------------GFY-----------------------------------T-----TTGIGYQPYRVVVLSFEL,470,Human,B Cell,Positive,,,ELISA,qualitative binding
+9,3176,D064370,20200505,QIS60846.1,AMQMAYRF,898,Human,B Cell,Positive,,,biological activity,antibody binding
+10,3983,D064370,20200505,AIA62277.1,AQKFNGLTVLPPLLTDD,814,Human,B Cell,Positive,,,ELISA,qualitative binding
+11,4129,D064370,20200505,QIQ54048.1,ARDLICAQKFNGLTVLP,841,Human,B Cell,Negative,,,ELISA,qualitative binding
+12,68,D064370,20200505,ABE77216.1,AAAYFVGYLK,248,Human,MHC Binding,Negative,HLA-A*33:01,I,purified MHC/competitive/radioactivity,dissociation constant KD (~IC50)
+13,69,D064370,20200505,ABE77216.1,AAAYFVGYLKPTTFM,248,Human,MHC Binding,Positive-High,HLA-DRB1*01:01,II,purified MHC/competitive/radioactivity,dissociation constant KD (~IC50)
+14,306,D064370,20200505,ATO98145.1,AALVSGTATAGWTFG,835,Human,MHC Binding,Positive-High,HLA-DRB1*01:01,II,purified MHC/competitive/radioactivity,dissociation constant KD (~IC50)
+15,524,D064370,20200505,ABE77216.1,AAYFVGYLK,249,Human,MHC Binding,Negative,HLA-A*33:01,I,purified MHC/competitive/radioactivity,dissociation constant KD (~IC50)
+16,803,D064370,20200505,QIQ54048.1,ADYSVLYNS-T,362,Human,MHC Binding,Negative,HLA-B*18:01,I,purified MHC/competitive/radioactivity,dissociation constant KD (~IC50)
+17,999,D064370,20200505,QIS60846.1,AEIRASANLA,1015,Chimpanzee,MHC Binding,Positive-Low,Patr-B*24:01,I,purified MHC/competitive/radioactivity,dissociation constant KD (~IC50)
+18,1220,D064370,20200505,QIS60846.1,AEVQIDRLI,988,Chimpanzee,MHC Binding,Negative,Patr-B*24:01,I,purified MHC/competitive/radioactivity,dissociation constant KD (~IC50)
+19,1221,D064370,20200505,QIS60846.1,AEVQIDRLIT,988,Human,MHC Binding,Negative,HLA-B*18:01,I,purified MHC/competitive/radioactivity,dissociation constant KD (~IC50)
+20,1358,D064370,20200505,ABE77216.1,AFNCTFEYI,155,Human,MHC Binding,Negative,HLA-A*23:01,I,purified MHC/competitive/radioactivity,dissociation constant KD (~IC50)
+21,1398,D064370,20200505,AAU93320.1,AFSLDVSE-K,166,Human,MHC Binding,Negative,HLA-A*03:01,I,purified MHC/competitive/radioactivity,dissociation constant KD (~IC50)
+22,1597,D064370,20200505,AVP78042.1,AGLIAIVMVTILLCC,1193,Human,MHC Binding,Positive-Low,HLA-DRB1*01:01,II,purified MHC/competitive/radioactivity,dissociation constant KD (~IC50)
+23,2121,D064370,20200505,AVP78042.1,AIVMVTILLCCMTSC,1197,Human,MHC Binding,Positive-Intermediate,HLA-DRB1*01:01,II,purified MHC/competitive/radioactivity,dissociation constant KD (~IC50)
+24,2801,D064370,20200505,QIQ54048.1,ALNTLVKQL,953,Human,MHC Binding,Positive,HLA-A*02:01,I,cellular MHC/direct/fluorescence,qualitative binding
+25,2986,D064370,20200505,ALJ94036.1,ALVSGTATA,864,Human,MHC Binding,Negative,HLA-A*68:02,I,purified MHC/competitive/radioactivity,dissociation constant KD (~IC50)
+26,3392,D064370,20200505,ATO98145.1,ANQFNKAISQIQESL,884,Human,MHC Binding,Positive-High,HLA-DRB1*01:01,II,purified MHC/competitive/radioactivity,dissociation constant KD (~IC50)
+27,3478,D064370,20200505,QIQ54048.1,APAICHE---GKA,1073,Human,MHC Binding,Negative,HLA-B*35:01,I,purified MHC/competitive/radioactivity,dissociation constant KD (~IC50)
+28,3492,D064370,20200505,ABE77216.1,APATVCGPK-L,505,Human,MHC Binding,Negative,HLA-B*35:01,I,purified MHC/competitive/radioactivity,dissociation constant KD (~IC50)
+29,3589,D064370,20200505,QIQ54048.1,APHGVVFLHV,1051,Human,MHC Binding,Negative,HLA-B*51:01,I,purified MHC/competitive/radioactivity,dissociation constant KD (~IC50)
+30,3939,D064370,20200505,QIS60846.1,AQALNTLVK,955,Human,MHC Binding,Negative,HLA-A*33:01,I,purified MHC/competitive/radioactivity,dissociation constant KD (~IC50)
+31,3982,D064370,20200505,QIQ54048.1,AQKFNGLTVLPPLLT,847,Human,MHC Binding,Positive-High,HLA-DRB1*01:01,II,purified MHC/competitive/radioactivity,dissociation constant KD (~IC50)
+32,4321,D064370,20200505,QIS60846.1,ASANLAATK,1019,Human,MHC Binding,Negative,HLA-A*33:01,I,purified MHC/competitive/radioactivity,dissociation constant KD (~IC50)
+33,4941,D064370,20200505,ABE77216.1,ATEKSNV-------------------VRGWV,90,Human,B Cell,Positive,,,ELISA,qualitative binding
+34,5773,D064370,20200505,AKZ19076.1,AYFPREGVFVFNGT----------SWF,1054,Human,B Cell,Positive,,,ELISA,qualitative binding
+35,5927,D064370,20200505,ABE77216.1,AYSNNTIAIPTNFSISI,687,Human,B Cell,Positive,,,ELISA,qualitative binding
+36,6011,D064370,20200505,ATO98157.1,CANLLLQYGSFCTQLNRALSGIA,730,Human,B Cell,Positive,,,ELISA,qualitative binding
+37,6040,D064370,20200505,ABE77216.1,CASYHTVSL----L-RSTS-----QKS,656,Human,B Cell,Positive,,,ELISA,qualitative binding
+38,6110,D064370,20200505,ABE77216.1,CDIPIGAGICASYHTVS,647,Human,B Cell,Positive,,,ELISA,qualitative binding
+39,6332,D064370,20200505,ABE77216.1,CGPK-L-----STDLIKNQCVNF,510,Human,B Cell,Positive,,,ELISA,qualitative binding
+40,6333,D064370,20200505,ABE77216.1,CGPK-L-----STDLIKNQCVNFNFNGLTGTGVLTP-SSKRFQPFQQFG,510,Human,B Cell,Positive,,,ELISA,qualitative binding
+41,6334,D064370,20200505,ABE77216.1,CGPK-L-----STDLIKNQCVNFNFNGLTGTGVLTP-SSKRFQPFQQFGRDVSDFTD,510,Human,B Cell,Positive,,,western blot,qualitative binding
+42,6476,D064370,20200505,QIS60846.1,CK-FDEDDSEPVLKGVKLHYT,1253,Rabbit,B Cell,Positive-Low,,,immunohistochemistry,qualitative binding
+43,6562,D064370,20200505,ATO98193.1,CLG---DINARDLICAQKFN,807,Human,B Cell,Negative,,,ELISA,qualitative binding
+44,7064,D064370,20200505,ABE77216.1,CSQNPLAELKCSVKSFE,277,Human,B Cell,Positive,,,ELISA,qualitative binding
+45,7065,D064370,20200505,ABE77216.1,CSQNPLAELKCSVKSFEI,277,Mouse,B Cell,Positive,,,biological activity,neutralization
+46,7066,D064370,20200505,ABE77216.1,CSQNPLAELKCSVKSFEIDKGIYQTSNFRVVPSGD,277,Human,B Cell,Positive,,,ELISA,qualitative binding
+47,7128,D064370,20200505,ABE77216.1,CTDVSTAIHADQLTPAW,602,Human,B Cell,Positive,,,ELISA,qualitative binding
+48,7129,D064370,20200505,ABE77216.1,CTDVSTAIHADQLTPAWRIYST-----GNNVFQTQAG,602,Human,B Cell,Positive,,,ELISA,qualitative binding
+49,7193,D064370,20200505,ABE77216.1,CT-PPALNCYW---------------------------PLNDY--------------------------GF,466,Human,B Cell,Positive,,,ELISA,qualitative binding
+50,7216,D064370,20200505,ABE77216.1,CTTFD---------DVQA-------PNYTQHTSSMR,18,Rabbit,B Cell,Positive-Intermediate,,,immunohistochemistry,qualitative binding
+51,7217,D064370,20200505,ABE77216.1,CTTFD---------DVQA-------PNYTQHTSSMRGVYYPDEIFR,18,Human,B Cell,Positive,,,ELISA,qualitative binding
+52,7277,D064370,20200505,ACO72893.1,CVKSQTTRIN,1081,Mouse,B Cell,Positive,,,ELISA,qualitative binding
+53,7280,D064370,20200505,ABE77216.1,CVLAWNTRNIDATS---------------------------TGN,418,Human,B Cell,Positive,,,ELISA,qualitative binding
+54,7383,D064370,20200505,ABE77216.1,CYGVSATKLNDLCFSNV,365,Human,B Cell,Positive,,,ELISA,qualitative binding
+55,7452,D064370,20200505,ABE77216.1,CYW---------------------------PLNDY--------------------------GFY-----------------------------------T-----TTGIG,473,Human,B Cell,Positive,,,ELISA,qualitative binding
+56,7868,D064370,20200505,QIS60846.1,DDSEPVLKGVKLHYT,1258,Human,B Cell,Positive,,,ELISA,qualitative binding
+57,8239,D064370,20200505,YP_003858584.1,DFCGKGYHLMSFPQAAP,1026,Human,B Cell,Positive,,,ELISA,qualitative binding
+58,8413,D064370,20200505,ABE77216.1,DGIYFAATEKSNV-------------------VRGW,84,Human,B Cell,Positive,,,ELISA,qualitative binding
+59,9007,D064370,20200505,QIQ54048.1,DKYFKNHTSPDVDLGD,1148,Rabbit,B Cell,Positive-Low,,,immunohistochemistry,qualitative binding
+60,9094,D064370,20200505,QIS60846.1,DLGD-----ISGINASVVNIQK,1164,Human,B Cell,Positive,,,ELISA,qualitative binding
+61,9242,D064370,20200505,ABE77216.1,DLPSGFNTLKPIFKLPL,207,Human,B Cell,Positive,,,ELISA,qualitative binding
+62,9365,D064370,20200505,QDF43815.1,DMIAAYTAALVSGTATA,835,Human,B Cell,Positive,,,ELISA,qualitative binding
+63,9662,D064370,20200505,ABE77216.1,DPKTSEILDISPCSFGGV,563,Mouse,B Cell,Positive,,,biological activity,neutralization
+64,9956,D064370,20200505,ABE77216.1,DRCTTFD---------DVQA-------PNYTQH,16,Human,B Cell,Positive,,,ELISA,qualitative binding
+65,10113,D064370,20200505,QIQ54048.1,DSFKEELDKYFKNHTSPDVDLGD-----ISGINASVV,1141,Guinea pig,B Cell,Negative,,,biological activity,neutralization
+66,10721,D064370,20200505,ABE77216.1,DVSE-KSGNF--KHLREFVF,170,Human,B Cell,Positive,,,ELISA,qualitative binding
+67,4768,D064370,20200505,ABE77216.1,ASSEVAVLY,589,Human,MHC Binding,Negative,HLA-A*23:01,I,purified MHC/competitive/radioactivity,dissociation constant KD (~IC50)
+68,4877,D064370,20200505,AVP78042.1,ATAGWTFGA,853,Human,MHC Binding,Positive-High,HLA-A*02:03,I,purified MHC/competitive/radioactivity,dissociation constant KD (~IC50)
+69,5155,D064370,20200505,ABE77216.1,ATS---------------------------TGNYNY,429,Human,MHC Binding,Negative,HLA-A*03:01,I,purified MHC/competitive/radioactivity,dissociation constant KD (~IC50)
+70,5156,D064370,20200505,ABE77216.1,ATS---------------------------TGNYNYK,429,Chimpanzee,MHC Binding,Positive-Low,Patr-A*01:01,I,purified MHC/competitive/radioactivity,dissociation constant KD (~IC50)
+71,5772,D064370,20200505,ATO98145.1,AYFPREGVF,1047,Human,MHC Binding,Negative,HLA-A*01:01,I,purified MHC/competitive/radioactivity,dissociation constant KD (~IC50)
+72,5777,D064370,20200505,ABE77216.1,AYFVGYLKPTTFMLK,250,Human,MHC Binding,Positive-High,HLA-DRB1*01:01,II,purified MHC/competitive/radioactivity,dissociation constant KD (~IC50)
+73,5908,D064370,20200505,QIS60846.1,AYRFNGIGVTQNVLY,902,Human,MHC Binding,Positive-High,HLA-DRB1*01:01,II,purified MHC/competitive/radioactivity,dissociation constant KD (~IC50)
+74,5926,D064370,20200505,ABE77216.1,AYSNNTIAI,687,Human,MHC Binding,Negative,HLA-A*01:01,I,purified MHC/competitive/radioactivity,dissociation constant KD (~IC50)
+75,6668,D064370,20200505,QIS60846.1,CMTSCCSCLK,1235,Human,MHC Binding,Positive-High,HLA-A*68:01,I,purified MHC/competitive/radioactivity,dissociation constant KD (~IC50)
+76,7032,D064370,20200505,Q02385.1,CSLWNGPHL,509,Mouse,MHC Binding,Positive,H2-Db,I,cellular MHC,qualitative binding
+77,7192,D064370,20200505,ABE77216.1,CT-PPALNCY,466,Human,MHC Binding,Negative,HLA-A*01:01,I,purified MHC/competitive/radioactivity,dissociation constant KD (~IC50)
+78,7247,D064370,20200505,QIS60846.1,CVADYSVLY,360,Chimpanzee,MHC Binding,Negative,Patr-B*01:01,I,purified MHC/competitive/radioactivity,dissociation constant KD (~IC50)
+79,7289,D064370,20200505,QIS60846.1,CVNFNFNGLTGTGVL,537,Human,MHC Binding,Positive-High,HLA-DRB1*01:01,II,purified MHC/competitive/radioactivity,dissociation constant KD (~IC50)
+80,7382,D064370,20200505,ABE77216.1,CYGVSATKL,365,Human,MHC Binding,Negative,HLA-A*01:01,I,purified MHC/competitive/radioactivity,dissociation constant KD (~IC50)
+81,7451,D064370,20200505,ABE77216.1,CYW---------------------------PLNDY--------------------------GF,473,Chimpanzee,MHC Binding,Positive-Intermediate,Patr-A*07:01,I,purified MHC/competitive/radioactivity,dissociation constant KD (~IC50)
+82,7829,D064370,20200505,QDF43815.1,DDMIAAYTAALVSGT,834,Human,MHC Binding,Positive-High,HLA-DRB1*01:01,II,purified MHC/competitive/radioactivity,dissociation constant KD (~IC50)
+83,7928,D064370,20200505,QIS60846.1,DEDDSEPVL,1256,Human,MHC Binding,Negative,HLA-B*18:01,I,purified MHC/competitive/radioactivity,dissociation constant KD (~IC50)
+84,9006,D064370,20200505,QIQ54048.1,DKYFKNHTSPDVDLG,1148,Human,MHC Binding,Positive-High,HLA-DRB1*01:01,II,purified MHC/competitive/radioactivity,dissociation constant KD (~IC50)
+85,9241,D064370,20200505,ABE77216.1,DLPSGFNTLK,207,Human,MHC Binding,Negative,HLA-A*31:01,I,purified MHC/competitive/radioactivity,dissociation constant KD (~IC50)
+86,9421,D064370,20200505,ABE77216.1,DNAFNCTFEY,153,Human,MHC Binding,Negative,HLA-A*23:01,I,purified MHC/competitive/radioactivity,dissociation constant KD (~IC50)
+87,10112,D064370,20200505,QIS60846.1,DSFKEELDKY,1145,Human,MHC Binding,Negative,HLA-A*23:01,I,purified MHC/competitive/radioactivity,dissociation constant KD (~IC50)
+88,10418,D064370,20200505,ABE77216.1,DTLYLTQDLFLPFYS,49,Human,MHC Binding,Positive-Intermediate,HLA-DRB1*01:01,II,purified MHC/competitive/radioactivity,dissociation constant KD (~IC50)
+89,10778,D064370,20200505,QIQ54048.1,DVVNQNAQALNTLVKQL,945,Human,B Cell,Positive,,,ELISA,qualitative binding
+90,10779,D064370,20200505,ABE77216.1,DVV----RDLPSGFNTLKPI,203,Rabbit,B Cell,Positive-Intermediate,,,immunohistochemistry,qualitative binding
+91,11038,D064370,20200505,QIS60846.1,EAEVQIDRLITGRLQSL,987,Human,B Cell,Positive,,,ELISA,qualitative binding
+92,11740,D064370,20200505,QIQ54048.1,EELDKYFKNHTSPDVDL,1145,Human,B Cell,Negative,,,ELISA,qualitative binding
+93,12417,D064370,20200505,ABE77216.1,EIDKGIYQTSNFRVVPS,293,Human,B Cell,Positive,,,ELISA,qualitative binding
+94,12426,D064370,20200505,QIS60846.1,EIDRLNEVAKNLNESLIDLQELGKYEQY,1181,Human,B Cell,Positive,,,ELISA,qualitative binding
+95,14208,D064370,20200505,ATO98145.1,ESLTTTSTALGKLQDVV,896,Human,B Cell,Positive,,,ELISA,qualitative binding
+96,14626,D064370,20200505,QIS60846.1,EVAKNLNESLIDLQELG,1187,Human,B Cell,Positive,,,ELISA,qualitative binding
+97,15582,D064370,20200505,ABE77216.1,FELCDNPFFAVSKP-M-GT---QTHT,129,Humanized (transgene),B Cell,Positive,,,biological activity,neutralization
+98,15783,D064370,20200505,ABE77216.1,FFAVSKP-M-GT---QTHTMIF,136,Human,B Cell,Positive,,,ELISA,qualitative binding
+99,15899,D064370,20200505,AGC74176.1,FFSPQIIT-TDNTFVSGNCDVVIGIINNTVYDPLQ--PELDSF,1076,Mouse,B Cell,Positive,,,biological activity,neutralization
+100,15903,D064370,20200505,ABE77216.1,FFSTFKCYGVSATKLND,359,Human,B Cell,Positive,,,ELISA,qualitative binding
+101,15972,D064370,20200505,QIS60846.1,FGEVF--NAT,337,Human,B Cell,Positive,,,biological activity,antibody binding
+102,16183,D064370,20200505,QIQ54048.1,FIEDLLFNKVTLADAGF,812,Human,B Cell,Positive,,,ELISA,qualitative binding
+103,16376,D064370,20200505,AAU93320.1,F--KHLREFVFKNKDGFLY,178,Human,B Cell,Positive,,,ELISA,qualitative binding
+104,16417,D064370,20200505,AAU93320.1,FKNKDGFLYVYKGYQPI,186,Human,B Cell,Positive,,,ELISA,qualitative binding
+105,10965,D064370,20200505,ABE77216.1,DYSVLYNS-TF,350,Human,MHC Binding,Negative,HLA-A*01:01,I,purified MHC/competitive/radioactivity,dissociation constant KD (~IC50)
+106,11231,D064370,20200505,AAU93320.1,ECANLLLQY,729,Human,MHC Binding,Negative,HLA-A*01:01,I,purified MHC/competitive/radioactivity,dissociation constant KD (~IC50)
+107,11384,D064370,20200505,QIQ54048.1,EDLLFNKVTLADAGF,814,Human,MHC Binding,Positive-High,HLA-DRB1*01:01,II,purified MHC/competitive/radioactivity,dissociation constant KD (~IC50)
+108,12967,D064370,20200505,ABE77216.1,ELCDNPFFA,130,Human,MHC Binding,Positive,HLA-A*02:01,I,cellular MHC/direct/fluorescence,qualitative binding
+109,14045,D064370,20200505,QDF43815.1,ERNFTTAPAICHE---GK,1039,Human,MHC Binding,Positive-High,HLA-DRB1*01:01,II,purified MHC/competitive/radioactivity,dissociation constant KD (~IC50)
+110,14630,D064370,20200505,ABE77216.1,EVAVLYQDVNCTDVS,592,Human,MHC Binding,Positive-High,HLA-DRB1*01:01,II,purified MHC/competitive/radioactivity,dissociation constant KD (~IC50)
+111,14829,D064370,20200505,ABE77216.1,EVMPVSMAK,706,Human,MHC Binding,Negative,HLA-A*01:01,I,purified MHC/direct/fluorescence,qualitative binding
+112,15372,D064370,20200505,ABE77216.1,FD---------DVQA-------PNY,21,Human,MHC Binding,Negative,HLA-A*01:01,I,purified MHC/competitive/radioactivity,dissociation constant KD (~IC50)
+113,15552,D064370,20200505,ABE77216.1,FEIDKGIYQT,292,Human,MHC Binding,Negative,HLA-B*18:01,I,purified MHC/competitive/radioactivity,dissociation constant KD (~IC50)
+114,15581,D064370,20200505,ABE77216.1,FELCDNPFF,129,Chimpanzee,MHC Binding,Negative,Patr-B*24:01,I,purified MHC/competitive/radioactivity,dissociation constant KD (~IC50)
+115,15584,D064370,20200505,QHR63300.2,FELLNAPAT,514,Human,MHC Binding,Negative,HLA-B*44:02,I,purified MHC/competitive/radioactivity,dissociation constant KD (~IC50)
+116,15585,D064370,20200505,ABE77216.1,FELLNAPATVCGPK-L,500,Human,MHC Binding,Positive-High,HLA-DRB1*01:01,II,purified MHC/competitive/radioactivity,dissociation constant KD (~IC50)
+117,15628,D064370,20200505,ABE77216.1,FERDISNVPF,450,Human,MHC Binding,Negative,HLA-B*45:01,I,purified MHC/competitive/radioactivity,dissociation constant KD (~IC50)
+118,15771,D064370,20200505,AAU93320.1,FEYISDAFSL,160,Human,MHC Binding,Negative,HLA-B*45:01,I,purified MHC/competitive/radioactivity,dissociation constant KD (~IC50)
+119,16156,D064370,20200505,QIS60846.1,FIAGLIAIV,1219,Human,MHC Binding,Positive-High,HLA-A*02:01,I,purified MHC/competitive/radioactivity,dissociation constant KD (~IC50)
+120,16194,D064370,20200505,ABE77216.1,FIFLLFLTL,1,Human,MHC Binding,Negative,HLA-A*02:01,I,cellular MHC/direct/fluorescence,qualitative binding
+121,16195,D064370,20200505,ABE77216.1,FIFLLFLTLTSG--------------SDL,1,Human,MHC Binding,Positive-Intermediate,HLA-DRB1*01:01,II,purified MHC/competitive/radioactivity,dissociation constant KD (~IC50)
+122,16350,D064370,20200505,ABE77216.1,FKCYGVSATKLNDLC,363,Human,MHC Binding,Positive-High,HLA-DRB1*01:01,II,purified MHC/competitive/radioactivity,dissociation constant KD (~IC50)
+123,14942,D064370,20200505,ACN89743.1,EWL--TAKSVPSPLNWE,332,Mouse,T Cell,Positive,H2-b class II,II,3H-thymidine,proliferation
+124,17132,D064370,20200505,ABE77216.1,F--NATKFPSVYAWERKKI,328,Human,B Cell,Negative,,,ELISA,qualitative binding
+125,17524,D064370,20200505,ABE77216.1,FQQFGRDVSDFTDSVRDPKT,547,Chicken,B Cell,Positive-High,,,ELISA,qualitative binding
+126,17644,D064370,20200505,ABE77216.1,FRSDTLYLTQDLFLPFY,46,Human,B Cell,Positive,,,ELISA,qualitative binding
+127,17929,D064370,20200505,ABE77216.1,FTDSVRDPKTSEILDIS,557,Human,B Cell,Positive,,,ELISA,qualitative binding
+128,18161,D064370,20200505,AAU93320.1,FVFNGT----------SWFITQRNFFS,1076,Human,B Cell,Positive,,,ELISA,qualitative binding
+129,18515,D064370,20200505,QIS60846.1,GAALQIPFAMQMAYRFN,890,Human,B Cell,Positive,,,ELISA,qualitative binding
+130,18594,D064370,20200505,QIS60846.1,GAGICASY,666,Human,B Cell,Positive,,,biological activity,antibody binding
+131,19585,D064370,20200505,ATO98193.1,GFMKQYGECLG---DINARD,799,Human,B Cell,Positive,,,ELISA,qualitative binding
+132,19657,D064370,20200505,ABE77216.1,GFY-----------------------------------T-----TTGIGYQPYRVVV,481,Human,B Cell,Positive,,,ELISA,qualitative binding
+133,20288,D064370,20200505,YP_003858584.1,GIGVTQNVLYENQKQIA,893,Human,B Cell,Positive,,,ELISA,qualitative binding
+134,21553,D064370,20200505,ABE77216.1,GNYNYKYRYLRHGKLRPFER,433,Guinea pig,B Cell,Positive,,,ELISA,qualitative binding
+135,21675,D064370,20200505,ABE77216.1,GPK-L-----STDLIKNQCVNFNF,511,Mouse,B Cell,Positive,,,biological activity,neutralization
+136,22321,D064370,20200505,QIS60846.1,GSFCTQLN,756,Human,B Cell,Positive,,,biological activity,antibody binding
+137,17131,D064370,20200505,ABE77216.1,F--NATKFPSVY,328,Human,MHC Binding,Negative,HLA-A*01:01,I,purified MHC/competitive/radioactivity,dissociation constant KD (~IC50)
+138,17153,D064370,20200505,ABE77216.1,FNGLTGTGVLTP-SSK,528,Human,MHC Binding,Positive-High,HLA-DRB1*01:01,II,purified MHC/competitive/radioactivity,dissociation constant KD (~IC50)
+139,17154,D064370,20200505,AIA62277.1,FNGLTVLPPLLTDDM,817,Human,MHC Binding,Positive-High,HLA-DRB1*01:01,II,purified MHC/competitive/radioactivity,dissociation constant KD (~IC50)
+140,17341,D064370,20200505,QIS60846.1,F-PNITN-LCPF,328,Chimpanzee,MHC Binding,Positive-High,Patr-B*13:01,I,purified MHC/competitive/radioactivity,dissociation constant KD (~IC50)
+141,17356,D064370,20200505,YP_003858584.1,FPQAAPHGVV,1037,Human,MHC Binding,Positive-High,HLA-B*54:01,I,purified MHC/competitive/radioactivity,dissociation constant KD (~IC50)
+142,17382,D064370,20200505,AKZ19076.1,FPREGVFVF,1056,Chimpanzee,MHC Binding,Positive-High,Patr-B*13:01,I,purified MHC/competitive/radioactivity,dissociation constant KD (~IC50)
+143,17561,D064370,20200505,ABF68959.1,FRAILTAFSP----------AQDIW,230,Human,MHC Binding,Positive-High,HLA-DRB1*01:01,II,purified MHC/competitive/radioactivity,dissociation constant KD (~IC50)
+144,17816,D064370,20200505,AIA62277.1,FSQILPDPL-----------KPTKRS,764,Human,MHC Binding,Positive-High,HLA-DRB1*01:01,II,purified MHC/competitive/radioactivity,dissociation constant KD (~IC50)
+145,18160,D064370,20200505,AKZ19076.1,FVFNGT----------SWFI,1062,Human,MHC Binding,Positive,HLA-A*02:01,I,cellular MHC/competitive/fluorescence,qualitative binding
+146,18181,D064370,20200505,ABE77216.1,FVGYLKPTTFMLKYD,252,Human,MHC Binding,Positive-High,HLA-DRB1*01:01,II,purified MHC/competitive/radioactivity,dissociation constant KD (~IC50)
+147,18477,D064370,20200505,ABE77216.1,FY-----------------------------------T-----TTGIGY,482,Human,MHC Binding,Negative,HLA-A*23:01,I,purified MHC/competitive/radioactivity,dissociation constant KD (~IC50)
+148,18514,D064370,20200505,QIS60846.1,GAALQIPFAMQMAYR,890,Human,MHC Binding,Positive-High,HLA-DRB1*01:01,II,purified MHC/competitive/radioactivity,dissociation constant KD (~IC50)
+149,18566,D064370,20200505,ABE77216.1,GAEHVDT----SY,637,Human,MHC Binding,Negative,HLA-A*23:01,I,purified MHC/competitive/radioactivity,dissociation constant KD (~IC50)
+150,19456,D064370,20200505,ABE77216.1,GEVF--NATKF,325,Human,MHC Binding,Negative,HLA-A*01:01,I,purified MHC/direct/fluorescence,qualitative binding
+151,19593,D064370,20200505,ABE77216.1,GFNTLKPIFK,211,Human,MHC Binding,Negative,HLA-A*33:01,I,purified MHC/competitive/radioactivity,dissociation constant KD (~IC50)
+152,20379,D064370,20200505,ABE77216.1,GINITNFRAILTAFS,224,Human,MHC Binding,Positive-High,HLA-DRB1*01:01,II,purified MHC/competitive/radioactivity,dissociation constant KD (~IC50)
+153,20907,D064370,20200505,QIS60846.1,GLIAIVMVTI,1222,Human,MHC Binding,Positive-High,HLA-A*02:02,I,purified MHC/competitive/radioactivity,dissociation constant KD (~IC50)
+154,21962,D064370,20200505,QIQ54048.1,GQTGVIADY,412,Human,MHC Binding,Negative,HLA-A*01:01,I,purified MHC/direct/fluorescence,dissociation constant KD (~EC50)
+155,22144,D064370,20200505,QIS60846.1,GRLQSLQTY,998,Human,MHC Binding,Negative,HLA-A*01:01,I,purified MHC/direct/fluorescence,qualitative binding
+156,21552,D064370,20200505,ABE77216.1,GNYNYKYRYLRHGKL,433,Mouse,T Cell,Negative,H2-d class I,I,ICS,IFNg release
+157,23051,D064370,20200505,ABE77216.1,GVLTP-SSKRFQPFQQFG,535,Human,B Cell,Positive,,,ELISA,qualitative binding
+158,23053,D064370,20200505,ABE77216.1,GVLTP-SSKRFQPFQQFGRDVSDFTDSVRDPK,535,Human,B Cell,Positive,,,ELISA,qualitative binding
+159,23296,D064370,20200505,ABE77216.1,GWVFGSTMNNKSQSVII,99,Human,B Cell,Positive,,,ELISA,qualitative binding
+160,23437,D064370,20200505,ABE77216.1,GYQPYRVVVLSFELLNA,489,Human,B Cell,Positive,,,ELISA,qualitative binding
+161,23438,D064370,20200505,ABE77216.1,GYQPYRVVVLSFELLNAPATV,489,Humanized (transgene),B Cell,Positive,,,biological activity,neutralization
+162,23441,D064370,20200505,ARB66065.1,GYRFTNFEP,362,Rabbit,B Cell,Positive,,,ELISA,qualitative binding
+163,23520,D064370,20200505,ABE77216.1,HADQLTPAWRIYST-----GNN,610,Human,B Cell,Positive,,,ELISA,qualitative binding
+164,23685,D064370,20200505,ATO98145.1,HE---GKAYFPREGV,1043,Human,B Cell,Positive,,,ELISA,qualitative binding
+165,24923,D064370,20200505,AAR07631.1,H--TINH--------------------TFGNPVIPFKDG,69,Human,B Cell,Positive,,,ELISA,qualitative binding
+166,24978,D064370,20200505,ABE77216.1,HTSSMRGVYYPDEIFRS,32,Human,B Cell,Positive,,,ELISA,qualitative binding
+167,25031,D064370,20200505,ABE77216.1,HVDT----SYECDIPIGAGIC,640,Human,B Cell,Positive,,,ELISA,qualitative binding
+168,25219,D064370,20200505,ABF68955.1,IAAEQDRNTREVFAQVK,751,Human,B Cell,Positive,,,ELISA,qualitative binding
+169,25250,D064370,20200505,ABE77216.1,IADYNYKLPDDFMGCVL,404,Human,B Cell,Positive,,,ELISA,qualitative binding
+170,25293,D064370,20200505,AVP78042.1,IAGLIAIVMVTILLCCM,1192,Human,B Cell,Positive,,,ELISA,qualitative binding
+171,25378,D064370,20200505,QIQ54048.1,IAPGQTGVIADYNYKLP,409,Human,B Cell,Positive,,,ELISA,qualitative binding
+172,26610,D064370,20200505,ABE77216.1,I--IN--------------------NSTNVVIRACN---------FEL,115,Human,B Cell,Positive,,,ELISA,qualitative binding
+173,26858,D064370,20200505,ABE77216.1,IKNQCVNFNFNGLTGTGV,519,Mouse,B Cell,Positive,,,biological activity,neutralization
+174,27357,D064370,20200505,QIS60846.1,ILSRLDKVEAEVQIDRL,979,Human,B Cell,Positive,,,ELISA,qualitative binding
+175,22322,D064370,20200505,QIS60846.1,GSFCTQLNR,756,Human,MHC Binding,Negative,HLA-A*33:01,I,purified MHC/competitive/radioactivity,dissociation constant KD (~IC50)
+176,22680,D064370,20200505,ABE77216.1,GTGVLTP-SSKRFQPF,533,Human,MHC Binding,Positive-High,HLA-DRB1*01:01,II,purified MHC/competitive/radioactivity,dissociation constant KD (~IC50)
+177,22808,D064370,20200505,ABE77216.1,GTSAAAYFV,245,Human,MHC Binding,Positive-High,HLA-A*02:02,I,purified MHC/competitive/radioactivity,dissociation constant KD (~IC50)
+178,22848,D064370,20200505,ATO98145.1,GT----------SWFITQR,1059,Human,MHC Binding,Positive-High,HLA-A*11:01,I,purified MHC/competitive/radioactivity,dissociation constant KD (~IC50)
+179,22975,D064370,20200505,AKZ19076.1,GVFVFNGT----------SWFITQR,1060,Human,MHC Binding,Positive-High,HLA-DRB1*01:01,II,purified MHC/competitive/radioactivity,dissociation constant KD (~IC50)
+180,22994,D064370,20200505,QIQ54048.1,GVIADYNYK,415,Human,MHC Binding,Positive-High,HLA-A*03:01,I,purified MHC/competitive/radioactivity,dissociation constant KD (~IC50)
+181,23158,D064370,20200505,ABE77216.1,GVSVITPGTNASSEV,579,Human,MHC Binding,Positive-High,HLA-DRB1*01:01,II,purified MHC/competitive/radioactivity,dissociation constant KD (~IC50)
+182,23200,D064370,20200505,QIS60846.1,GVVFLHVTY,1058,Human,MHC Binding,Negative,HLA-A*03:01,I,purified MHC/competitive/radioactivity,dissociation constant KD (~IC50)
+183,23236,D064370,20200505,ABE77216.1,GVYYPDEIFR,38,Human,MHC Binding,Positive-High,HLA-A*68:01,I,purified MHC/competitive/radioactivity,dissociation constant KD (~IC50)
+184,23293,D064370,20200505,QIS60846.1,GWTFGAGAALQIPFA,884,Human,MHC Binding,Positive-High,HLA-DRB1*01:01,II,purified MHC/competitive/radioactivity,dissociation constant KD (~IC50)
+185,23400,D064370,20200505,ABE77216.1,GYLKPTTFM,254,Human,MHC Binding,Negative,HLA-A*01:01,I,purified MHC/competitive/radioactivity,dissociation constant KD (~IC50)
+186,23401,D064370,20200505,ABE77216.1,GYLKPTTFML,254,Human,MHC Binding,Negative,HLA-A*01:01,I,purified MHC/competitive/radioactivity,dissociation constant KD (~IC50)
+187,23436,D064370,20200505,QIS60846.1,GYQPYRVVVL,503,Human,MHC Binding,Negative,HLA-A*01:01,I,purified MHC/competitive/radioactivity,dissociation constant KD (~IC50)
+188,23519,D064370,20200505,ABE77216.1,HADQLTPAW,610,Human,MHC Binding,Negative,HLA-A*01:01,I,purified MHC/direct/fluorescence,qualitative binding
+189,24976,D064370,20200505,ABE77216.1,HTSSMRGVY,32,Human,MHC Binding,Negative,HLA-A*23:01,I,purified MHC/competitive/radioactivity,dissociation constant KD (~IC50)
+190,24977,D064370,20200505,ABE77216.1,HTSSMRGVYY,32,Chimpanzee,MHC Binding,Negative,Patr-B*01:01,I,purified MHC/competitive/radioactivity,dissociation constant KD (~IC50)
+191,25236,D064370,20200505,ALJ94036.1,IAAYTAALVSGTATA,858,Human,MHC Binding,Positive-High,HLA-DRB1*01:01,II,purified MHC/competitive/radioactivity,dissociation constant KD (~IC50)
+192,25292,D064370,20200505,AVP78042.1,IAGLIAIVMVTILLC,1192,Human,MHC Binding,Positive-Low,HLA-DRB1*01:01,II,purified MHC/competitive/radioactivity,dissociation constant KD (~IC50)
+193,25540,D064370,20200505,ABE77216.1,IDATS---------------------------TGNY,427,Human,MHC Binding,Negative,HLA-A*23:01,I,purified MHC/competitive/radioactivity,dissociation constant KD (~IC50)
+194,25662,D064370,20200505,QIS60846.1,IDRLITGRLQSLQTY,992,Human,MHC Binding,Positive-High,HLA-DRB1*01:01,II,purified MHC/competitive/radioactivity,dissociation constant KD (~IC50)
+195,25754,D064370,20200505,QIQ54048.1,IEDLLFNKVTLADAG,813,Human,MHC Binding,Positive-Intermediate,HLA-DRB1*01:01,II,purified MHC/competitive/radioactivity,dissociation constant KD (~IC50)
+196,26198,D064370,20200505,QIS60846.1,IGAGICASY,665,Human,MHC Binding,Negative,HLA-A*01:01,I,purified MHC/competitive/radioactivity,dissociation constant KD (~IC50)
+197,26710,D064370,20200505,QIS60846.1,IIT-TDNTFV,1113,Human,MHC Binding,Positive,HLA-A*02:01,I,cellular MHC/direct/fluorescence,qualitative binding
+198,27146,D064370,20200505,AVP78042.1,ILLCCMTSC,1203,Human,MHC Binding,Positive,HLA-A*02:01,I,cellular MHC/direct/fluorescence,qualitative binding
+199,27241,D064370,20200505,AIA62277.1,ILPDPL-----------KPT,767,Human,MHC Binding,Positive,HLA-A*02:01,I,cellular MHC/direct/fluorescence,qualitative binding
+200,28512,D064370,20200505,QIS60846.1,ISGINASVVNIQKEIDRLNE,1168,Mouse,B Cell,Positive,,,biological activity,neutralization
+201,28513,D064370,20200505,QIS60846.1,ISGINASVVNIQKEIDRLNEVAKNLNESLIDLQELGKYEQYI,1168,Mouse,B Cell,Positive,,,biological activity,neutralization
+202,28548,D064370,20200505,ABE77216.1,ISITTEVMPVSMAKTSV,701,Human,B Cell,Negative,,,ELISA,qualitative binding
+203,29108,D064370,20200505,QIS60846.1,IT-TDNTFVSGNCDVVIG,1114,Human,B Cell,Negative,,,ELISA,qualitative binding
+204,29666,D064370,20200505,ABE77216.1,IYQTSNFRVVPSGDVVRF,298,Mouse,B Cell,Negative,,,biological activity,neutralization
+205,29832,D064370,20200505,ATO98145.1,KAISQIQESLTTTSTAL,889,Human,B Cell,Positive,,,ELISA,qualitative binding
+206,30098,D064370,20200505,ABE77216.1,KCYGVSATKL,364,Mouse,B Cell,Negative,,,ELISA,qualitative binding
+207,30435,D064370,20200505,QIS60846.1,KEIDRLNEVAKNLNESL,1180,Human,B Cell,Negative,,,ELISA,qualitative binding
+208,30987,D064370,20200505,QIS60846.1,KGIYQTSN,309,Human,B Cell,Positive,,,biological activity,antibody binding
+209,30988,D064370,20200505,ABE77216.1,KGIYQTSNFRVVPSGDVVRF,296,Human,B Cell,Positive,,,ELISA,qualitative binding
+210,31581,D064370,20200505,ABE77216.1,KKISNCVADYSVLYNS-T,342,Human,B Cell,Positive,,,ELISA,qualitative binding
+211,31582,D064370,20200505,ABE77216.1,KKISNCVADYSVLYNS-TF,342,Mouse,B Cell,Negative,,,biological activity,neutralization
+212,32037,D064370,20200505,AHX37569.1,KLNDLCFSNVYADSFVV,376,Human,B Cell,Positive,,,ELISA,qualitative binding
+213,32070,D064370,20200505,ABE77216.1,KLPDDFMGCVLAWNTRN,410,Human,B Cell,Positive,,,ELISA,qualitative binding
+214,32138,D064370,20200505,ABE77216.1,KLRPFERDI,446,Mouse,B Cell,Positive,,,ELISA,qualitative binding
+215,32508,D064370,20200505,QIQ54048.1,KNHTSPDVDLGD-----ISGIN,1152,Human,B Cell,Positive,,,ELISA,qualitative binding
+216,32912,D064370,20200505,AAU93320.1,KPTTFMLKYDENGTITD,257,Human,B Cell,Positive,,,ELISA,qualitative binding
+217,33032,D064370,20200505,QIQ54048.1,KQLSSNFGAISSVLNDI,959,Human,B Cell,Negative,,,ELISA,qualitative binding
+218,28090,D064370,20200505,ABE77216.1,IPTNFSISI,695,Chimpanzee,MHC Binding,Positive-High,Patr-B*13:01,I,purified MHC/competitive/radioactivity,dissociation constant KD (~IC50)
+219,28511,D064370,20200505,QIS60846.1,ISGINASVVNIQKEI,1168,Human,MHC Binding,Positive-Intermediate,HLA-DRB1*01:01,II,purified MHC/competitive/radioactivity,dissociation constant KD (~IC50)
+220,29008,D064370,20200505,ABE77216.1,ITNFRAILTAFSP----------AQ,227,Human,MHC Binding,Positive-High,HLA-DRB1*01:01,II,purified MHC/competitive/radioactivity,dissociation constant KD (~IC50)
+221,29687,D064370,20200505,ABE77216.1,IYST-----GNNVF,620,Human,MHC Binding,Negative,HLA-A*01:01,I,purified MHC/competitive/radioactivity,dissociation constant KD (~IC50)
+222,30097,D064370,20200505,ABE77216.1,KCYGVSATK,364,Human,MHC Binding,Negative,HLA-A*01:01,I,purified MHC/direct/fluorescence,qualitative binding
+223,31425,D064370,20200505,ABE77216.1,KISNCVADY,343,Human,MHC Binding,Negative,HLA-A*01:01,I,purified MHC/competitive/radioactivity,dissociation constant KD (~IC50)
+224,32036,D064370,20200505,ABE77216.1,KLNDLCFSNV,372,Human,MHC Binding,Positive,HLA-A*02:01,I,cellular MHC/competitive/fluorescence,qualitative binding
+225,32068,D064370,20200505,ABE77216.1,KLPDDFMGC,410,Human,MHC Binding,Positive,HLA-A*02:01,I,cellular MHC/direct/fluorescence,qualitative binding
+226,32069,D064370,20200505,ABE77216.1,KLPDDFMGCV,410,Human,MHC Binding,Positive,HLA-A*02:01,I,cellular MHC/competitive/fluorescence,qualitative binding
+227,32082,D064370,20200505,ABE77216.1,KLPLGINITNFRAIL,220,Human,MHC Binding,Positive-High,HLA-DRB1*01:01,II,purified MHC/competitive/radioactivity,dissociation constant KD (~IC50)
+228,32911,D064370,20200505,ABE77216.1,KPTTFMLKY,257,Human,MHC Binding,Negative,HLA-B*07:02,I,purified MHC/competitive/radioactivity,dissociation constant KD (~IC50)
+229,32992,D064370,20200505,YP_003858584.1,KQIANQFNK,906,Human,MHC Binding,Negative,HLA-A*33:01,I,purified MHC/competitive/radioactivity,dissociation constant KD (~IC50)
+230,33038,D064370,20200505,AAU93320.1,KQMY--KTPTLK,767,Human,MHC Binding,Negative,HLA-A*33:01,I,purified MHC/competitive/radioactivity,dissociation constant KD (~IC50)
+231,33039,D064370,20200505,ABF68955.1,KQMY--KTPTLK----YFGGF,767,Human,MHC Binding,Positive-High,HLA-DRB1*01:01,II,purified MHC/competitive/radioactivity,dissociation constant KD (~IC50)
+232,33305,D064370,20200505,ABE77216.1,KSFEIDKGIYQTSNFRVV,290,Mouse,B Cell,Positive,,,biological activity,neutralization
+233,33326,D064370,20200505,AAU93320.1,KSGNF--KHLREFVFKNKDGFLYVYKGYQPIDV,174,Guinea pig,B Cell,Negative,,,biological activity,neutralization
+234,33358,D064370,20200505,ABE77216.1,KSIVAYTMSLG-ADSSIA,671,Human,B Cell,Positive,,,ELISA,qualitative binding
+235,33874,D064370,20200505,YP_003858584.1,KTSVDCNMYICGDSTEC,718,Human,B Cell,Positive,,,ELISA,qualitative binding
+236,34217,D064370,20200505,ATO98145.1,KVTLADAGFMKQYGECL,785,Human,B Cell,Negative,,,ELISA,qualitative binding
+237,34589,D064370,20200505,ABE77216.1,KYRYLRHGKLRPFERD,438,Rabbit,B Cell,Positive-Low,,,immunohistochemistry,qualitative binding
+238,35083,D064370,20200505,ABE77216.1,LCPFGEVF--NATKFPSVY,321,Human,B Cell,Positive,,,ELISA,qualitative binding
+239,36167,D064370,20200505,ABE77216.1,LGINITNFRAILTAFSP,223,Human,B Cell,Positive,,,ELISA,qualitative binding
+240,36579,D064370,20200505,ABE77216.1,LIKNQCVNFNFNGLTGT,518,Human,B Cell,Positive,,,ELISA,qualitative binding
+241,36815,D064370,20200505,ABE77216.1,LKCSVKSFEIDKGIYQT,285,Human,B Cell,Positive,,,ELISA,qualitative binding
+242,36856,D064370,20200505,ATO98145.1,LKGACSCGSCCK-FDEDD,1204,Human,B Cell,Positive,,,ELISA,qualitative binding
+243,36991,D064370,20200505,ABE77216.1,LKPIFKLPLGINITNFR,215,Human,B Cell,Positive,,,ELISA,qualitative binding
+244,37290,D064370,20200505,ATO98193.1,LLFNKVTLADAGFMKQYGECLG---DINA,788,Human,B Cell,Positive,,,ELISA,qualitative binding
+245,37316,D064370,20200505,ACO72893.1,LLGCIGSTCA,847,Mouse,B Cell,Negative,,,ELISA,qualitative binding
+246,37757,D064370,20200505,ABE77216.1,L----L-RSTS-----QK,664,Human,B Cell,Positive,,,biological activity,antibody binding
+247,37758,D064370,20200505,ABE77216.1,L----L-RSTS-----QKSIVAYTMSL,664,Human,B Cell,Positive,,,ELISA,qualitative binding
+248,33132,D064370,20200505,ABE77216.1,KRFQPFQQF,542,Human,MHC Binding,Negative,HLA-A*01:01,I,purified MHC/direct/fluorescence,qualitative binding
+249,33303,D064370,20200505,ABE77216.1,KSFEIDKGIY,290,Human,MHC Binding,Negative,HLA-A*23:01,I,purified MHC/competitive/radioactivity,dissociation constant KD (~IC50)
+250,33357,D064370,20200505,ABE77216.1,KSIVAYTMSLG-ADSS,671,Human,MHC Binding,Positive-High,HLA-DRB1*01:01,II,purified MHC/competitive/radioactivity,dissociation constant KD (~IC50)
+251,33873,D064370,20200505,YP_003858584.1,KTSVDCNMY,718,Chimpanzee,MHC Binding,Negative,Patr-B*01:01,I,purified MHC/competitive/radioactivity,dissociation constant KD (~IC50)
+252,35205,D064370,20200505,QIQ54048.1,LDKYFKNHTSPDVDL,1147,Human,MHC Binding,Positive-High,HLA-DRB1*01:01,II,purified MHC/competitive/radioactivity,dissociation constant KD (~IC50)
+253,36050,D064370,20200505,ABE77216.1,LG-ADSSIAY,680,Human,MHC Binding,Negative,HLA-A*23:01,I,purified MHC/competitive/radioactivity,dissociation constant KD (~IC50)
+254,36075,D064370,20200505,QIS60846.1,LGD-----ISGINASVVNIQ,1165,Human,MHC Binding,Positive-Intermediate,HLA-DRB1*01:01,II,purified MHC/competitive/radioactivity,dissociation constant KD (~IC50)
+255,36103,D064370,20200505,QIS60846.1,LGFIAGLIAIVMVTI,1217,Human,MHC Binding,Positive-Low,HLA-DRB1*01:01,II,purified MHC/competitive/radioactivity,dissociation constant KD (~IC50)
+256,36458,D064370,20200505,AVP78042.1,LIAIVMVTILLCCMT,1195,Human,MHC Binding,Positive-Low,HLA-DRB1*01:01,II,purified MHC/competitive/radioactivity,dissociation constant KD (~IC50)
+257,36481,D064370,20200505,QIS60846.1,LIDLQELGKY,1196,Human,MHC Binding,Negative,HLA-A*23:01,I,purified MHC/competitive/radioactivity,dissociation constant KD (~IC50)
+258,36724,D064370,20200505,QIS60846.1,LITGRLQSL,995,Human,MHC Binding,Positive-High,HLA-A2,I,cellular MHC/direct/fluorescence,qualitative binding
+259,36990,D064370,20200505,ABE77216.1,LKPIFKLPLGINITN,215,Human,MHC Binding,Positive-High,HLA-DRB1*01:01,II,purified MHC/competitive/radioactivity,dissociation constant KD (~IC50)
+260,37289,D064370,20200505,QIQ54048.1,LLFNKVTLA,816,Human,MHC Binding,Positive,HLA-A*02:01,I,cellular MHC/direct/fluorescence,qualitative binding
+261,37544,D064370,20200505,QIS60846.1,LLLQYGSFC,751,Human,MHC Binding,Negative,HLA-A*02:01,I,cellular MHC/direct/fluorescence,qualitative binding
+262,37724,D064370,20200505,QIS60846.1,LLQYGSFCT,752,Human,MHC Binding,Positive,HLA-A*02:01,I,cellular MHC/direct/fluorescence,qualitative binding
+263,37845,D064370,20200505,AIA62277.1,LLTDDMIAA,826,Human,MHC Binding,Positive,HLA-A*02:01,I,cellular MHC/direct/fluorescence,qualitative binding
+264,38118,D064370,20200505,YP_003858584.1,LMSFPQAAPHGVVFLHV,1034,Human,B Cell,Positive,,,ELISA,qualitative binding
+265,39023,D064370,20200505,AVP78042.1,LQYGSFCTQLNRALSGI,725,Human,B Cell,Positive,,,ELISA,qualitative binding
+266,39110,D064370,20200505,ABE77216.1,LRHGKLRPFERDISNVP,442,Human,B Cell,Negative,,,ELISA,qualitative binding
+267,40075,D064370,20200505,ABE77216.1,LTPAWRIYST-----GNNVFQ,614,Chicken,B Cell,Positive-Low,,,ELISA,qualitative binding
+268,40905,D064370,20200505,ABE77216.1,LYQDVNCTDVSTAIHAD,596,Human,B Cell,Positive,,,ELISA,qualitative binding
+269,41177,D064370,20200505,QIQ54048.1,MAYRFNGIGVTQNVLYE,897,Human,B Cell,Positive,,,ELISA,qualitative binding
+270,41504,D064370,20200505,ABE77216.1,MFIFLLFLTLTSG--------------SDLD,0,Human,B Cell,Positive,,,ELISA,qualitative binding
+271,41984,D064370,20200505,AAU93320.1,MLKYDENGTITDAVDCS,262,Human,B Cell,Positive,,,ELISA,qualitative binding
+272,38117,D064370,20200505,YP_003858584.1,LMSFPQAAPHGVVFL,1034,Human,MHC Binding,Positive-High,HLA-DRB1*01:01,II,purified MHC/competitive/radioactivity,dissociation constant KD (~IC50)
+273,38353,D064370,20200505,QIQ54048.1,LNTLVKQLSSNFGAI,954,Human,MHC Binding,Positive-High,HLA-DRB1*01:01,II,purified MHC/competitive/radioactivity,dissociation constant KD (~IC50)
+274,38429,D064370,20200505,ABE77216.1,LPDDFMGCVL,411,Human,MHC Binding,Negative,HLA-B*54:01,I,purified MHC/competitive/radioactivity,dissociation constant KD (~IC50)
+275,38489,D064370,20200505,ABE77216.1,LPFYSNVTGF,59,Human,MHC Binding,Positive-High,HLA-B*35:01,I,purified MHC/competitive/radioactivity,dissociation constant KD (~IC50)
+276,38621,D064370,20200505,AIA62277.1,LPPLLTDDMIAAYTA,823,Human,MHC Binding,Positive-High,HLA-DRB1*01:01,II,purified MHC/competitive/radioactivity,dissociation constant KD (~IC50)
+277,38831,D064370,20200505,QIQ54048.1,LQDVVNQNAQALNTL,943,Human,MHC Binding,Positive-High,HLA-DRB1*01:01,II,purified MHC/competitive/radioactivity,dissociation constant KD (~IC50)
+278,38855,D064370,20200505,QIS60846.1,LQIPFAMQM,893,Human,MHC Binding,Negative,HLA-A*01:01,I,purified MHC/direct/fluorescence,qualitative binding
+279,38990,D064370,20200505,QIS60846.1,LQSLQTYVTQQLIRA,1000,Human,MHC Binding,Positive-High,HLA-DRB1*01:01,II,purified MHC/competitive/radioactivity,dissociation constant KD (~IC50)
+280,39003,D064370,20200505,QIS60846.1,LQTYVTQQLIRAAEI,1003,Human,MHC Binding,Positive-High,HLA-DRB1*01:01,II,purified MHC/competitive/radioactivity,dissociation constant KD (~IC50)
+281,39837,D064370,20200505,AIA62277.1,LTDDMIAAY,827,Human,MHC Binding,Negative,HLA-A*02:01,I,purified MHC/direct/fluorescence,qualitative binding
+282,40134,D064370,20200505,ABE77216.1,LTQDLFLPFY,53,Human,MHC Binding,Negative,HLA-A*23:01,I,purified MHC/competitive/radioactivity,dissociation constant KD (~IC50)
+283,40884,D064370,20200505,ABE77216.1,LYNS-TFFSTF,354,Chimpanzee,MHC Binding,Negative,Patr-A*07:01,I,purified MHC/competitive/radioactivity,dissociation constant KD (~IC50)
+284,40989,D064370,20200505,AAU93320.1,LYVYKGYQPIDVV----RD,193,Human,MHC Binding,Positive-High,HLA-DRB1*01:01,II,purified MHC/competitive/radioactivity,dissociation constant KD (~IC50)
+285,41503,D064370,20200505,ABE77216.1,MFIFLLFLTLTSG--------------SD,0,Human,MHC Binding,Positive-Intermediate,HLA-DRB1*01:01,II,purified MHC/competitive/radioactivity,dissociation constant KD (~IC50)
+286,41683,D064370,20200505,YP_003858584.1,MIAAYTAAL,854,Human,MHC Binding,Positive-High,HLA-A*02:01,I,purified MHC/competitive/radioactivity,dissociation constant KD (~IC50)
+287,41701,D064370,20200505,ABE77216.1,MIFDNAFNC,150,Human,MHC Binding,Negative,HLA-A*02:01,I,cellular MHC/direct/fluorescence,qualitative binding
+288,41983,D064370,20200505,AAU93320.1,MLKYDENGTITDAVD,262,Human,MHC Binding,Positive-Intermediate,HLA-DRB1*01:01,II,purified MHC/competitive/radioactivity,dissociation constant KD (~IC50)
+289,39670,D064370,20200505,ACN89743.1,LSSLLRY-VQAESLSC,357,Mouse,T Cell,Positive,H2-b class II,II,3H-thymidine,proliferation
+290,42999,D064370,20200505,AVP78042.1,MVTILLCCMTSCCSCLK,1200,Human,B Cell,Positive,,,ELISA,qualitative binding
+291,43145,D064370,20200505,AAU93320.1,NAFNCTFEYISDAFSLD,154,Human,B Cell,Positive,,,ELISA,qualitative binding
+292,43264,D064370,20200505,ABE77216.1,NAPATVCGPK-L-----STDLIK,504,Human,B Cell,Positive,,,ELISA,qualitative binding
+293,43313,D064370,20200505,ABE77216.1,NASSEVAVLYQDVNCTD,588,Human,B Cell,Positive,,,ELISA,qualitative binding
+294,43825,D064370,20200505,ABE77216.1,N---------FELCDNPFFAVSKP-M-G,128,Human,B Cell,Positive,,,ELISA,qualitative binding
+295,43834,D064370,20200505,AGC74176.1,NFFSPQIIT-TDNTFVSG,1075,Human,B Cell,Negative,,,ELISA,qualitative binding
+296,43893,D064370,20200505,ABE77216.1,NFNGLTGTGVLTP-SSKR,527,Human,B Cell,Positive,,,ELISA,qualitative binding
+297,43894,D064370,20200505,ABE77216.1,NFNGLTGTGVLTP-SSKRF,527,Mouse,B Cell,Positive,,,biological activity,neutralization
+298,43916,D064370,20200505,ABE77216.1,NFSISI,698,Human,B Cell,Positive,,,biological activity,antibody binding
+299,43924,D064370,20200505,AIA62277.1,NFSQILPDPL-----------KPTKRSF,763,Human,B Cell,Negative,,,ELISA,qualitative binding
+300,44198,D064370,20200505,ABE77216.1,NIDATS---------------------------TGNYNYKYRYL,426,Human,B Cell,Positive,,,ELISA,qualitative binding
+301,44199,D064370,20200505,ABE77216.1,NIDATS---------------------------TGNYNYKYRYLR,426,Mouse,B Cell,Negative,,,biological activity,neutralization
+302,45151,D064370,20200505,ABE77216.1,NNKSQSVII--IN--------------------NSTNVV,107,Human,B Cell,Positive,,,ELISA,qualitative binding
+303,45506,D064370,20200505,ABE77216.1,NPVIPFKDGIYFAATEK,77,Human,B Cell,Positive,,,ELISA,qualitative binding
+304,46240,D064370,20200505,ATO98132.1,NTREVFAQVKQMY--KTPT,759,Human,B Cell,Negative,,,ELISA,qualitative binding
+305,46242,D064370,20200505,ABE77216.1,NTRNIDATS---------------------------TGN,423,Human,B Cell,Positive,,,ELISA,qualitative binding
+306,46379,D064370,20200505,ABE77216.1,NVFQTQAGCLIGAEHVD,626,Human,B Cell,Positive,,,ELISA,qualitative binding
+307,46522,D064370,20200505,AHX37569.1,NVYADSFVVKGDDVRQI,384,Human,B Cell,Positive,,,ELISA,qualitative binding
+308,46641,D064370,20200505,ABE77216.1,NYKYRYLRHGKLRPFERDISNVP,436,Mouse,B Cell,Positive-High,,,ELISA,qualitative binding
+309,46680,D064370,20200505,ABE77216.1,NYNYKYRYLR,434,Mouse,B Cell,Negative,,,ELISA,qualitative binding
+310,46681,D064370,20200505,ABE77216.1,NYNYKYRYLRHGKLRPF,434,Human,B Cell,Positive,,,ELISA,qualitative binding
+311,46822,D064370,20200505,AAU93320.1,PAICHE---GKAYFPREGVFVFNGT----------SWFITQRNFFS,1060,Human,B Cell,Positive,,,ELISA,qualitative binding
+312,47157,D064370,20200505,AIA62277.1,PDPL-----------KPTKR,769,Mouse,B Cell,Positive,,,ELISA,qualitative binding
+313,47341,D064370,20200505,QIQ54048.1,PELDSFKEELDKYFKNH,1138,Human,B Cell,Negative,,,ELISA,qualitative binding
+314,47479,D064370,20200505,QIS60846.1,PFAMQMAYRFNGIGVTQ,896,Human,B Cell,Positive,,,ELISA,qualitative binding
+315,47565,D064370,20200505,ABE77216.1,PFS-------------------PDGKPCT-PP,458,Human,B Cell,Positive,,,ELISA,qualitative binding
+316,47823,D064370,20200505,QDF43815.1,PHGVVFLHVTYVPSQER,1024,Human,B Cell,Positive,,,ELISA,qualitative binding
+317,48382,D064370,20200505,AAU93320.1,PL-----------KPTKRSFIEDLLF,790,Human,B Cell,Positive,,,ELISA,qualitative binding
+318,48383,D064370,20200505,AAU93320.1,PL-----------KPTKRSFIEDLLFNK,790,Human,B Cell,Positive,,,ELISA,qualitative binding
+319,48395,D064370,20200505,ACO72893.1,PLLGCIGSTCAEDGN,846,Mouse,B Cell,Positive,,,ELISA,qualitative binding
+320,42873,D064370,20200505,QIS60846.1,MTSCCSCLK,1236,Human,MHC Binding,Positive-Intermediate,HLA-A*11:01,I,purified MHC/competitive/radioactivity,dissociation constant KD (~IC50)
+321,43144,D064370,20200505,ABE77216.1,NAFNCTFEY,154,Human,MHC Binding,Negative,HLA-A*31:01,I,purified MHC/competitive/radioactivity,dissociation constant KD (~IC50)
+322,43363,D064370,20200505,AVP78042.1,NCDVVIGIINNTVYD,1096,Human,MHC Binding,Positive-High,HLA-DRB1*01:01,II,purified MHC/competitive/radioactivity,dissociation constant KD (~IC50)
+323,43863,D064370,20200505,ABE77216.1,NF--KHLREFVF,177,Human,MHC Binding,Negative,HLA-A*01:01,I,purified MHC/competitive/radioactivity,dissociation constant KD (~IC50)
+324,44170,D064370,20200505,AAR07631.1,NH--------------------TFGNPVIPFKDGI,72,Human,MHC Binding,Positive-Low,HLA-DRB1*01:01,II,purified MHC/competitive/radioactivity,dissociation constant KD (~IC50)
+325,44197,D064370,20200505,ABE77216.1,NIDATS---------------------------TGNY,426,Human,MHC Binding,Negative,HLA-A*23:01,I,purified MHC/competitive/radioactivity,dissociation constant KD (~IC50)
+326,44472,D064370,20200505,AAU93320.1,NKDGFLYVY,188,Human,MHC Binding,Negative,HLA-A*01:01,I,purified MHC/competitive/radioactivity,dissociation constant KD (~IC50)
+327,44814,D064370,20200505,QIS60846.1,NLNESLIDL,1191,Human,MHC Binding,Negative,HLA-A*02:01,I,purified MHC/direct/fluorescence,qualitative binding
+328,45346,D064370,20200505,ABE77216.1,NPFFAVSKP-M-GT---QTH,134,Human,MHC Binding,Positive-High,HLA-DRB1*01:01,II,purified MHC/competitive/radioactivity,dissociation constant KD (~IC50)
+329,45653,D064370,20200505,AAU93320.1,NRALSGIAAEQDRNT,745,Human,MHC Binding,Positive-High,HLA-DRB1*01:01,II,purified MHC/competitive/radioactivity,dissociation constant KD (~IC50)
+330,46520,D064370,20200505,QIQ54048.1,NVYADSFVVK,393,Human,MHC Binding,Positive-High,HLA-A*68:01,I,purified MHC/competitive/radioactivity,dissociation constant KD (~IC50)
+331,46679,D064370,20200505,ABE77216.1,NYNYKYRYL,434,Human,MHC Binding,Negative,HLA-A*01:01,I,purified MHC/competitive/radioactivity,dissociation constant KD (~IC50)
+332,47041,D064370,20200505,QIS60846.1,PCSFGGVSVITPGTN,588,Human,MHC Binding,Positive-High,HLA-DRB1*01:01,II,purified MHC/competitive/radioactivity,dissociation constant KD (~IC50)
+333,47070,D064370,20200505,ABE77216.1,PDDFMGCVLAWNTRN,412,Human,MHC Binding,Positive-High,HLA-DRB1*01:01,II,purified MHC/competitive/radioactivity,dissociation constant KD (~IC50)
+334,47822,D064370,20200505,YP_003858584.1,PHGVVFLHVTYVPSQ,1042,Human,MHC Binding,Positive-High,HLA-DRB1*01:01,II,purified MHC/competitive/radioactivity,dissociation constant KD (~IC50)
+335,48554,D064370,20200505,ABE77216.1,P-M-GT---QTHTMIFDNAFNC,142,Human,B Cell,Positive,,,ELISA,qualitative binding
+336,49505,D064370,20200505,ABE77216.1,P-SSKRFQPFQQFGRD,539,Rabbit,B Cell,Positive-High,,,immunohistochemistry,qualitative binding
+337,49506,D064370,20200505,ABE77216.1,P-SSKRFQPFQQFGRDVSDFT,539,Human,B Cell,Positive,,,ELISA,qualitative binding
+338,49507,D064370,20200505,ABE77216.1,P-SSKRFQPFQQFGRDVSDFTDSVRDPKTSE,539,Human,B Cell,Positive,,,ELISA,qualitative binding
+339,49557,D064370,20200505,ABE77216.1,PSVYAWERKKISNCVAD,334,Human,B Cell,Positive,,,ELISA,qualitative binding
+340,49968,D064370,20200505,AAU93320.1,PVSMAKTSVDCNMYICGDS,709,Human,B Cell,Positive,,,ELISA,qualitative binding
+341,50058,D064370,20200505,YP_003858584.1,PWYVWLGFIAGLIAIVM,1198,Human,B Cell,Positive,,,ELISA,qualitative binding
+342,50311,D064370,20200505,QIQ54048.1,QALNTLVKQLSSNFGAI,952,Human,B Cell,Positive,,,ELISA,qualitative binding
+343,50531,D064370,20200505,ABE77216.1,QDVNCTDVSTAIHADQLTPAWR,598,Human,B Cell,Positive,,,ELISA,qualitative binding
+344,50767,D064370,20200505,ABE77216.1,QFGRDVSDFTDSVRDPK,549,Human,B Cell,Positive,,,ELISA,qualitative binding
+345,51043,D064370,20200505,ATO98145.1,QIANQFNKAISQIQESL,882,Human,B Cell,Positive,,,ELISA,qualitative binding
+346,51097,D064370,20200505,AAU93320.1,QILPDPL-----------KPTKRSFIEDLLFNKVTLA,785,Human,B Cell,Positive,,,biological activity,neutralization
+347,51379,D064370,20200505,QIS60846.1,QLIRAAEIRASANLAAT,1010,Human,B Cell,Positive,,,ELISA,qualitative binding
+348,51456,D064370,20200505,AAU93320.1,QLNRALSGIAAEQDRNT,743,Human,B Cell,Positive,,,ELISA,qualitative binding
+349,51831,D064370,20200505,ABE77216.1,QPFQQFGRDVSDFTDSVRDPKTSEILDISPCSFGGVSVITPGTNASSEVA,545,Human,B Cell,Negative,,,western blot,qualitative binding
+350,52020,D064370,20200505,QIS60846.1,QQFGRD,562,Human,B Cell,Positive,,,biological activity,antibody binding
+351,52021,D064370,20200505,ABE77216.1,QQFGRDVSDF,548,Mouse,B Cell,Positive,,,ELISA,qualitative binding
+352,53116,D064370,20200505,ABF68959.1,RAILTAFSP----------AQDIWGTS,231,Human,B Cell,Positive,,,ELISA,qualitative binding
+353,53202,D064370,20200505,QIS60846.1,RASANLAATKMSECVLG,1018,Human,B Cell,Positive,,,ELISA,qualitative binding
+354,53435,D064370,20200505,ABE77216.1,RDVSDFTDSVRDPKTSEI,552,Human,B Cell,Positive,,,immuno staining,qualitative binding
+355,53766,D064370,20200505,ABE77216.1,RFQPFQQFGRDVSDFTD,543,Human,B Cell,Positive,,,ELISA,qualitative binding
+356,48746,D064370,20200505,ABE77216.1,PPALNCYW---------------------------PL,468,Human,MHC Binding,Negative,HLA-B*07:02,I,purified MHC/competitive/radioactivity,dissociation constant KD (~IC50)
+357,49374,D064370,20200505,ABE77216.1,PSGFNTLKPIFKLPL,209,Human,MHC Binding,Positive-High,HLA-DRB1*01:01,II,purified MHC/competitive/radioactivity,dissociation constant KD (~IC50)
+358,49720,D064370,20200505,ABE77216.1,PTNFSISITTEVMPV,696,Human,MHC Binding,Positive-High,HLA-DRB1*01:01,II,purified MHC/competitive/radioactivity,dissociation constant KD (~IC50)
+359,50166,D064370,20200505,QIS60846.1,PYRVVVLSF,506,Human,MHC Binding,Negative,HLA-A*29:02,I,purified MHC/competitive/radioactivity,dissociation constant KD (~IC50)
+360,50641,D064370,20200505,QIS60846.1,QELGKYEQYI,1200,Human,MHC Binding,Negative,HLA-B*18:01,I,purified MHC/competitive/radioactivity,dissociation constant KD (~IC50)
+361,50697,D064370,20200505,ATO98145.1,QESLTTTSTA,895,Human,MHC Binding,Negative,HLA-B*18:01,I,purified MHC/competitive/radioactivity,dissociation constant KD (~IC50)
+362,51112,D064370,20200505,QIS60846.1,QIPFAMQMAYRFNGI,894,Human,MHC Binding,Positive-High,HLA-DRB1*01:01,II,purified MHC/competitive/radioactivity,dissociation constant KD (~IC50)
+363,51251,D064370,20200505,ABE77216.1,QKSIVAYTMSLG-ADS,670,Human,MHC Binding,Positive-High,HLA-DRB1*01:01,II,purified MHC/competitive/radioactivity,dissociation constant KD (~IC50)
+364,51659,D064370,20200505,ABF68955.1,QMY--KTPTLK----Y,768,Chimpanzee,MHC Binding,Negative,Patr-B*01:01,I,purified MHC/competitive/radioactivity,dissociation constant KD (~IC50)
+365,51999,D064370,20200505,QIS60846.1,QPYRVVVLSF,505,Human,MHC Binding,Negative,HLA-B*35:01,I,purified MHC/competitive/radioactivity,dissociation constant KD (~IC50)
+366,52057,D064370,20200505,QIS60846.1,QQLIRAAEIRASANL,1009,Human,MHC Binding,Positive-High,HLA-DRB1*01:01,II,purified MHC/competitive/radioactivity,dissociation constant KD (~IC50)
+367,52236,D064370,20200505,AGC74176.1,QRNFFSPQIIT-TDNT,1073,Human,MHC Binding,Positive-Intermediate,HLA-DRB1*01:01,II,purified MHC/competitive/radioactivity,dissociation constant KD (~IC50)
+368,52448,D064370,20200505,ABE77216.1,QSVII--IN--------------------NSTNVVIR,111,Human,MHC Binding,Positive-Intermediate,HLA-DRB1*01:01,II,purified MHC/competitive/radioactivity,dissociation constant KD (~IC50)
+369,52672,D064370,20200505,QIS60846.1,QTYVTQQLIRAAEIR,1004,Human,MHC Binding,Positive-High,HLA-DRB1*01:01,II,purified MHC/competitive/radioactivity,dissociation constant KD (~IC50)
+370,52953,D064370,20200505,YP_003858584.1,QYIKWPWYVW,1193,Chimpanzee,MHC Binding,Negative,Patr-A*07:01,I,purified MHC/competitive/radioactivity,dissociation constant KD (~IC50)
+371,53307,D064370,20200505,ACN89743.1,RCQIFANI,598,Mouse,MHC Binding,Positive,H2-Kb,I,cellular MHC,qualitative binding
+372,53500,D064370,20200505,ABE77216.1,REFVFKNKDG,182,Human,MHC Binding,Negative,HLA-B*18:01,I,purified MHC/competitive/radioactivity,dissociation constant KD (~IC50)
+373,53516,D064370,20200505,AKZ19076.1,REGVFVFNG,1058,Human,MHC Binding,Negative,HLA-B*18:01,I,purified MHC/competitive/radioactivity,dissociation constant KD (~IC50)
+374,53517,D064370,20200505,AKZ19076.1,REGVFVFNGT,1058,Human,MHC Binding,Negative,HLA-B*18:01,I,purified MHC/competitive/radioactivity,dissociation constant KD (~IC50)
+375,53764,D064370,20200505,ABE77216.1,RFQPFQQFGR,543,Human,MHC Binding,Negative,HLA-A*03:01,I,purified MHC/competitive/radioactivity,dissociation constant KD (~IC50)
+376,53789,D064370,20200505,ARB66065.1,RFTNFEPFT,364,Rabbit,B Cell,Positive,,,ELISA,qualitative binding
+377,54599,D064370,20200505,QIS60846.1,RLITGRLQSLQTYVTQQ,994,Human,B Cell,Positive,,,ELISA,qualitative binding
+378,54989,D064370,20200505,QDF43815.1,RNFTTAPAICHE---GKAYF,1040,Human,B Cell,Positive,,,ELISA,qualitative binding
+379,55077,D064370,20200505,ABF68955.1,RNTREVFAQVKQMY--KTPTLK----YFG,757,Rabbit,B Cell,Negative,,,biological activity,neutralization
+380,55148,D064370,20200505,ABE77216.1,RPFERDISNV,448,Mouse,B Cell,Negative,,,biological activity,neutralization
+381,55149,D064370,20200505,ABE77216.1,RPFERDISNVPFS-------------------PDGK,448,Human,B Cell,Positive,,,ELISA,qualitative binding
+382,57196,D064370,20200505,ABE77216.1,SDFTDSVRDPKTS,555,Mouse,B Cell,Positive-Low,,,ELISA,qualitative binding
+383,58001,D064370,20200505,ABE77216.1,SGDVVRF-PNITN-LCPFG,309,Human,B Cell,Positive,,,ELISA,qualitative binding
+384,58143,D064370,20200505,AVP78042.1,SGNCDVVIGIINNTVYD,1094,Human,B Cell,Positive,,,ELISA,qualitative binding
+385,59120,D064370,20200505,ABE77216.1,SLG-ADSSIAYSNNTIAI,679,Human,B Cell,Positive,,,ELISA,qualitative binding
+386,59425,D064370,20200505,QIS60846.1,SLQTYVTQQLIRAAEIR,1002,Human,B Cell,Positive,,,ELISA,qualitative binding
+387,59944,D064370,20200505,ABE77216.1,SNVPFS-------------------PDGKPCT-PPAL,455,Human,B Cell,Positive,,,ELISA,qualitative binding
+388,59985,D064370,20200505,ABF68959.1,SP----------AQDIWGTSAAAYFVG,238,Human,B Cell,Positive,,,ELISA,qualitative binding
+389,60014,D064370,20200505,ABE77216.1,S-------------------PDGKPCT-PPALNCYW---------------------------P,460,Human,B Cell,Positive,,,ELISA,qualitative binding
+390,60024,D064370,20200505,QIS60846.1,SPDVDLGD-----ISGINAS,1160,Mouse,B Cell,Positive,,,ELISA,qualitative binding
+391,54507,D064370,20200505,QIS60846.1,RLDKVEAEV,982,Human,MHC Binding,Positive-High,HLA-A*02:01,I,purified MHC/competitive/radioactivity,dissociation constant KD (~IC50)
+392,54680,D064370,20200505,QIS60846.1,RLNEVAKNL,1184,Human,MHC Binding,Positive,HLA-A*02:01,I,cellular MHC/direct/fluorescence,qualitative binding
+393,54725,D064370,20200505,QIS60846.1,RLQSLQTYV,999,Human,MHC Binding,Positive,HLA-A*02:01,I,cellular MHC/direct/fluorescence,qualitative binding
+394,54985,D064370,20200505,AGC74176.1,RNFFSPQIIT-TDNTF,1074,Human,MHC Binding,Positive-Intermediate,HLA-DRB1*01:01,II,purified MHC/competitive/radioactivity,dissociation constant KD (~IC50)
+395,56252,D064370,20200505,QIS60846.1,RVDFCGKGY,1038,Human,MHC Binding,Negative,HLA-A*01:01,I,purified MHC/direct/fluorescence,qualitative binding
+396,56691,D064370,20200505,ABE77216.1,SAAAYFVGY,247,Chimpanzee,MHC Binding,Negative,Patr-B*01:01,I,purified MHC/competitive/radioactivity,dissociation constant KD (~IC50)
+397,57592,D064370,20200505,QIS60846.1,SEPVLKGVKL,1260,Human,MHC Binding,Negative,HLA-B*18:01,I,purified MHC/competitive/radioactivity,dissociation constant KD (~IC50)
+398,57659,D064370,20200505,ABE77216.1,SEVAVLYQDV,591,Human,MHC Binding,Positive-Intermediate,HLA-B*40:02,I,purified MHC/competitive/radioactivity,dissociation constant KD (~IC50)
+399,57750,D064370,20200505,QHR63300.2,SFELLNAPATVCGPK,513,Human,MHC Binding,Positive-High,HLA-DRB1*01:01,II,purified MHC/competitive/radioactivity,dissociation constant KD (~IC50)
+400,57792,D064370,20200505,QIQ54048.1,SFIEDLLFNK,811,Human,MHC Binding,Negative,HLA-A*03:01,I,purified MHC/competitive/radioactivity,dissociation constant KD (~IC50)
+401,58455,D064370,20200505,ABE77216.1,SIAYSNNTIAIPTNF,685,Human,MHC Binding,Positive-High,HLA-DRB1*01:01,II,purified MHC/competitive/radioactivity,dissociation constant KD (~IC50)
+402,58704,D064370,20200505,ABE77216.1,SISITTEVMPVSMAK,700,Human,MHC Binding,Positive-Intermediate,HLA-DRB1*01:01,II,purified MHC/competitive/radioactivity,dissociation constant KD (~IC50)
+403,58730,D064370,20200505,ABE77216.1,SIVAYTMSL,672,Human,MHC Binding,Positive-High,HLA-A*02:01,I,purified MHC/competitive/radioactivity,dissociation constant KD (~IC50)
+404,59161,D064370,20200505,QIS60846.1,SLIDLQELGK,1195,Human,MHC Binding,Positive-Intermediate,HLA-A*03:01,I,purified MHC/competitive/radioactivity,dissociation constant KD (~IC50)
+405,59301,D064370,20200505,ABE77216.1,SL----L-RSTS-----QK,663,Human,MHC Binding,Negative,HLA-A*33:01,I,purified MHC/competitive/radioactivity,dissociation constant KD (~IC50)
+406,60978,D064370,20200505,ABE77216.1,SSEVAVLYQDVNCTDV,590,Chicken,B Cell,Positive-Intermediate,,,ELISA,qualitative binding
+407,61516,D064370,20200505,ABE77216.1,STAIHADQLTPAWRIY,606,Chicken,B Cell,Positive-Intermediate,,,ELISA,qualitative binding
+408,61598,D064370,20200505,ABE77216.1,S-TFFSTFKCYGVSATKL,357,Mouse,B Cell,Negative,,,biological activity,neutralization
+409,61631,D064370,20200505,ABE77216.1,ST-----GNNVFQTQAGCLIG,622,Chicken,B Cell,Positive-Low,,,ELISA,qualitative binding
+410,62403,D064370,20200505,ABE77216.1,SVYAWERKKISNCVADY,335,Mouse,B Cell,Positive,,,ELISA,qualitative binding
+411,62872,D064370,20200505,AVP78042.1,TAGWTFGAGAALQIPFA,854,Human,B Cell,Positive,,,ELISA,qualitative binding
+412,62908,D064370,20200505,ATO98145.1,TALGKLQDVVNQNAQAL,903,Human,B Cell,Positive,,,ELISA,qualitative binding
+413,63120,D064370,20200505,ABE77216.1,TDAVDCSQNPLAELKCSVKSF,272,Rabbit,B Cell,Positive,,,western blot,qualitative binding
+414,63266,D064370,20200505,ABE77216.1,TDVSTAIHADQLTPAWRIYST-----G,603,Human,B Cell,Positive,,,ELISA,qualitative binding
+415,63309,D064370,20200505,ATO98157.1,TECANLLLQYGSFCTQL,728,Human,B Cell,Positive,,,ELISA,qualitative binding
+416,64009,D064370,20200505,ARB66065.1,TGYRFTNFE,361,Rabbit,B Cell,Positive,,,ELISA,qualitative binding
+417,64085,D064370,20200505,ABE77216.1,THTMIFDNAFNCTFEYI,147,Human,B Cell,Negative,,,ELISA,qualitative binding
+418,64477,D064370,20200505,ABE77216.1,TITDAVDCSQNPLAELK,270,Human,B Cell,Positive,,,ELISA,qualitative binding
+419,64563,D064370,20200505,ABE77216.1,TKFPSVYAWERKKISNCVAD,331,Rabbit,B Cell,Negative,,,biological activity,neutralization
+420,64888,D064370,20200505,ABF68955.1,TLK----YFGGFNFSQILPDP,774,Human,B Cell,Positive,,,ELISA,qualitative binding
+421,60463,D064370,20200505,AIA62277.1,SQILPDPL-----------K,765,Human,MHC Binding,Negative,HLA-A*03:01,I,purified MHC/competitive/radioactivity,dissociation constant KD (~IC50)
+422,60515,D064370,20200505,ABE77216.1,SQNPLAELK,278,Human,MHC Binding,Negative,HLA-A*03:01,I,purified MHC/competitive/radioactivity,dissociation constant KD (~IC50)
+423,61229,D064370,20200505,QIQ54048.1,SSNFGAISSVLNDIL,962,Human,MHC Binding,Positive-High,HLA-DRB1*01:01,II,purified MHC/competitive/radioactivity,dissociation constant KD (~IC50)
+424,61515,D064370,20200505,ABE77216.1,STAIHADQLTPAWRI,606,Human,MHC Binding,Positive-High,HLA-DRB1*01:01,II,purified MHC/competitive/radioactivity,dissociation constant KD (~IC50)
+425,61554,D064370,20200505,ABE77216.1,STDLIKNQCVNFNFN,515,Human,MHC Binding,Positive-Intermediate,HLA-DRB1*01:01,II,purified MHC/competitive/radioactivity,dissociation constant KD (~IC50)
+426,61632,D064370,20200505,ABE77216.1,S---------------------------TGNYNYKY,431,Chimpanzee,MHC Binding,Negative,Patr-B*01:01,I,purified MHC/competitive/radioactivity,dissociation constant KD (~IC50)
+427,61633,D064370,20200505,ABE77216.1,S---------------------------TGNYNYKYR,431,Human,MHC Binding,Positive-High,HLA-A*31:01,I,purified MHC/competitive/radioactivity,dissociation constant KD (~IC50)
+428,61908,D064370,20200505,ABE77216.1,STS-----QKSIVAY,667,Chimpanzee,MHC Binding,Negative,Patr-B*01:01,I,purified MHC/competitive/radioactivity,dissociation constant KD (~IC50)
+429,62163,D064370,20200505,ABE77216.1,SVII--IN--------------------NSTNVVIRA,112,Human,MHC Binding,Positive-Intermediate,HLA-DRB1*01:01,II,purified MHC/competitive/radioactivity,dissociation constant KD (~IC50)
+430,62191,D064370,20200505,ABE77216.1,SVKSFEIDK,288,Human,MHC Binding,Negative,HLA-A*33:01,I,purified MHC/competitive/radioactivity,dissociation constant KD (~IC50)
+431,62221,D064370,20200505,QIS60846.1,SVLNDILSR,974,Human,MHC Binding,Negative,HLA-A*03:01,I,purified MHC/competitive/radioactivity,dissociation constant KD (~IC50)
+432,62402,D064370,20200505,ABE77216.1,SVYAWERKK,335,Human,MHC Binding,Negative,HLA-A*33:01,I,purified MHC/competitive/radioactivity,dissociation constant KD (~IC50)
+433,62441,D064370,20200505,ATO98145.1,SWFITQRNF,1061,Human,MHC Binding,Negative,HLA-A*01:01,I,purified MHC/competitive/radioactivity,dissociation constant KD (~IC50)
+434,62442,D064370,20200505,AGC74176.1,SWFITQRNFF,1068,Chimpanzee,MHC Binding,Positive-Intermediate,Patr-A*09:01,I,purified MHC/competitive/radioactivity,dissociation constant KD (~IC50)
+435,62793,D064370,20200505,ATO98145.1,TAALVSGTATAGWTF,834,Human,MHC Binding,Positive-High,HLA-DRB1*01:01,II,purified MHC/competitive/radioactivity,dissociation constant KD (~IC50)
+436,63133,D064370,20200505,QDF43815.1,TDDMIAAYTAALVSG,833,Human,MHC Binding,Positive-High,HLA-DRB1*01:01,II,purified MHC/competitive/radioactivity,dissociation constant KD (~IC50)
+437,63193,D064370,20200505,ABE77216.1,TDLIKNQCVNFNFNG,516,Human,MHC Binding,Positive-High,HLA-DRB1*01:01,II,purified MHC/competitive/radioactivity,dissociation constant KD (~IC50)
+438,63580,D064370,20200505,ABE77216.1,TEVMPVSMA,705,Human,MHC Binding,Negative,HLA-B*18:01,I,purified MHC/competitive/radioactivity,dissociation constant KD (~IC50)
+439,63581,D064370,20200505,ABE77216.1,TEVMPVSMAKTSVDC,705,Human,MHC Binding,Positive-High,HLA-DRB1*01:01,II,purified MHC/competitive/radioactivity,dissociation constant KD (~IC50)
+440,63652,D064370,20200505,ABE77216.1,TFFSTFKCY,358,Human,MHC Binding,Negative,HLA-A*03:01,I,purified MHC/competitive/radioactivity,dissociation constant KD (~IC50)
+441,63664,D064370,20200505,AAR07631.1,TFGNPVIPFK,74,Human,MHC Binding,Positive-High,HLA-A*11:01,I,purified MHC/competitive/radioactivity,dissociation constant KD (~IC50)
+442,63951,D064370,20200505,QIS60846.1,TGRLQSLQTYVTQQL,997,Human,MHC Binding,Positive-High,HLA-DRB1*01:01,II,purified MHC/competitive/radioactivity,dissociation constant KD (~IC50)
+443,64711,D064370,20200505,ATO98145.1,TLADAGFMK,787,Human,MHC Binding,Negative,HLA-A*31:01,I,purified MHC/competitive/radioactivity,dissociation constant KD (~IC50)
+444,65110,D064370,20200505,ABE77216.1,TLTSG--------------SDLDRCTTFD---------DV,8,Human,B Cell,Positive,,,ELISA,qualitative binding
+445,65479,D064370,20200505,ABE77216.1,TNVVIRACN---------FELCDNPF,120,Human,B Cell,Positive,,,ELISA,qualitative binding
+446,65775,D064370,20200505,ABE77216.1,TP-SSKRFQPFQQFGRDVSDFT,538,Chicken,B Cell,Positive-High,,,ELISA,qualitative binding
+447,65832,D064370,20200505,ABE77216.1,TQDLFLPFYSNVTGFH--T,54,Human,B Cell,Positive,,,ELISA,qualitative binding
+448,66337,D064370,20200505,ABE77216.1,TSNFRVVPSGDVVRF-PN,301,Human,B Cell,Positive,,,ELISA,qualitative binding
+449,66629,D064370,20200505,ARB66065.1,TTGYRFTNF,360,Rabbit,B Cell,Positive,,,ELISA,qualitative binding
+450,66630,D064370,20200505,ARB66065.1,TTGYRFTNFEPFTV,360,Mouse,B Cell,Positive,,,ELISA,qualitative binding
+451,67220,D064370,20200505,QIS60846.1,TVYDPLQ--PELDSFKEEL,1135,Human,B Cell,Positive,,,ELISA,qualitative binding
+452,68971,D064370,20200505,AVP78042.1,VIGIINNTVYDPLQ--PEL,1100,Human,B Cell,Positive,,,ELISA,qualitative binding
+453,68972,D064370,20200505,AVP78042.1,VIGIINNTVYDPLQ--PELDSF,1100,Mouse,B Cell,Positive,,,biological activity,neutralization
+454,69129,D064370,20200505,ABE77216.1,VITPGTNASSEVAVLY,582,Chicken,B Cell,Positive-Intermediate,,,ELISA,qualitative binding
+455,69299,D064370,20200505,ABF68955.1,VKQMY--KTPTLK----YFGGFN,766,Human,B Cell,Positive,,,ELISA,qualitative binding
+456,69513,D064370,20200505,QIS60846.1,VLGQSKRVDFCGKGYHL,1032,Human,B Cell,Negative,,,ELISA,qualitative binding
+457,69699,D064370,20200505,AIA62277.1,VLPPLLTDDMIAAYTAA,822,Human,B Cell,Positive,,,ELISA,qualitative binding
+458,69760,D064370,20200505,QHR63300.2,VLSFELLNAPATVCGPK,511,Human,B Cell,Positive,,,ELISA,qualitative binding
+459,69865,D064370,20200505,YP_003858584.1,VLYENQKQIANQFNKAI,900,Human,B Cell,Positive,,,ELISA,qualitative binding
+460,65235,D064370,20200505,ABE77216.1,TMNNKSQSV,105,Human,MHC Binding,Positive,HLA-A*02:01,I,cellular MHC/direct/fluorescence,qualitative binding
+461,65831,D064370,20200505,ABE77216.1,TQDLFLPFY,54,Human,MHC Binding,Negative,HLA-A*01:01,I,purified MHC/direct/fluorescence,qualitative binding
+462,65906,D064370,20200505,QIQ54048.1,TQNVLYENQK,907,Human,MHC Binding,Negative,HLA-A*03:01,I,purified MHC/competitive/radioactivity,dissociation constant KD (~IC50)
+463,66388,D064370,20200505,ABE77216.1,TS-----QKSIVAY,668,Human,MHC Binding,Negative,HLA-A*23:01,I,purified MHC/competitive/radioactivity,dissociation constant KD (~IC50)
+464,66438,D064370,20200505,ABE77216.1,TSSMRGVYY,33,Human,MHC Binding,Negative,HLA-A*23:01,I,purified MHC/competitive/radioactivity,dissociation constant KD (~IC50)
+465,66458,D064370,20200505,ABE77216.1,TS---------------------------TGNYNYK,430,Human,MHC Binding,Negative,HLA-A*33:01,I,purified MHC/competitive/radioactivity,dissociation constant KD (~IC50)
+466,66459,D064370,20200505,ABE77216.1,TS---------------------------TGNYNYKY,430,Chimpanzee,MHC Binding,Negative,Patr-B*01:01,I,purified MHC/competitive/radioactivity,dissociation constant KD (~IC50)
+467,66602,D064370,20200505,ABE77216.1,TTEVMPVSMAKTSVD,704,Human,MHC Binding,Positive-High,HLA-DRB1*01:01,II,purified MHC/competitive/radioactivity,dissociation constant KD (~IC50)
+468,66623,D064370,20200505,ABE77216.1,TTGIGYQPY,485,Human,MHC Binding,Negative,HLA-A*23:01,I,purified MHC/competitive/radioactivity,dissociation constant KD (~IC50)
+469,66624,D064370,20200505,ABE77216.1,TTGIGYQPYR,485,Human,MHC Binding,Negative,HLA-A*03:01,I,purified MHC/competitive/radioactivity,dissociation constant KD (~IC50)
+470,66849,D064370,20200505,ABE77216.1,T-----TTGIGYQPY,484,Chimpanzee,MHC Binding,Negative,Patr-B*01:01,I,purified MHC/competitive/radioactivity,dissociation constant KD (~IC50)
+471,66875,D064370,20200505,ATO98145.1,TTTSTALGK,899,Human,MHC Binding,Negative,HLA-A*33:01,I,purified MHC/competitive/radioactivity,dissociation constant KD (~IC50)
+472,67498,D064370,20200505,QDF43815.1,TYVPSQERNF,1033,Chimpanzee,MHC Binding,Negative,Patr-A*07:01,I,purified MHC/competitive/radioactivity,dissociation constant KD (~IC50)
+473,68433,D064370,20200505,ATO98145.1,VFAQVKQMY,741,Human,MHC Binding,Negative,HLA-A*01:01,I,purified MHC/competitive/radioactivity,dissociation constant KD (~IC50)
+474,68434,D064370,20200505,ATO98145.1,VFAQVKQMY--K,741,Human,MHC Binding,Positive-Intermediate,HLA-A*03:01,I,purified MHC/competitive/radioactivity,dissociation constant KD (~IC50)
+475,68479,D064370,20200505,ABE77216.1,VFGSTMNNK,101,Human,MHC Binding,Negative,HLA-A*33:01,I,purified MHC/competitive/radioactivity,dissociation constant KD (~IC50)
+476,68899,D064370,20200505,QIQ54048.1,VIADYNYKL,416,Human,MHC Binding,Positive-High,HLA-A*02:01,I,purified MHC/competitive/radioactivity,dissociation constant KD (~IC50)
+477,69298,D064370,20200505,ABF68955.1,VKQMY--KTPTLK----YFGG,766,Human,MHC Binding,Positive-High,HLA-DRB1*01:01,II,purified MHC/competitive/radioactivity,dissociation constant KD (~IC50)
+478,69657,D064370,20200505,QIS60846.1,VLNDILSRL,975,Human,MHC Binding,Negative,HLA-A*02:01,I,purified MHC/direct/fluorescence,qualitative binding
+479,69759,D064370,20200505,QHR63300.2,VLSFELLNAPATVCG,511,Human,MHC Binding,Positive-High,HLA-DRB1*01:01,II,purified MHC/competitive/radioactivity,dissociation constant KD (~IC50)
+480,69864,D064370,20200505,YP_003858584.1,VLYENQKQI,900,Human,MHC Binding,Negative,HLA-A*02:01,I,purified MHC/direct/fluorescence,qualitative binding
+481,69882,D064370,20200505,QIQ54048.1,VLYQDVNCT,609,Human,MHC Binding,Positive,HLA-A*02:01,I,cellular MHC/direct/fluorescence,qualitative binding
+482,70032,D064370,20200505,AVP78042.1,VMVTILLCCM,1199,Human,MHC Binding,Negative,HLA-A*02:02,I,purified MHC/competitive/radioactivity,dissociation constant KD (~IC50)
+483,66460,D064370,20200505,ABE77216.1,TS---------------------------TGNYNYKYRYLRH,430,Mouse,T Cell,Positive,,,bioassay,IFNg release
+484,70066,D064370,20200505,QIS60846.1,VNFNFNGL,538,Mouse,T Cell,Negative,H2-b class I,I,ICS,IL-2 release
+485,70527,D064370,20200505,ABE77216.1,VQA-------PNYTQHTSSMRGVY,24,Human,B Cell,Positive,,,ELISA,qualitative binding
+486,70719,D064370,20200505,QIS60846.1,VRF-PNITN-LCPFGEVF--N,326,Human,B Cell,Positive,,,ELISA,qualitative binding
+487,70897,D064370,20200505,ABE77216.1,VSDFTDSV,554,Human,B Cell,Positive,,,biological activity,antibody binding
+488,71189,D064370,20200505,ABE77216.1,VSVITPGTNASSEVAVL,580,Human,B Cell,Positive,,,ELISA,qualitative binding
+489,71191,D064370,20200505,ABE77216.1,VSVITPGTNASSEVAVLYQDVNCTDVSTAIHADQLTPAWRIYST-----GNNVFQ,580,Human,B Cell,Positive,,,western blot,qualitative binding
+490,71589,D064370,20200505,QDF43815.1,VTYVPSQERNFTTAPAI,1032,Human,B Cell,Positive,,,ELISA,qualitative binding
+491,72205,D064370,20200505,ABE77216.1,VYYPDEIFRSDTLYLTQD,39,Human,B Cell,Positive,,,ELISA,qualitative binding
+492,72519,D064370,20200505,ABE77216.1,WGTSAAAYFVGYLKPTT,244,Human,B Cell,Positive,,,ELISA,qualitative binding
+493,73036,D064370,20200505,ABE77216.1,WRIYST-----GNNVFQTQAGC,618,Human,B Cell,Positive,,,ELISA,qualitative binding
+494,74173,D064370,20200505,AAU93320.1,YICGDSTECANLLLQYG,722,Human,B Cell,Positive,,,ELISA,qualitative binding
+495,74367,D064370,20200505,AAU93320.1,YISDAFSLDVSE-KSGNF,162,Human,B Cell,Positive,,,ELISA,qualitative binding
+496,74459,D064370,20200505,ABE77216.1,YKGYQPIDVV----RDLPSGFNTL,196,Rabbit,B Cell,Positive,,,western blot,qualitative binding
+497,74895,D064370,20200505,ABE77216.1,YLRHGKLRPFERDISNV,441,Mouse,B Cell,Positive,,,ELISA,qualitative binding
+498,74945,D064370,20200505,ABE77216.1,YLTQDL,52,Human,B Cell,Positive,,,biological activity,antibody binding
+499,70477,D064370,20200505,ABE77216.1,VPSGDVVRF,307,Human,MHC Binding,Negative,HLA-A*01:01,I,purified MHC/direct/fluorescence,qualitative binding
+500,70575,D064370,20200505,QIS60846.1,VQIDRLITGR,990,Human,MHC Binding,Positive-High,HLA-A*31:01,I,purified MHC/competitive/radioactivity,dissociation constant KD (~IC50)
+501,70701,D064370,20200505,ABE77216.1,VRDPKTSEI,561,Human,MHC Binding,Negative,HLA-A*01:01,I,purified MHC/direct/fluorescence,qualitative binding
+502,70718,D064370,20200505,QIS60846.1,VRF-PNITN-L,326,Human,MHC Binding,Negative,HLA-A*01:01,I,purified MHC/direct/fluorescence,qualitative binding
+503,70738,D064370,20200505,ABE77216.1,VRGWVFGSTMNNKSQ,97,Human,MHC Binding,Positive-Intermediate,HLA-DRB1*01:01,II,purified MHC/competitive/radioactivity,dissociation constant KD (~IC50)
+504,71035,D064370,20200505,ABE77216.1,VSL----L-RSTS-----QK,662,Human,MHC Binding,Negative,HLA-A*68:01,I,purified MHC/competitive/radioactivity,dissociation constant KD (~IC50)
+505,71396,D064370,20200505,ATO98145.1,VTLADAGFMK,786,Human,MHC Binding,Negative,HLA-A*33:01,I,purified MHC/competitive/radioactivity,dissociation constant KD (~IC50)
+506,71588,D064370,20200505,QDF43815.1,VTYVPSQER,1032,Human,MHC Binding,Positive-High,HLA-A*31:01,I,purified MHC/competitive/radioactivity,dissociation constant KD (~IC50)
+507,71663,D064370,20200505,QIS60846.1,VVFLHVTYV,1059,Human,MHC Binding,Positive,HLA-A*02:01,I,cellular MHC/direct/fluorescence,qualitative binding
+508,71942,D064370,20200505,YP_003858584.1,VWLGFIAGL,1201,Human,MHC Binding,Negative,HLA-A*01:01,I,purified MHC/competitive/radioactivity,dissociation constant KD (~IC50)
+509,71981,D064370,20200505,ABE77216.1,VYAWERKKI,336,Human,MHC Binding,Negative,HLA-A*01:01,I,purified MHC/competitive/radioactivity,dissociation constant KD (~IC50)
+510,71996,D064370,20200505,QIS60846.1,VYDPLQ--PEL,1136,Human,MHC Binding,Negative,HLA-A*01:01,I,purified MHC/competitive/radioactivity,dissociation constant KD (~IC50)
+511,72409,D064370,20200505,AGC74176.1,WFITQRNFF,1069,Human,MHC Binding,Negative,HLA-A*24:02,I,purified MHC/competitive/radioactivity,dissociation constant KD (~IC50)
+512,72717,D064370,20200505,QIS60846.1,WLGFIAGLIAIVMVT,1216,Human,MHC Binding,Positive-Intermediate,HLA-DRB1*01:01,II,purified MHC/competitive/radioactivity,dissociation constant KD (~IC50)
+513,72974,D064370,20200505,YP_003858584.1,WPWYVWLGFI,1197,Human,MHC Binding,Negative,HLA-B*07:02,I,purified MHC/competitive/radioactivity,dissociation constant KD (~IC50)
+514,73192,D064370,20200505,ABE77216.1,WVFGSTMNNK,100,Human,MHC Binding,Negative,HLA-A*31:01,I,purified MHC/competitive/radioactivity,dissociation constant KD (~IC50)
+515,73751,D064370,20200505,QIS60846.1,YEQYIKWPWY,1205,Human,MHC Binding,Negative,HLA-B*40:02,I,purified MHC/competitive/radioactivity,dissociation constant KD (~IC50)
+516,73883,D064370,20200505,AKZ19076.1,YFPREGVFVF,1055,Chimpanzee,MHC Binding,Negative,Patr-A*09:01,I,purified MHC/competitive/radioactivity,dissociation constant KD (~IC50)
+517,74122,D064370,20200505,YP_003858584.1,YHLMSFPQAAPHGVV,1032,Human,MHC Binding,Positive-High,HLA-DRB1*01:01,II,purified MHC/competitive/radioactivity,dissociation constant KD (~IC50)
+518,125356,D064370,20200505,ABE77216.1,ADQLTPAWR,611,Mouse,B Cell,Negative,,,antigen inhibition,qualitative binding
+519,125415,D064370,20200505,ABE77216.1,FS-------------------PDGKPCT-PPALNCYW,459,Mouse,B Cell,Positive,,,ELISA,qualitative binding
+520,78424,D064370,20200505,ACN89743.1,IPRSRQIDLQIG,394,Mouse,B Cell,Positive,,,ELISA,qualitative binding
+521,96854,D064370,20200505,ACO72893.1,SA---PSISTE,32,Mouse,B Cell,Positive,,,ELISA,qualitative binding
+522,96874,D064370,20200505,ACN89743.1,SIAPDLSL----DFEKLNV,1264,Mouse,B Cell,Positive,,,ELISA,qualitative binding
+523,118609,D064370,20200505,AHX37569.1,SNVYADSFVVKGDDVRQIAP,383,Mouse,B Cell,Positive,,,immuno staining,qualitative binding
+524,118676,D064370,20200505,ABE77216.1,VYAWERKKISNCVADYSVLYNS-TF,336,Mouse,B Cell,Positive,,,immuno staining,qualitative binding
+525,75239,D064370,20200505,ABE77216.1,YNYKYRYLRHGKLRPFERDI,435,Rabbit,B Cell,Negative,,,biological activity,neutralization
+526,75528,D064370,20200505,ABE77216.1,YQPIDVV----RDLPSGFNTL,199,Human,B Cell,Positive,,,ELISA,qualitative binding
+527,75604,D064370,20200505,ARB66065.1,YRFTNFEPF,363,Mouse,B Cell,Positive,,,ELISA,qualitative binding
+528,75843,D064370,20200505,ABE77216.1,YSNVTGFH--T,62,Human,B Cell,Positive,,,ELISA,qualitative binding
+529,75920,D064370,20200505,ABE77216.1,YSVLYNS-TFFSTFKCYG,351,Human,B Cell,Positive,,,ELISA,qualitative binding
+530,76446,D064370,20200505,AAU93320.1,YVYKGYQPIDVV----RDLPS,194,Human,B Cell,Positive,,,ELISA,qualitative binding
+531,117791,D064370,20200505,ABE77216.1,DLPSGFNTL,207,Human,MHC Binding,Positive-Low,HLA-A*02:01,I,cellular MHC/direct/fluorescence,qualitative binding
+532,75690,D064370,20200505,ABE77216.1,YRYLRHGKL,439,Human,MHC Binding,Negative,HLA-A*01:01,I,purified MHC/direct/fluorescence,qualitative binding
+533,100711,D064370,20200505,ABE77216.1,AGCLIGAEHVDT----SYECDI,632,Human,T Cell,Positive,,,ELISPOT,IFNg release
+534,99899,D064370,20200505,AIA62277.1,AQKFNGLTVLPPLLTDDM,814,Human,T Cell,Positive,HLA-DRA*01:01/DRB1*07:01,II,multimer/tetramer,qualitative binding
+535,99918,D064370,20200505,AAU93320.1,CTFEYISDAFSLD,158,Human,T Cell,Positive,HLA-DRB1*04:01,II,multimer/tetramer,qualitative binding
+536,99926,D064370,20200505,AAU93320.1,DAFSLDVSE-KSGN,165,Human,T Cell,Positive,HLA-DRB1*04:01,II,ELISA,IFNg release
+537,78948,D064370,20200505,ACN89743.1,DCK--IEEWL--TAKSVPS,327,Mouse,T Cell,Positive,H2-b class II,II,3H-thymidine,proliferation
+538,100778,D064370,20200505,ABE77216.1,DIPIGAGICASYHTVSL----L,648,Human,T Cell,Positive,,,ELISPOT,IFNg release
+539,99995,D064370,20200505,ABE77216.1,EIFRSDTLYLTQDLFLPF,44,Human,T Cell,Positive,HLA-DRA*01:01/DRB1*07:01,II,multimer/tetramer,qualitative binding
+540,79810,D064370,20200505,QDF43815.1,ERNFTTAPAICHE---GKAYF,1039,Mouse,T Cell,Negative,,,ICS,IFNg release
+541,79833,D064370,20200505,AVP78042.1,FVSGNCDVVIGIINNTVY,1092,Mouse,T Cell,Negative,,,ICS,IFNg release
+542,100048,D064370,20200505,QIS60846.1,GAALQIPFAMQMAYRF,890,Human,T Cell,Positive,HLA-DRA*01:01/DRB1*07:01,II,multimer/tetramer,qualitative binding
+543,100057,D064370,20200505,ATO98193.1,GFMKQYGECLG---DINARDL,799,Human,T Cell,Negative,HLA-DRB1*04:01,II,multimer/tetramer,qualitative binding
+544,100230,D064370,20200505,ABE77216.1,KSIVAYTMSLG-ADSSIAY,671,Human,T Cell,Positive,HLA-DRA*01:01/DRB1*07:01,II,multimer/tetramer,qualitative binding
+545,100300,D064370,20200505,QIS60846.1,MAYRFNGIGVTQNVLY,901,Human,T Cell,Negative,HLA-DRB1*04:01,II,3H-thymidine,proliferation
+546,100316,D064370,20200505,AAU93320.1,NAFNCTFEYISDAFSLDV,154,Human,T Cell,Positive,HLA-DRA*01:01/DRB1*07:01,II,multimer/tetramer,qualitative binding
+547,100347,D064370,20200505,ABE77216.1,NPFFAVSKP-M-GT---QTHTMI,134,Human,T Cell,Positive,HLA-DRA*01:01/DRB1*07:01,II,multimer/tetramer,qualitative binding
+548,100428,D064370,20200505,QIS60846.1,QLIRAAEIRASANLAATK,1010,Human,T Cell,Negative,HLA-DRB1*04:01,II,multimer/tetramer,qualitative binding
+549,100481,D064370,20200505,ABE77216.1,RPFERDISNVPFS,448,Human,T Cell,Positive,HLA-DRB1*04:01,II,ELISA,IFNg release
+550,79077,D064370,20200505,ACN89743.1,RY-VQAESLSCNNIDA,362,Mouse,T Cell,Positive,H2-b class II,II,3H-thymidine,proliferation
+551,79080,D064370,20200505,ACO72893.1,SGFLQTANYKIDTAA,407,Mouse,T Cell,Negative,,,ELISPOT,IFNg release
+552,100537,D064370,20200505,AGC74176.1,SWFITQRNFFSPQII,1068,Human,T Cell,Positive,,,ELISPOT,IFNg release
+553,100541,D064370,20200505,ABF68959.1,TAFSP----------AQDIWGTSAAAYF,235,Human,T Cell,Positive,HLA-DRA*01:01/DRB1*07:01,II,multimer/tetramer,qualitative binding
+554,100553,D064370,20200505,AAR07631.1,TGFH--TINH--------------------TFGNPVIPFK,66,Human,T Cell,Positive,HLA-DRA*01:01/DRB1*07:01,II,multimer/tetramer,qualitative binding
+555,100561,D064370,20200505,ABE77216.1,TLKPIFKLPLGINITNFR,214,Human,T Cell,Positive,HLA-DRA*01:01/DRB1*07:01,II,multimer/tetramer,qualitative binding
+556,100567,D064370,20200505,ABF68959.1,TNFRAILTAFSP----------AQDIW,228,Human,T Cell,Negative,HLA-DRB1*04:01,II,multimer/tetramer,qualitative binding
+557,100612,D064370,20200505,ABF68955.1,VKQMY--KTPTLK----YFGGFNF,766,Human,T Cell,Negative,HLA-DRB1*04:01,II,multimer/tetramer,qualitative binding
+558,100627,D064370,20200505,ABE77216.1,VRGWVFGSTMNNKSQSVI,97,Human,T Cell,Negative,HLA-DRB1*04:01,II,multimer/tetramer,qualitative binding
+559,100664,D064370,20200505,ABE77216.1,YLRHGKLRPFERDISNVP,441,Human,T Cell,Positive,HLA-DRB1*04:01,II,multimer/tetramer,qualitative binding
+560,100665,D064370,20200505,ABE77216.1,YLTQDLFLPFYSNVTGFH,52,Human,T Cell,Positive,HLA-DRA*01:01/DRB1*07:01,II,multimer/tetramer,qualitative binding
+561,75237,D064370,20200505,ABE77216.1,YNYKYRYL,435,Mouse,T Cell,Positive,H2-b class I,I,ICS,IFNg release
+562,75238,D064370,20200505,ABE77216.1,YNYKYRYLRHGKLRP,435,Mouse,T Cell,Positive,,,bioassay,IFNg release
+563,558386,D064370,20200505,ABE77216.1,ALNCYW---------------------------PLNDY--------------------------GFY-----------------------------------T-----TTGIGYQPYRVVVLSFEL,470,Human,B Cell,Positive,,,ELISA,qualitative binding
+564,236157,D064370,20200505,AHY21469.1,CALPDTPSTLTPRS-VRSVPGEMRLAS,735,Rabbit,B Cell,Positive,,,ELISA,qualitative binding
+565,236161,D064370,20200505,AHY21469.1,DD-RTEVPQLVN-------------------ANQYS-------PCVSIVPSTVWEDGD------------YYRKQLSPLEGGG-----------------WL,508,Rabbit,B Cell,Positive,,,ELISA,qualitative binding
+566,558417,D064370,20200505,QIS60846.1,EIDRLNEVAKNLNESLIDLQELGKYEQY,1181,Human,B Cell,Positive,,,ELISA,qualitative binding
+567,148529,D064370,20200505,ABE77216.1,KLRPFERDISNV,446,Chicken,B Cell,Positive,,,western blot,qualitative binding
+568,558455,D064370,20200505,QIQ54048.1,LYQDVN,610,Human,B Cell,Positive,,,ELISA,qualitative binding
+569,558456,D064370,20200505,QIQ54048.1,LYQDVNC,610,Human,B Cell,Positive,,,ELISA,qualitative binding
+570,558457,D064370,20200505,QIQ54048.1,LYQDVNCT,610,Human,B Cell,Positive,,,ELISA,qualitative binding
+571,558458,D064370,20200505,ABE77216.1,LYQDVNCTDVSTAIHADQLTPAWRIYST-----G,596,Human,B Cell,Positive,,,ELISA,qualitative binding
+572,149456,D064370,20200505,ATO98193.1,RSFIEDLLFNKVTLADAGFMKQYGECLG---DINARDLICAQKFNGLTVLP,782,Mouse,B Cell,Positive,,,biological activity,neutralization
+573,558510,D064370,20200505,ABE77216.1,TDVSTAIHADQLTPAWRIYST-----G,603,Human,B Cell,Positive,,,ELISA,qualitative binding
+574,125586,D064370,20200505,ABE77216.1,TTGIGYQ,485,Mouse,B Cell,Negative,,,surface plasmon resonance (SPR),dissociation constant KD
+575,422251,D064370,20200505,Q02385.1,CSLWNGPHL,509,Mouse,MHC Binding,Positive,H2-Db,I,cellular MHC,qualitative binding
+576,231893,D064370,20200505,YP_003858584.1,FPQAAPHGV,1037,Human,MHC Binding,Positive-Low,HLA-B*07:02,I,purified MHC/direct/radioactivity,half life
+577,616629,D064370,20200505,AHY21469.1,FYAPEPIT-SL,1190,Mouse,MHC Binding,Positive,H2-Kd,I,x-ray crystallography,3D structure
+578,620933,D064370,20200505,AHY21469.1,KYYSIIPHSI,290,Mouse,MHC Binding,Positive,H2-Kd,I,purified MHC/direct/fluorescence,50% dissociation temperature
+579,625112,D064370,20200505,AHY21469.1,SFYAPEPIT-SL,1189,Mouse,MHC Binding,Positive,H2-Kd,I,x-ray crystallography,3D structure
+580,628707,D064370,20200505,AHY21469.1,YYSIIPHSI,291,Mouse,MHC Binding,Positive,H2-Kd,I,purified MHC/direct/fluorescence,50% dissociation temperature
+581,616139,D064370,20200505,AGY29650.2,FAQSIFYRL,962,Mouse,T Cell,Positive-Intermediate,H2-Kd,I,ELISPOT,IFNg release
+582,616628,D064370,20200505,AHY21469.1,FYAPEPIT-S,1190,Mouse,T Cell,Positive-Low,H2-Kd,I,ELISPOT,IFNg release
+583,616635,D064370,20200505,AGY29650.2,FYRLNGVGI,967,Mouse,T Cell,Positive-Low,H2-Kd,I,ELISPOT,IFNg release
+584,616636,D064370,20200505,AGY29650.2,FYRLNGVGIT,967,Mouse,T Cell,Positive,H2-Kd,I,ELISPOT,IFNg release
+585,146966,D064370,20200505,ACN89742.1,GGNSIIGFWHTD-IK-S,170,Mouse,T Cell,Negative,H2-b class I,I,ICS,IFNg release
+586,532052,D064370,20200505,AGC74176.1,GT----------SWFITQRNFFSPQ,1066,Human,T Cell,Positive,HLA class II,II,ELISPOT,IFNg release
+587,187223,D064370,20200505,ACZ71991.1,HNYKYRYL,435,Mouse,T Cell,Negative,H2-b class I,I,ICS,IL-2 release
+588,147025,D064370,20200505,AID16661.1,IDDINFSPLLGCLGS,882,Mouse,T Cell,Negative,H2-b class I,I,ICS,IFNg release
+589,620932,D064370,20200505,AHY21469.1,KYYSIIPHS,290,Mouse,T Cell,Positive-Low,H2-Kd,I,ELISPOT,IFNg release
+590,147114,D064370,20200505,Q5MQD0.1,LSDVGFVEAYNNCTG,916,Mouse,T Cell,Negative,H2-b class I,I,ICS,IFNg release
+591,147122,D064370,20200505,ACN89742.1,LTTFEPFTVSIVNDS,765,Mouse,T Cell,Negative,H2-b class I,I,ICS,IFNg release
+592,147241,D064370,20200505,AID16661.1,RCHIFSNLL,588,Mouse,T Cell,Negative,H2-Kb,I,ICS,IFNg release
+593,625110,D064370,20200505,AGY29650.2,SFYAPEPI,1180,Mouse,T Cell,Positive-Low,H2-Kd,I,ELISPOT,IFNg release
+594,625111,D064370,20200505,AGY29650.2,SFYAPEPIT,1180,Mouse,T Cell,Positive-Low,H2-Kd,I,ELISPOT,IFNg release
+595,147293,D064370,20200505,AID16661.1,SLLRF-VQAESLSCSN,359,Mouse,T Cell,Negative,H2-b class I,I,ICS,IFNg release
+596,533900,D064370,20200505,ABE77216.1,SSKRFQPFQQFGRDV,540,Human,T Cell,Positive,HLA class II,II,ELISPOT,IFNg release
+597,147348,D064370,20200505,ACN89742.1,TTY------DLRCL,531,Mouse,T Cell,Negative,H2-Kb,I,ICS,IFNg release
+598,147369,D064370,20200505,AID16661.1,VGLVYRRV,315,Mouse,T Cell,Negative,H2-Kb,I,ICS,IFNg release
+599,181163,D064370,20200505,ABE77216.1,YGVSATKL,366,Mouse,T Cell,Positive,H2-Kd,I,ELISPOT,IFNg release
+600,628706,D064370,20200505,AHY21469.1,YYSIIPHS,291,Mouse,T Cell,Positive-Low,H2-Kd,I,ELISPOT,IFNg release
+601,917806,D064370,20200505,K9N5Q8.1,TKPLKYSYINKCSRFLSDD-RTEVPQ,491,Mouse,B Cell,Positive,,,ELISA,dissociation constant KD
+602,917807,D064370,20200505,AHY21469.1,TKPLKYSYINKCSRLLSDD-RTEVPQ,491,Mouse,B Cell,Positive,,,ELISA,dissociation constant KD
+603,871495,D064370,20200505,AHY21469.1,VYDT---IKYYSIIPHSI,285,Mouse,T Cell,Negative,H2-d class I,I,ICS,IL-2 release
