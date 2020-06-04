@@ -10,7 +10,7 @@ These HTML sources are parsed using `taxonomy_parser.py` (set the `infile` varia
 | path | yes |str | `.`-joined list of parental taxon IDs starting at the most ancestral (left) to the most recent (right). |
 | gb_taxon_id | yes | str | NCBI Taxon ID |
 | name | yes | str | Name of the taxon |
-| level | yes || str | Taxon level (e.g. `subgenus` or `species` etc...) |
+| level | yes | str | Taxon level (e.g. `subgenus` or `species` etc...) |
 | type | no | str | `circle` or `square`depending on HTML list type. This confirms leaf or node. |
 | href | no | str | URL link provided for the proteins page of the Taxon |
 | plink | no | str | URL link to NCBI protein database listing proteins for the Taxon |
