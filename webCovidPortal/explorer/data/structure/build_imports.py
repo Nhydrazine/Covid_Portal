@@ -11,7 +11,12 @@ structureatom_file = "./imports/structureAtoms.csv";
 ################################################################################
 # Structures and Chains
 ################################################################################
+# for merged/deprecated taxon IDs
+taxon_replace = {
+    "227859"    : "694009"
+};
 df = pd.read_csv(chain_file);
+df['taxon_id'] = df['taxon_id'].astype(str).replace(to_replace=taxon_replace);
 hard_coded_mesh = "D064370"; # coronavirus spike protein
 df['protein'] = hard_coded_mesh;
 columns = ['pdb_id','taxon_id','protein','chain'];

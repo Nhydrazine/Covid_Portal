@@ -1,0 +1,1069 @@
+id,organism,isolate,host,host_taxid
+10,Bovine coronavirus isolate Alpaca,Bovine coronavirus isolate Alpaca,alpaca,30538
+29,Sable antelope coronavirus US/OH1/2003,US/OH1/2003,antelope,9895
+600,Longquan Aa mouse coronavirus,Longquan-343,Apodemus agrarius,39030
+689,Bat SARS-like coronavirus,As6526,Aselliscus stoliczkanus,188568
+625,Bat coronavirus HKU5-1,LMH03f,bat,9397
+626,Bat coronavirus HKU5-2,TT03f,bat,9397
+627,Bat coronavirus HKU5-3,TT06f,bat,9397
+628,Bat coronavirus HKU5-5,TT07f,bat,9397
+632,Bat coronavirus HKU4-1,B04f,bat,9397
+633,Bat coronavirus HKU4-2,B05f,bat,9397
+634,Bat coronavirus HKU4-3,B07f,bat,9397
+635,Bat coronavirus HKU4-4,LMH1f,bat,9397
+646,Bat coronavirus HKU9-1,BF_005I,bat,9397
+649,Bat coronavirus HKU9-2,BF_017I,bat,9397
+650,Bat coronavirus HKU9-3,BF_493I,bat,9397
+651,Bat coronavirus HKU9-4,BF_141I,bat,9397
+675,Bat SARS CoV Rp3/2004,Rp3,bat,9397
+652,Bat coronavirus HKU9-5-1,Bat coronavirus HKU9-5-1,bat BF_258I,9397
+653,Bat coronavirus HKU9-5-2,Bat coronavirus HKU9-5-2,bat BF_258I,9397
+647,Bat coronavirus HKU9-10-1,Bat coronavirus HKU9-10-1,bat BF_506I,9397
+648,Bat coronavirus HKU9-10-2,Bat coronavirus HKU9-10-2,bat BF_506I,9397
+11,Bovine coronavirus (strain LSU-94LSS-051),Bovine coronavirus (strain LSU-94LSS-051),Bos taurus (Bovine),9913
+12,Bovine coronavirus LY-138,Bovine coronavirus LY-138,Bos taurus (Bovine),9913
+13,Bovine coronavirus Mebus,Bovine coronavirus Mebus,Bos taurus (Bovine),9913
+16,Bovine coronavirus strain F15,Bovine coronavirus strain F15,Bos taurus (Bovine),9913
+17,Bovine coronavirus strain L9,Bovine coronavirus strain L9,Bos taurus (Bovine),9913
+18,Bovine coronavirus (strain OK-0514-3),Bovine coronavirus (strain OK-0514-3),Bos taurus (Bovine),9913
+19,Bovine coronavirus strain Quebec,Bovine coronavirus strain Quebec,Bos taurus (Bovine),9913
+20,Bovine coronavirus strain vaccine,Bovine coronavirus strain vaccine,Bos taurus (Bovine),9913
+21,Bovine enteric coronavirus (strain 98TXSF-110-ENT),Bovine enteric coronavirus (strain 98TXSF-110-ENT),Bos taurus (Bovine),9913
+24,Bovine respiratory coronavirus (strain 98TXSF-110-LUN),Bovine respiratory coronavirus (strain 98TXSF-110-LUN),Bos taurus (Bovine),9913
+6,Bovine coronavirus DB2,DB2,bovine,9913
+7,Bovine coronavirus E-AH187-TC,E-AH187-TC,bovine,9913
+8,Bovine coronavirus E-AH65-TC,E-AH65-TC,bovine,9913
+9,Bovine coronavirus E-DB2-TC,E-DB2-TC,bovine,9913
+14,Bovine coronavirus R-AH187,R-AH187,bovine,9913
+15,Bovine coronavirus R-AH65-TC,R-AH65-TC,bovine,9913
+22,Bovine respiratory coronavirus AH187,AH187,bovine,9913
+23,Bovine respiratory coronavirus bovine/US/OH-440-TC/1996,bovine/US/OH-440-TC/1996,bovine,9913
+1,Bovine coronavirus Bubalus/153/ITA/2008,153/08-B,Bubalus bubalis,89462
+2,Bovine coronavirus Bubalus/155/ITA/2008,155/08,Bubalus bubalis,89462
+3,Bovine coronavirus Bubalus/339/ITA/2007,339/07-C,Bubalus bubalis,89462
+4,Bovine coronavirus Bubalus/82/ITA/2008,82/08,Bubalus bubalis,89462
+5,Bovine coronavirus Bubalus/Italy/179/07-11,179/07-11,Bubalus bubalis,89462
+598,Camel coronavirus HKU23,camel/Abu Dhabi/B101,camel,9838
+599,Camel coronavirus HKU23,camel/Riyadh/Ry123/2015,camel,9838
+614,Betacoronavirus England 1,Betacoronavirus England 1,Camelus dromedarius (Dromedary) (Arabian camel),9838
+964,Severe acute respiratory syndrome coronavirus 2,SARS-CoV-2/canine/HKG/20-03695/2020,canine,9615
+49,Canine respiratory coronavirus,NZ.046/16,Canis lupus familiaris,9615
+655,Bat coronavirus Cp/Yunnan2011,Cp/Yunnan2011,Chaerephon plicata,478698
+884,SARS coronavirus HKU-39849,HKU-39849,Chlorocebus aethiops,9534
+702,Civet SARS CoV 007/2004,civet007,civet,71117
+862,SARS coronavirus civet010,civet010,civet,71117
+863,SARS coronavirus civet014,civet014,civet,71117
+864,SARS coronavirus civet019,civet019,civet,71117
+865,SARS coronavirus civet020,civet020,civet,71117
+50,Canine respiratory coronavirus,CRCoV/BJ-221,dog,9615
+51,Canine respiratory coronavirus,CRCoV/BJ-34,dog,9615
+52,Canine respiratory coronavirus,BJ232,dog,9615
+54,Canine respiratory coronavirus,240/05,dog,9615
+55,Canine respiratory coronavirus,K37,dog,9615
+56,Canine respiratory coronavirus,K39,dog,9615
+57,Canine respiratory coronavirus,K37,dog,9615
+58,Canine respiratory coronavirus,K9,dog,9615
+60,Canine respiratory coronavirus,CRCVK39,dog,9615
+61,Canine respiratory coronavirus,CRCVK37,dog,9615
+62,Canine respiratory coronavirus,CRCVK9,dog,9615
+63,Canine respiratory coronavirus,240/05,dog,9615
+67,Dromedary camel coronavirus HKU23,HKU23-368F,dromedary camel,9838
+68,Dromedary camel coronavirus HKU23,HKU23-362F,dromedary camel,9838
+69,Dromedary camel coronavirus HKU23,HKU23-265F,dromedary camel,9838
+1055,Eidolon bat coronavirus/Kenya/KY24/2006,BtKY24,Eidolon helvum (bat),77214
+637,Erinaceus hedgehog coronavirus HKU31,Rs13,Erinaceus amurensis,757341
+638,Erinaceus hedgehog coronavirus HKU31,F6,Erinaceus amurensis,757341
+611,Betacoronavirus Erinaceus/VMC/DEU/2012,ErinaceusCoV/2012-174/GER/2012,Erinaceus europaeus,757341
+612,Betacoronavirus Erinaceus/VMC/DEU/2012,ErinaceusCoV/2012-174/GER/2012,Erinaceus europaeus,757341
+613,Betacoronavirus Erinaceus/VMC/DEU/2012,ErinaceusCoV/2012-216/GER/2012,Erinaceus europaeus,757341
+25,Calf-giraffe coronavirus US/OH3/2006,US/OH3/2006,giraffe,9894
+26,Giraffe coronavirus US/OH3-TC/2006,US/OH3-TC/2006,giraffe,9894
+27,Giraffe coronavirus US/OH3/2003,US/OH3/2003,giraffe,9894
+609,Bat Hp-betacoronavirus/Zhejiang2013,Zhejiang2013,Hipposideros pratti,188569
+610,Bat Hp-betacoronavirus/Zhejiang2013,Zhejiang2013,Hipposideros pratti,188569
+72,Human coronavirus OC43,HCoV_OC43/Seattle/USA/SC0776/2019,Homo sapiens,9606
+73,Human coronavirus OC43,HCoV_OC43/Seattle/USA/SC9428/2018,Homo sapiens,9606
+74,Human coronavirus OC43,HCoV_OC43/Seattle/USA/SC9430/2018,Homo sapiens,9606
+75,Human coronavirus OC43,HCoV_OC43/Seattle/USA/SC0841/2019,Homo sapiens,9606
+76,Human coronavirus OC43,HCoV_OC43/Seattle/USA/SC0839/2019,Homo sapiens,9606
+77,Human coronavirus OC43,HCoV_OC43/Seattle/USA/SC0810/2019,Homo sapiens,9606
+78,Human coronavirus OC43,HCoV_OC43/Seattle/USA/SC0682/2019,Homo sapiens,9606
+79,Human coronavirus OC43,HCoV_OC43/Seattle/USA/SC3118/2015,Homo sapiens,9606
+80,Human coronavirus OC43,HCoV_OC43/Seattle/USA/SC2854/2015,Homo sapiens,9606
+81,Human coronavirus OC43,HCoV_OC43/Seattle/USA/SC2481/2015,Homo sapiens,9606
+82,Human coronavirus OC43,HCoV_OC43/Seattle/USA/SC2345/2015,Homo sapiens,9606
+83,Human coronavirus OC43,HCoV_OC43/Seattle/USA/SC2476/2015,Homo sapiens,9606
+84,Human coronavirus OC43,HCoV_OC43/Seattle/USA/SC2730/2015,Homo sapiens,9606
+85,Human coronavirus OC43,HCoV_OC43/Seattle/USA/SC2770/2015,Homo sapiens,9606
+86,Human coronavirus OC43,HCoV_OC43/Seattle/USA/SC2924/2015,Homo sapiens,9606
+87,Human coronavirus OC43,HCoV_OC43/Seattle/USA/SC2269/2016,Homo sapiens,9606
+88,Human coronavirus OC43,HCoV_OC43/Seattle/USA/SC9741/2016,Homo sapiens,9606
+89,Human coronavirus OC43,HCoV_OC43/Seattle/USA/SC622/2016,Homo sapiens,9606
+90,Human coronavirus OC43,HCoV_OC43/Seattle/USA/SC831/2016,Homo sapiens,9606
+104,Human coronavirus OC43,HCoV-OC43/Yamagata.JPN/07.2013-0380,Homo sapiens,9606
+105,Human coronavirus OC43,HCoV-OC43/Yamagata.JPN/06.2013-0378,Homo sapiens,9606
+106,Human coronavirus OC43,HCoV-OC43/Yamagata.JPN/06.2013-0375,Homo sapiens,9606
+107,Human coronavirus OC43,HCoV-OC43/Yamagata.JPN/06.2013-0348,Homo sapiens,9606
+108,Human coronavirus OC43,HCoV-OC43/Yamagata.JPN/05.2013-0300,Homo sapiens,9606
+109,Human coronavirus OC43,HCoV-OC43/Yamagata.JPN/04.2013-0289,Homo sapiens,9606
+110,Human coronavirus OC43,HCoV-OC43/Yamagata.JPN/52.2012-2590,Homo sapiens,9606
+111,Human coronavirus OC43,HCoV-OC43/Yamagata.JPN/52.2012-2586,Homo sapiens,9606
+112,Human coronavirus OC43,HCoV-OC43/Yamagata.JPN/51.2012-2581,Homo sapiens,9606
+113,Human coronavirus OC43,HCoV-OC43/Yamagata.JPN/49.2012-2416,Homo sapiens,9606
+114,Human coronavirus OC43,HCoV-OC43/Yamagata.JPN/46.2012-2185,Homo sapiens,9606
+115,Human coronavirus OC43,HCoV-OC43/Yamagata.JPN/14.2012-0781,Homo sapiens,9606
+116,Human coronavirus OC43,HCoV-OC43/Yamagata.JPN/13.2012-0719,Homo sapiens,9606
+117,Human coronavirus OC43,HCoV-OC43/Yamagata.JPN/09.2012-0501,Homo sapiens,9606
+118,Human coronavirus OC43,HCoV-OC43/Yamagata.JPN/06.2012-0371,Homo sapiens,9606
+119,Human coronavirus OC43,HCoV-OC43/Yamagata.JPN/06.2012-0369,Homo sapiens,9606
+120,Human coronavirus OC43,HCoV-OC43/Yamagata.JPN/06.2012-0291,Homo sapiens,9606
+121,Human coronavirus OC43,HCoV-OC43/Yamagata.JPN/05.2012-0283,Homo sapiens,9606
+122,Human coronavirus OC43,HCoV-OC43/Yamagata.JPN/05.2012-0279,Homo sapiens,9606
+123,Human coronavirus OC43,HCoV-OC43/Yamagata.JPN/04.2012-0168,Homo sapiens,9606
+124,Human coronavirus OC43,HCoV-OC43/Yamagata.JPN/27.2011-1525,Homo sapiens,9606
+125,Human coronavirus OC43,HCoV-OC43/Yamagata.JPN/22.2011-1255,Homo sapiens,9606
+126,Human coronavirus OC43,HCoV-OC43/Yamagata.JPN/21.2011-1236,Homo sapiens,9606
+127,Human coronavirus OC43,HCoV-OC43/Yamagata.JPN/21.2011-1174,Homo sapiens,9606
+128,Human coronavirus OC43,HCoV-OC43/Yamagata.JPN/20.2011-1168,Homo sapiens,9606
+129,Human coronavirus OC43,HCoV-OC43/Yamagata.JPN/16.2011-0969,Homo sapiens,9606
+130,Human coronavirus OC43,HCoV-OC43/Yamagata.JPN/14.2011-0897,Homo sapiens,9606
+131,Human coronavirus OC43,HCoV-OC43/Yamagata.JPN/14.2011-0874,Homo sapiens,9606
+132,Human coronavirus OC43,HCoV-OC43/Yamagata.JPN/13.2011-0857,Homo sapiens,9606
+133,Human coronavirus OC43,HCoV-OC43/Yamagata.JPN/13.2011-0825,Homo sapiens,9606
+134,Human coronavirus OC43,HCoV-OC43/Yamagata.JPN/09.2011-0752,Homo sapiens,9606
+135,Human coronavirus OC43,HCoV-OC43/Yamagata.JPN/01.2011-0064,Homo sapiens,9606
+136,Human coronavirus OC43,HCoV-OC43/Yamagata.JPN/48.2010-2644,Homo sapiens,9606
+137,Human coronavirus OC43,HCoV-OC43/Yamagata.JPN/48.2010-2590,Homo sapiens,9606
+138,Human coronavirus OC43,HCoV-OC43/Yamagata.JPN/47.2010-2547,Homo sapiens,9606
+139,Human coronavirus OC43,HCoV-OC43/Yamagata.JPN/46.2010-2538,Homo sapiens,9606
+140,Human coronavirus OC43,HCoV-OC43/Yamagata.JPN/46.2010-2513,Homo sapiens,9606
+141,Human coronavirus OC43,HCoV-OC43/Yamagata.JPN/46.2010-2512,Homo sapiens,9606
+142,Human coronavirus OC43,HCoV-OC43/Yamagata.JPN/46.2010-2510,Homo sapiens,9606
+143,Human coronavirus OC43,HCoV-OC43/Yamagata.JPN/46.2010-2506,Homo sapiens,9606
+144,Human coronavirus OC43,HCoV-OC43/Yamagata.JPN/45.2010-2465,Homo sapiens,9606
+145,Human coronavirus OC43,HCoV-OC43/Yamagata.JPN/43.2010-2412,Homo sapiens,9606
+146,Human coronavirus OC43,HCoV-OC43/Yamagata.JPN/43.2010-2388,Homo sapiens,9606
+147,Human coronavirus OC43,HCoV-OC43/Yamagata.JPN/43.2010-2385,Homo sapiens,9606
+148,Human coronavirus OC43,HCoV-OC43/Yamagata.JPN/43.2010-2384,Homo sapiens,9606
+149,Human coronavirus OC43,HCoV-OC43/Yamagata.JPN/43.2010-2382,Homo sapiens,9606
+150,Human coronavirus OC43,HCoV-OC43/Yamagata.JPN/43.2010-2375,Homo sapiens,9606
+151,Human coronavirus OC43,HCoV-OC43/Yamagata.JPN/39.2010-2197,Homo sapiens,9606
+152,Human coronavirus OC43,HCoV-OC43/Yamagata.JPN/38.2010-2108,Homo sapiens,9606
+153,Human coronavirus OC43,HCoV-OC43/Yamagata.JPN/21.2010-1394,Homo sapiens,9606
+154,Human coronavirus OC43,HCoV-OC43/Yamagata.JPN/20.2010-1341,Homo sapiens,9606
+155,Human coronavirus OC43,HCoV-OC43/Yamagata.JPN/20.2010-1337,Homo sapiens,9606
+156,Human coronavirus OC43,HCoV-OC43/Yamagata.JPN/04.2010-0251,Homo sapiens,9606
+157,Human coronavirus OC43,HCoV-OC43/Yamagata.JPN/03.2010-0241,Homo sapiens,9606
+158,Human coronavirus OC43,HCoV-OC43/Yamagata.JPN/11.2009-0842,Homo sapiens,9606
+159,Human coronavirus OC43,HCoV-OC43/Yamagata.JPN/11.2009-0765,Homo sapiens,9606
+160,Human coronavirus OC43,HCoV-OC43/Yamagata.JPN/10.2009-0762,Homo sapiens,9606
+161,Human coronavirus OC43,HCoV-OC43/Yamagata.JPN/09.2009-0623,Homo sapiens,9606
+162,Human coronavirus OC43,HCoV-OC43/Yamagata.JPN/08.2009-0554,Homo sapiens,9606
+163,Human coronavirus OC43,HCoV-OC43/Yamagata.JPN/07.2009-0536,Homo sapiens,9606
+164,Human coronavirus OC43,HCoV-OC43/Yamagata.JPN/07.2009-0469,Homo sapiens,9606
+165,Human coronavirus OC43,HCoV-OC43/Yamagata.JPN/07.2009-0467,Homo sapiens,9606
+166,Human coronavirus OC43,HCoV-OC43/Yamagata.JPN/05.2009-0292,Homo sapiens,9606
+167,Human coronavirus OC43,HCoV-OC43/Yamagata.JPN/03.2009-0118,Homo sapiens,9606
+168,Human coronavirus OC43,HCoV-OC43/Yamagata.JPN/02.2009-0063,Homo sapiens,9606
+169,Human coronavirus OC43,HCoV-OC43/Yamagata.JPN/02.2009-0058,Homo sapiens,9606
+170,Human coronavirus OC43,HCoV-OC43/Yamagata.JPN/10.2017-0491,Homo sapiens,9606
+171,Human coronavirus OC43,HCoV-OC43/Yamagata.JPN/05.2015-0285,Homo sapiens,9606
+172,Human coronavirus OC43,HCoV-OC43/Yamagata.JPN/51.2017-2652,Homo sapiens,9606
+173,Human coronavirus OC43,HCoV-OC43/Yamagata.JPN/51.2017-2650,Homo sapiens,9606
+174,Human coronavirus OC43,HCoV-OC43/Yamagata.JPN/50.2017-2568,Homo sapiens,9606
+175,Human coronavirus OC43,HCoV-OC43/Yamagata.JPN/48.2017-2515,Homo sapiens,9606
+176,Human coronavirus OC43,HCoV-OC43/Yamagata.JPN/26.2017-1566,Homo sapiens,9606
+177,Human coronavirus OC43,HCoV-OC43/Yamagata.JPN/20.2017-1370,Homo sapiens,9606
+178,Human coronavirus OC43,HCoV-OC43/Yamagata.JPN/16.2017-1199,Homo sapiens,9606
+179,Human coronavirus OC43,HCoV-OC43/Yamagata.JPN/14.2017-0959,Homo sapiens,9606
+180,Human coronavirus OC43,HCoV-OC43/Yamagata.JPN/12.2017-0751,Homo sapiens,9606
+181,Human coronavirus OC43,HCoV-OC43/Yamagata.JPN/12.2017-0642,Homo sapiens,9606
+182,Human coronavirus OC43,HCoV-OC43/Yamagata.JPN/12.2017-0640,Homo sapiens,9606
+183,Human coronavirus OC43,HCoV-OC43/Yamagata.JPN/11.2017-0634,Homo sapiens,9606
+184,Human coronavirus OC43,HCoV-OC43/Yamagata.JPN/11.2017-0521,Homo sapiens,9606
+185,Human coronavirus OC43,HCoV-OC43/Yamagata.JPN/10.2017-0516,Homo sapiens,9606
+186,Human coronavirus OC43,HCoV-OC43/Yamagata.JPN/09.2017-0482,Homo sapiens,9606
+187,Human coronavirus OC43,HCoV-OC43/Yamagata.JPN/09.2017-0480,Homo sapiens,9606
+188,Human coronavirus OC43,HCoV-OC43/Yamagata.JPN/09.2017-0478,Homo sapiens,9606
+189,Human coronavirus OC43,HCoV-OC43/Yamagata.JPN/09.2017-0411,Homo sapiens,9606
+190,Human coronavirus OC43,HCoV-OC43/Yamagata.JPN/09.2017-0410,Homo sapiens,9606
+191,Human coronavirus OC43,HCoV-OC43/Yamagata.JPN/08.2017-0379,Homo sapiens,9606
+192,Human coronavirus OC43,HCoV-OC43/Yamagata.JPN/08.2017-0375,Homo sapiens,9606
+193,Human coronavirus OC43,HCoV-OC43/Yamagata.JPN/08.2017-0364,Homo sapiens,9606
+194,Human coronavirus OC43,HCoV-OC43/Yamagata.JPN/07.2017-0362,Homo sapiens,9606
+195,Human coronavirus OC43,HCoV-OC43/Yamagata.JPN/07.2017-0361,Homo sapiens,9606
+196,Human coronavirus OC43,HCoV-OC43/Yamagata.JPN/07.2017-0354,Homo sapiens,9606
+197,Human coronavirus OC43,HCoV-OC43/Yamagata.JPN/07.2017-0314,Homo sapiens,9606
+198,Human coronavirus OC43,HCoV-OC43/Yamagata.JPN/07.2017-0306,Homo sapiens,9606
+199,Human coronavirus OC43,HCoV-OC43/Yamagata.JPN/07.2017-0305,Homo sapiens,9606
+200,Human coronavirus OC43,HCoV-OC43/Yamagata.JPN/07.2017-0304,Homo sapiens,9606
+201,Human coronavirus OC43,HCoV-OC43/Yamagata.JPN/06.2017-0300,Homo sapiens,9606
+202,Human coronavirus OC43,HCoV-OC43/Yamagata.JPN/06.2017-0266,Homo sapiens,9606
+203,Human coronavirus OC43,HCoV-OC43/Yamagata.JPN/05.2017-0247,Homo sapiens,9606
+204,Human coronavirus OC43,HCoV-OC43/Yamagata.JPN/05.2017-0193,Homo sapiens,9606
+205,Human coronavirus OC43,HCoV-OC43/Yamagata.JPN/19.2015-0902,Homo sapiens,9606
+206,Human coronavirus OC43,HCoV-OC43/Yamagata.JPN/13.2015-0693,Homo sapiens,9606
+207,Human coronavirus OC43,HCoV-OC43/Yamagata.JPN/11.2015-0604,Homo sapiens,9606
+208,Human coronavirus OC43,HCoV-OC43/Yamagata.JPN/09.2015-0492,Homo sapiens,9606
+209,Human coronavirus OC43,HCoV-OC43/Yamagata.JPN/08.2015-0486,Homo sapiens,9606
+210,Human coronavirus OC43,HCoV-OC43/Yamagata.JPN/08.2015-0434,Homo sapiens,9606
+211,Human coronavirus OC43,HCoV-OC43/Yamagata.JPN/08.2015-0433,Homo sapiens,9606
+212,Human coronavirus OC43,HCoV-OC43/Yamagata.JPN/07.2015-0425,Homo sapiens,9606
+213,Human coronavirus OC43,HCoV-OC43/Yamagata.JPN/07.2015-0424,Homo sapiens,9606
+214,Human coronavirus OC43,HCoV-OC43/Yamagata.JPN/07.2015-0418,Homo sapiens,9606
+215,Human coronavirus OC43,HCoV-OC43/Yamagata.JPN/07.2015-0417,Homo sapiens,9606
+216,Human coronavirus OC43,HCoV-OC43/Yamagata.JPN/07.2015-0416,Homo sapiens,9606
+217,Human coronavirus OC43,HCoV-OC43/Yamagata.JPN/07.2015-0373,Homo sapiens,9606
+218,Human coronavirus OC43,HCoV-OC43/Yamagata.JPN/07.2015-0369,Homo sapiens,9606
+219,Human coronavirus OC43,HCoV-OC43/Yamagata.JPN/07.2015-0368,Homo sapiens,9606
+220,Human coronavirus OC43,HCoV-OC43/Yamagata.JPN/07.2015-0361,Homo sapiens,9606
+221,Human coronavirus OC43,HCoV-OC43/Yamagata.JPN/06.2015-0359,Homo sapiens,9606
+222,Human coronavirus OC43,HCoV-OC43/Yamagata.JPN/07.2015-0353,Homo sapiens,9606
+223,Human coronavirus OC43,HCoV-OC43/Yamagata.JPN/06.2015-0351,Homo sapiens,9606
+224,Human coronavirus OC43,HCoV-OC43/Yamagata.JPN/06.2015-0303,Homo sapiens,9606
+225,Human coronavirus OC43,HCoV-OC43/Yamagata.JPN/06.2015-0301,Homo sapiens,9606
+226,Human coronavirus OC43,HCoV-OC43/Yamagata.JPN/06.2015-0300,Homo sapiens,9606
+227,Human coronavirus OC43,HCoV-OC43/Yamagata.JPN/06.2015-0297,Homo sapiens,9606
+228,Human coronavirus OC43,HCoV-OC43/Yamagata.JPN/06.2015-0294,Homo sapiens,9606
+229,Human coronavirus OC43,HCoV-OC43/Yamagata.JPN/06.2015-0291,Homo sapiens,9606
+230,Human coronavirus OC43,HCoV-OC43/Yamagata.JPN/06.2015-0290,Homo sapiens,9606
+231,Human coronavirus OC43,HCoV-OC43/Yamagata.JPN/05.2015-0288,Homo sapiens,9606
+232,Human coronavirus OC43,HCoV-OC43/Yamagata.JPN/05.2015-0287,Homo sapiens,9606
+233,Human coronavirus OC43,HCoV-OC43/Yamagata.JPN/05.2015-0284,Homo sapiens,9606
+234,Human coronavirus OC43,HCoV-OC43/Yamagata.JPN/05.2015-0282,Homo sapiens,9606
+235,Human coronavirus OC43,HCoV-OC43/Yamagata.JPN/05.2015-0279,Homo sapiens,9606
+236,Human coronavirus OC43,HCoV-OC43/Yamagata.JPN/05.2015-0275,Homo sapiens,9606
+237,Human coronavirus OC43,HCoV-OC43/Yamagata.JPN/05.2015-0236,Homo sapiens,9606
+238,Human coronavirus OC43,HCoV-OC43/Yamagata.JPN/05.2015-0235,Homo sapiens,9606
+239,Human coronavirus OC43,HCoV-OC43/Yamagata.JPN/05.2015-0233,Homo sapiens,9606
+240,Human coronavirus OC43,HCoV-OC43/Yamagata.JPN/05.2015-0232,Homo sapiens,9606
+241,Human coronavirus OC43,HCoV-OC43/Yamagata.JPN/05.2015-0230,Homo sapiens,9606
+242,Human coronavirus OC43,HCoV-OC43/Yamagata.JPN/05.2015-0229,Homo sapiens,9606
+243,Human coronavirus OC43,HCoV-OC43/Yamagata.JPN/05.2015-0228,Homo sapiens,9606
+244,Human coronavirus OC43,HCoV-OC43/Yamagata.JPN/05.2015-0225,Homo sapiens,9606
+245,Human coronavirus OC43,HCoV-OC43/Yamagata.JPN/05.2015-0224,Homo sapiens,9606
+246,Human coronavirus OC43,HCoV-OC43/Yamagata.JPN/05.2015-0223,Homo sapiens,9606
+247,Human coronavirus OC43,HCoV-OC43/Yamagata.JPN/05.2015-0220,Homo sapiens,9606
+248,Human coronavirus OC43,HCoV-OC43/Yamagata.JPN/05.2015-0218,Homo sapiens,9606
+249,Human coronavirus OC43,HCoV-OC43/Yamagata.JPN/05.2015-0216,Homo sapiens,9606
+250,Human coronavirus OC43,HCoV-OC43/Yamagata.JPN/05.2015-0215,Homo sapiens,9606
+251,Human coronavirus OC43,HCoV-OC43/Yamagata.JPN/04.2015-0213,Homo sapiens,9606
+252,Human coronavirus OC43,HCoV-OC43/Yamagata.JPN/04.2015-0211,Homo sapiens,9606
+253,Human coronavirus OC43,HCoV-OC43/Yamagata.JPN/04.2015-0210,Homo sapiens,9606
+254,Human coronavirus OC43,HCoV-OC43/Yamagata.JPN/04.2015-0209,Homo sapiens,9606
+255,Human coronavirus OC43,HCoV-OC43/Yamagata.JPN/04.2015-0159,Homo sapiens,9606
+256,Human coronavirus OC43,HCoV-OC43/Yamagata.JPN/04.2015-0158,Homo sapiens,9606
+257,Human coronavirus OC43,HCoV-OC43/Yamagata.JPN/04.2015-0155,Homo sapiens,9606
+258,Human coronavirus OC43,HCoV-OC43/Yamagata.JPN/04.2015-0154,Homo sapiens,9606
+259,Human coronavirus OC43,HCoV-OC43/Yamagata.JPN/04.2015-0152,Homo sapiens,9606
+260,Human coronavirus OC43,HCoV-OC43/Yamagata.JPN/04.2015-0151,Homo sapiens,9606
+261,Human coronavirus OC43,HCoV-OC43/Yamagata.JPN/04.2015-0147,Homo sapiens,9606
+262,Human coronavirus OC43,HCoV-OC43/Yamagata.JPN/04.2015-0144,Homo sapiens,9606
+263,Human coronavirus OC43,HCoV-OC43/Yamagata.JPN/04.2015-0142,Homo sapiens,9606
+264,Human coronavirus OC43,HCoV-OC43/Yamagata.JPN/04.2015-0140,Homo sapiens,9606
+265,Human coronavirus OC43,HCoV-OC43/Yamagata.JPN/04.2015-0137,Homo sapiens,9606
+266,Human coronavirus OC43,HCoV-OC43/Yamagata.JPN/03.2015-0136,Homo sapiens,9606
+267,Human coronavirus OC43,HCoV-OC43/Yamagata.JPN/03.2015-0134,Homo sapiens,9606
+268,Human coronavirus OC43,HCoV-OC43/Yamagata.JPN/03.2015-0131,Homo sapiens,9606
+269,Human coronavirus OC43,HCoV-OC43/Yamagata.JPN/03.2015-0130,Homo sapiens,9606
+270,Human coronavirus OC43,HCoV-OC43/Yamagata.JPN/03.2015-0129,Homo sapiens,9606
+271,Human coronavirus OC43,HCoV-OC43/Yamagata.JPN/03.2015-0128,Homo sapiens,9606
+272,Human coronavirus OC43,HCoV-OC43/Yamagata.JPN/03.2015-0101,Homo sapiens,9606
+273,Human coronavirus OC43,HCoV-OC43/Yamagata.JPN/03.2015-0093,Homo sapiens,9606
+274,Human coronavirus OC43,HCoV-OC43/Yamagata.JPN/03.2015-0088,Homo sapiens,9606
+275,Human coronavirus OC43,HCoV-OC43/Yamagata.JPN/03.2015-0086,Homo sapiens,9606
+276,Human coronavirus OC43,HCoV-OC43/Yamagata.JPN/02.2015-0077,Homo sapiens,9606
+277,Human coronavirus OC43,HCoV-OC43/Yamagata.JPN/53.2014-2422,Homo sapiens,9606
+278,Human coronavirus OC43,HCoV-OC43/Yamagata.JPN/52.2014-2419,Homo sapiens,9606
+279,Human coronavirus OC43,HCoV-OC43/Yamagata.JPN/52.2014-2417,Homo sapiens,9606
+280,Human coronavirus OC43,HCoV-OC43/Yamagata.JPN/46.2014-2103,Homo sapiens,9606
+281,Human coronavirus OC43,HCoV-OC43/Yamagata.JPN/08.2014-0485,Homo sapiens,9606
+282,Human coronavirus OC43,HCoV-OC43/Yamagata.JPN/08.2014-0484,Homo sapiens,9606
+283,Human coronavirus OC43,HCoV-OC43/Yamagata.JPN/07.2014-0446,Homo sapiens,9606
+284,Human coronavirus OC43,HCoV-OC43/Yamagata.JPN/08.2014-0436,Homo sapiens,9606
+285,Human coronavirus OC43,HCoV-OC43/Yamagata.JPN/08.2014-0435,Homo sapiens,9606
+286,Human coronavirus OC43,HCoV-OC43/Yamagata.JPN/08.2014-0434,Homo sapiens,9606
+287,Human coronavirus OC43,HCoV-OC43/Yamagata.JPN/08.2014-0432,Homo sapiens,9606
+288,Human coronavirus OC43,HCoV-OC43/Yamagata.JPN/07.2014-0380,Homo sapiens,9606
+289,Human coronavirus OC43,HCoV-OC43/Yamagata.JPN/06.2014-0378,Homo sapiens,9606
+290,Human coronavirus OC43,HCoV-OC43/Yamagata.JPN/06.2014-0375,Homo sapiens,9606
+291,Human coronavirus OC43,HCoV-OC43/Yamagata.JPN/06.2014-0371,Homo sapiens,9606
+292,Human coronavirus OC43,HCoV-OC43/Yamagata.JPN/06.2014-0370,Homo sapiens,9606
+293,Human coronavirus OC43,HCoV-OC43/Yamagata.JPN/06.2014-0297,Homo sapiens,9606
+294,Human coronavirus OC43,HCoV-OC43/Yamagata.JPN/06.2014-0296,Homo sapiens,9606
+295,Human coronavirus OC43,HCoV-OC43/Yamagata.JPN/05.2014-0285,Homo sapiens,9606
+296,Human coronavirus OC43,HCoV-OC43/Yamagata.JPN/04.2014-0225,Homo sapiens,9606
+297,Human coronavirus OC43,HCoV-OC43/Yamagata.JPN/03.2014-0174,Homo sapiens,9606
+298,Human coronavirus OC43,HCoV-OC43/Yamagata.JPN/11.2013-0666,Homo sapiens,9606
+299,Human coronavirus OC43,HCoV-OC43/Yamagata.JPN/10.2013-0627,Homo sapiens,9606
+300,Human coronavirus OC43,HCoV-OC43/Yamagata.JPN/08.2013-0498,Homo sapiens,9606
+309,Human coronavirus OC43,SZ14014d3/2014,Homo sapiens,9606
+310,Human coronavirus OC43,HB14018d7/2014,Homo sapiens,9606
+311,Human coronavirus OC43,4467A/2015,Homo sapiens,9606
+312,Human coronavirus OC43,4452A/2015,Homo sapiens,9606
+313,Human coronavirus OC43,4450A/2015,Homo sapiens,9606
+314,Human coronavirus OC43,4449A/2015,Homo sapiens,9606
+315,Human coronavirus OC43,4446A/2015,Homo sapiens,9606
+316,Human coronavirus OC43,4436A/2015,Homo sapiens,9606
+317,Human coronavirus OC43,4400A/2015,Homo sapiens,9606
+318,Human coronavirus OC43,4086A/2014,Homo sapiens,9606
+319,Human coronavirus OC43,4068A/2014,Homo sapiens,9606
+320,Human coronavirus OC43,3791A/2013,Homo sapiens,9606
+321,Human coronavirus OC43,14012/2014,Homo sapiens,9606
+322,Human coronavirus OC43,14007/2014,Homo sapiens,9606
+323,Human coronavirus OC43,13969/2014,Homo sapiens,9606
+324,Human coronavirus OC43,13963/2014,Homo sapiens,9606
+326,Human coronavirus OC43,HCoV-OC43/USA/ACRI_0213/2016,Homo sapiens,9606
+342,Human coronavirus OC43,TNP 12643,Homo sapiens,9606
+343,Human coronavirus OC43,TNP 12636,Homo sapiens,9606
+355,Human coronavirus OC43,HCoV-OC43/USA/ACRI_0052/2016,Homo sapiens,9606
+356,Human coronavirus OC43,HCoV-OC43/USA/TCNP_00212/2017,Homo sapiens,9606
+357,Human coronavirus OC43,HCoV-OC43/USA/TCNP_0070/2016,Homo sapiens,9606
+358,Human coronavirus OC43,HCoV-OC43/Yamagata.JPN/27.16-1096,Homo sapiens,9606
+359,Human coronavirus OC43,HCoV-OC43/Yamagata.JPN/26.16-1046,Homo sapiens,9606
+360,Human coronavirus OC43,HCoV-OC43/Yamagata.JPN/25.16-1044,Homo sapiens,9606
+361,Human coronavirus OC43,HCoV-OC43/Yamagata.JPN/24.16-1002,Homo sapiens,9606
+362,Human coronavirus OC43,HCoV-OC43/Yamagata.JPN/20.16-0885,Homo sapiens,9606
+363,Human coronavirus OC43,HCoV-OC43/Yamagata.JPN/26.16-1049,Homo sapiens,9606
+364,Human coronavirus OC43,HCoV-OC43/Yamagata.JPN/24.16-1027,Homo sapiens,9606
+365,Human coronavirus OC43,HCoV-OC43/Yamagata.JPN/24.16-1008,Homo sapiens,9606
+366,Human coronavirus OC43,HCoV-OC43/Yamagata.JPN/24.16-1006,Homo sapiens,9606
+367,Human coronavirus OC43,HCoV-OC43/Yamagata.JPN/24.16-1005,Homo sapiens,9606
+368,Human coronavirus OC43,HCoV-OC43/Yamagata.JPN/23.16-0980,Homo sapiens,9606
+369,Human coronavirus OC43,HCoV-OC43/Yamagata.JPN/22.16-0950,Homo sapiens,9606
+370,Human coronavirus OC43,HCoV-OC43/Yamagata.JPN/20.16-0914,Homo sapiens,9606
+371,Human coronavirus OC43,HCoV-OC43/Yamagata.JPN/14.16-0684,Homo sapiens,9606
+372,Human coronavirus OC43,HCoV-OC43/Yamagata.JPN/11.16-0552,Homo sapiens,9606
+373,Human coronavirus OC43,HCoV-OC43/Yamagata.JPN/11.15-0615,Homo sapiens,9606
+374,Human coronavirus OC43,HCoV-OC43/Yamagata.JPN/11.15-0612,Homo sapiens,9606
+375,Human coronavirus OC43,HCoV-OC43/Yamagata.JPN/10.15-0600,Homo sapiens,9606
+376,Human coronavirus OC43,HCoV-OC43/Yamagata.JPN/06.15-0350,Homo sapiens,9606
+377,Human coronavirus OC43,HCoV-OC43/Yamagata.JPN/05.15-0248,Homo sapiens,9606
+378,Human coronavirus OC43,HCoV-OC43/Yamagata.JPN/05.15-0234,Homo sapiens,9606
+379,Human coronavirus OC43,HCoV-OC43/Yamagata.JPN/04.15-0214,Homo sapiens,9606
+380,Human coronavirus OC43,HCoV-OC43/Yamagata.JPN/03.15-0087,Homo sapiens,9606
+381,Human coronavirus OC43,HCoV-OC43/Yamagata.JPN/02.15-0083,Homo sapiens,9606
+382,Human coronavirus OC43,HCoV-OC43/Yamagata.JPN/02.15-0076,Homo sapiens,9606
+383,Human coronavirus OC43,HCoV-OC43/Yamagata.JPN/02.15-0022,Homo sapiens,9606
+384,Human coronavirus OC43,2007-09,Homo sapiens,9606
+385,Human coronavirus OC43,2002-04,Homo sapiens,9606
+386,Human coronavirus OC43,HCoV-OC43/USA/TCNP_00204/2017,Homo sapiens,9606
+387,Human coronavirus OC43,N09-382B,Homo sapiens,9606
+388,Human coronavirus OC43,N08-33B_360X,Homo sapiens,9606
+389,Human coronavirus OC43,N07-1689B_116X,Homo sapiens,9606
+390,Human coronavirus OC43,N07-1541B_433X,Homo sapiens,9606
+391,Human coronavirus OC43,guangzhou/2013/15,Homo sapiens,9606
+392,Human coronavirus OC43,guangzhou/2013/14,Homo sapiens,9606
+393,Human coronavirus OC43,guangzhou/2013/12,Homo sapiens,9606
+394,Human coronavirus OC43,guangzhou/2013/11,Homo sapiens,9606
+395,Human coronavirus OC43,guangzhou/2013/10,Homo sapiens,9606
+396,Human coronavirus OC43,guangzhou/2013/09,Homo sapiens,9606
+397,Human coronavirus OC43,guangzhou/2013/08,Homo sapiens,9606
+398,Human coronavirus OC43,guangzhou/2014/06,Homo sapiens,9606
+399,Human coronavirus OC43,guangzhou/2014/04,Homo sapiens,9606
+400,Human coronavirus OC43,guangzhou/2014/03,Homo sapiens,9606
+401,Human coronavirus OC43,guangzhou/2013/02,Homo sapiens,9606
+402,Human coronavirus OC43,guangzhou/2013/01,Homo sapiens,9606
+403,Human coronavirus OC43,N09-595B,Homo sapiens,9606
+404,Human coronavirus OC43,N07-1647B,Homo sapiens,9606
+405,Human coronavirus OC43,N07-1609B,Homo sapiens,9606
+406,Human coronavirus OC43,MY-U1975/13,Homo sapiens,9606
+407,Human coronavirus OC43,MY-U1758/13,Homo sapiens,9606
+408,Human coronavirus OC43,MY-U1140/12,Homo sapiens,9606
+409,Human coronavirus OC43,MY-U1057/12,Homo sapiens,9606
+410,Human coronavirus OC43,MY-U1024/12,Homo sapiens,9606
+411,Human coronavirus OC43,MY-U945/12,Homo sapiens,9606
+412,Human coronavirus OC43,MY-U868/12,Homo sapiens,9606
+413,Human coronavirus OC43,MY-U774/12,Homo sapiens,9606
+414,Human coronavirus OC43,MY-U732/12,Homo sapiens,9606
+415,Human coronavirus OC43,MY-U710/12,Homo sapiens,9606
+416,Human coronavirus OC43,MY-U523/12,Homo sapiens,9606
+417,Human coronavirus OC43,MY-U464/12,Homo sapiens,9606
+418,Human coronavirus OC43,MY-U413/12,Homo sapiens,9606
+419,Human coronavirus OC43,MY-U236/12,Homo sapiens,9606
+420,Human coronavirus OC43,MY-U208/12,Homo sapiens,9606
+421,Human coronavirus OC43,MY-U002/12,Homo sapiens,9606
+431,Human coronavirus OC43,110103,Homo sapiens,9606
+432,Human coronavirus OC43,110094,Homo sapiens,9606
+433,Human coronavirus OC43,110093,Homo sapiens,9606
+434,Human coronavirus OC43,110088,Homo sapiens,9606
+435,Human coronavirus OC43,110086,Homo sapiens,9606
+436,Human coronavirus OC43,110084,Homo sapiens,9606
+437,Human coronavirus OC43,110077,Homo sapiens,9606
+438,Human coronavirus OC43,95406,Homo sapiens,9606
+439,Human coronavirus OC43,41802,Homo sapiens,9606
+440,Human coronavirus OC43,41769,Homo sapiens,9606
+441,Human coronavirus OC43,41698,Homo sapiens,9606
+442,Human coronavirus OC43,41687,Homo sapiens,9606
+443,Human coronavirus OC43,41651,Homo sapiens,9606
+444,Human coronavirus OC43,41638,Homo sapiens,9606
+445,Human coronavirus OC43,41610,Homo sapiens,9606
+446,Human coronavirus OC43,41600,Homo sapiens,9606
+447,Human coronavirus OC43,41598,Homo sapiens,9606
+448,Human coronavirus OC43,41553,Homo sapiens,9606
+449,Human coronavirus OC43,41491,Homo sapiens,9606
+450,Human coronavirus OC43,41368,Homo sapiens,9606
+451,Human coronavirus OC43,41334,Homo sapiens,9606
+452,Human coronavirus OC43,41241,Homo sapiens,9606
+453,Human coronavirus OC43,41206,Homo sapiens,9606
+454,Human coronavirus OC43,41149,Homo sapiens,9606
+455,Human coronavirus OC43,41056,Homo sapiens,9606
+456,Human coronavirus OC43,37272,Homo sapiens,9606
+457,Human coronavirus OC43,36453,Homo sapiens,9606
+458,Human coronavirus OC43,36428,Homo sapiens,9606
+459,Human coronavirus OC43,36405,Homo sapiens,9606
+460,Human coronavirus OC43,36370,Homo sapiens,9606
+461,Human coronavirus OC43,36331,Homo sapiens,9606
+462,Human coronavirus OC43,36252,Homo sapiens,9606
+463,Human coronavirus OC43,36149,Homo sapiens,9606
+464,Human coronavirus OC43,36088,Homo sapiens,9606
+465,Human coronavirus OC43,25190,Homo sapiens,9606
+466,Human coronavirus OC43,10644,Homo sapiens,9606
+467,Human coronavirus OC43,10632,Homo sapiens,9606
+468,Human coronavirus OC43,10629,Homo sapiens,9606
+469,Human coronavirus OC43,13MYKL1975,Homo sapiens,9606
+470,Human coronavirus OC43,13MYKL1758,Homo sapiens,9606
+471,Human coronavirus OC43,12MYKL1612,Homo sapiens,9606
+472,Human coronavirus OC43,12MYKL1484,Homo sapiens,9606
+473,Human coronavirus OC43,12MYKL1381,Homo sapiens,9606
+474,Human coronavirus OC43,12MYKL1140,Homo sapiens,9606
+475,Human coronavirus OC43,12MYKL1130,Homo sapiens,9606
+476,Human coronavirus OC43,12MYKL1057,Homo sapiens,9606
+477,Human coronavirus OC43,12MYKL1024,Homo sapiens,9606
+478,Human coronavirus OC43,12MYKL0945,Homo sapiens,9606
+479,Human coronavirus OC43,12MYKL0868,Homo sapiens,9606
+480,Human coronavirus OC43,12MYKL0781,Homo sapiens,9606
+481,Human coronavirus OC43,12MYKL0774,Homo sapiens,9606
+482,Human coronavirus OC43,12MYKL0760,Homo sapiens,9606
+483,Human coronavirus OC43,12MYKL0732,Homo sapiens,9606
+484,Human coronavirus OC43,12MYKL0710,Homo sapiens,9606
+485,Human coronavirus OC43,12MYKL0523,Homo sapiens,9606
+486,Human coronavirus OC43,12MYKL0464,Homo sapiens,9606
+487,Human coronavirus OC43,12MYKL0413,Homo sapiens,9606
+488,Human coronavirus OC43,12MYKL0236,Homo sapiens,9606
+489,Human coronavirus OC43,12MYKL0208,Homo sapiens,9606
+490,Human coronavirus OC43,12MYKL0043,Homo sapiens,9606
+491,Human coronavirus OC43,12MYKL0002,Homo sapiens,9606
+492,Human coronavirus OC43,HCoV-OC43/UK/London/2011,Homo sapiens,9606
+493,Human coronavirus OC43,China/Beijing/2009/124-5,Homo sapiens,9606
+494,Human coronavirus OC43,China/Beijing/2009/124-4,Homo sapiens,9606
+495,Human coronavirus OC43,China/Beijing/2009/124-1,Homo sapiens,9606
+496,Human coronavirus OC43,China/Beijing/2009/124-2,Homo sapiens,9606
+497,Human coronavirus OC43,China/Beijing/2009/124-3,Homo sapiens,9606
+498,Human coronavirus OC43,10574/2010,Homo sapiens,9606
+499,Human coronavirus OC43,10290/2010,Homo sapiens,9606
+500,Human coronavirus OC43,892A/2008,Homo sapiens,9606
+501,Human coronavirus OC43,8164/2009,Homo sapiens,9606
+502,Human coronavirus OC43,69A/2007,Homo sapiens,9606
+503,Human coronavirus OC43,5617/2007,Homo sapiens,9606
+504,Human coronavirus OC43,5595/2007,Homo sapiens,9606
+505,Human coronavirus OC43,10108/2010,Homo sapiens,9606
+506,Human coronavirus OC43,5566/2007,Homo sapiens,9606
+507,Human coronavirus OC43,5519/2007,Homo sapiens,9606
+508,Human coronavirus OC43,5517/2007,Homo sapiens,9606
+509,Human coronavirus OC43,5508/2007,Homo sapiens,9606
+510,Human coronavirus OC43,5485/2007,Homo sapiens,9606
+511,Human coronavirus OC43,5484/2007,Homo sapiens,9606
+512,Human coronavirus OC43,5479/2007,Homo sapiens,9606
+513,Human coronavirus OC43,5445/2007,Homo sapiens,9606
+514,Human coronavirus OC43,5442/2007,Homo sapiens,9606
+515,Human coronavirus OC43,5414/2007,Homo sapiens,9606
+516,Human coronavirus OC43,5370/2007,Homo sapiens,9606
+517,Human coronavirus OC43,229/2005,Homo sapiens,9606
+518,Human coronavirus OC43,12694/2012,Homo sapiens,9606
+519,Human coronavirus OC43,12691/2012,Homo sapiens,9606
+520,Human coronavirus OC43,12689/2012,Homo sapiens,9606
+521,Human coronavirus OC43,5472/2007,Homo sapiens,9606
+522,Human coronavirus OC43,3582/2006,Homo sapiens,9606
+523,Human coronavirus OC43,3184A/2012,Homo sapiens,9606
+524,Human coronavirus OC43,3269A/2012,Homo sapiens,9606
+525,Human coronavirus OC43,10285/2010,Homo sapiens,9606
+526,Human coronavirus OC43,5352/2007,Homo sapiens,9606
+527,Human coronavirus OC43,2151A/2010,Homo sapiens,9606
+528,Human coronavirus OC43,5345/2007,Homo sapiens,9606
+529,Human coronavirus OC43,39A/2007,Homo sapiens,9606
+530,Human coronavirus OC43,1926/2006,Homo sapiens,9606
+531,Human coronavirus OC43,1997A/2010,Homo sapiens,9606
+532,Human coronavirus OC43,1908A/2010,Homo sapiens,9606
+533,Human coronavirus OC43,8942_09,Homo sapiens,9606
+534,Human coronavirus OC43,3098A_12,Homo sapiens,9606
+535,Human coronavirus OC43,11930_11,Homo sapiens,9606
+536,Human coronavirus OC43,1489A_09,Homo sapiens,9606
+537,Human coronavirus OC43,TN96_12-7,Homo sapiens,9606
+538,Human coronavirus OC43,TN87_1-25,Homo sapiens,9606
+539,Human coronavirus OC43,TN97_1-4,Homo sapiens,9606
+540,Human coronavirus OC43,TN97_1-5,Homo sapiens,9606
+541,Human coronavirus OC43,TN96_5-6,Homo sapiens,9606
+542,Human coronavirus OC43,TN96_12-48,Homo sapiens,9606
+543,Human coronavirus OC43,TN95_1-18,Homo sapiens,9606
+544,Human coronavirus OC43,TN93_1-48,Homo sapiens,9606
+545,Human coronavirus OC43,TN91_1-58,Homo sapiens,9606
+546,Human coronavirus OC43,TN91_1-11,Homo sapiens,9606
+547,Human coronavirus OC43,TN91_2-6,Homo sapiens,9606
+548,Human coronavirus OC43,TN91_1-38,Homo sapiens,9606
+549,Human coronavirus OC43,TN90_1-54,Homo sapiens,9606
+550,Human coronavirus OC43,TN92_5-1,Homo sapiens,9606
+551,Human coronavirus OC43,TN91_3-29,Homo sapiens,9606
+552,Human coronavirus OC43,TN91_1-66,Homo sapiens,9606
+553,Human coronavirus OC43,TN91_2-11,Homo sapiens,9606
+554,Human coronavirus OC43,TN91_2-36,Homo sapiens,9606
+555,Human coronavirus OC43,TN91_2-10,Homo sapiens,9606
+556,Human coronavirus OC43,TN85_2-6,Homo sapiens,9606
+557,Human coronavirus OC43,TN95_1-15,Homo sapiens,9606
+558,Human coronavirus OC43,TN95_3-23,Homo sapiens,9606
+559,Human coronavirus OC43,TN92_11-43,Homo sapiens,9606
+560,Human coronavirus OC43,TN94_1-72,Homo sapiens,9606
+561,Human coronavirus OC43,TN87_3-16,Homo sapiens,9606
+615,Betacoronavirus England 1,England 1,Homo sapiens,9606
+616,Betacoronavirus England 1,England 1,Homo sapiens,9606
+619,Human betacoronavirus 2c EMC/2012,Essen,Homo sapiens,9606
+620,Human betacoronavirus 2c EMC/2012,Essen,Homo sapiens,9606
+621,Human betacoronavirus 2c EMC/2012,HCoV-EMC,Homo sapiens,9606
+622,Human betacoronavirus 2c England-Qatar/2012,England/Qatar/2012,Homo sapiens,9606
+624,Human betacoronavirus 2c Jordan-N3/2012,Jordan-N3/2012,Homo sapiens,9606
+885,SARS coronavirus HKU-39849,HKU-39849,Homo sapiens,9606
+886,SARS coronavirus HKU-39849,HKU-39849,Homo sapiens,9606
+889,SARS coronavirus P2,P2,Homo sapiens,9606
+933,SARS coronavirus Urbani,Urbani,Homo sapiens,9606
+934,SARS coronavirus Urbani,Urbani,Homo sapiens,9606
+935,SARS coronavirus Urbani,Urbani,Homo sapiens,9606
+936,SARS coronavirus Urbani,Urbani,Homo sapiens,9606
+937,SARS coronavirus Urbani,Urbani,Homo sapiens,9606
+938,SARS coronavirus Urbani,Urbani,Homo sapiens,9606
+947,Severe acute respiratory syndrome coronavirus 2,SARS-CoV-2/human/USA/USA-WA1/2020,Homo sapiens,9606
+948,Severe acute respiratory syndrome coronavirus 2,SARS-CoV-2/human/DEU/HH-1/2020,Homo sapiens,9606
+949,Severe acute respiratory syndrome coronavirus 2,SARS-CoV-2/human/USA/CZB-RR057-015/2020,Homo sapiens,9606
+950,Severe acute respiratory syndrome coronavirus 2,SARS-CoV-2/human/USA/CZB-RR057-014/2020,Homo sapiens,9606
+951,Severe acute respiratory syndrome coronavirus 2,SARS-CoV-2/human/USA/CZB-RR057-013/2020,Homo sapiens,9606
+952,Severe acute respiratory syndrome coronavirus 2,SARS-CoV-2/human/USA/CZB-RR057-011/2020,Homo sapiens,9606
+953,Severe acute respiratory syndrome coronavirus 2,SARS-CoV-2/human/USA/CZB-RR057-007/2020,Homo sapiens,9606
+954,Severe acute respiratory syndrome coronavirus 2,SARS-CoV-2/human/USA/CZB-RR057-006/2020,Homo sapiens,9606
+955,Severe acute respiratory syndrome coronavirus 2,SARS-CoV-2/human/USA/CZB-RR057-005/2020,Homo sapiens,9606
+957,Severe acute respiratory syndrome coronavirus 2,SARS-CoV-2/human/HKG/HKU-904a/2020,Homo sapiens,9606
+958,Severe acute respiratory syndrome coronavirus 2,SARS-CoV-2/human/HKG/HKU-915a/2020,Homo sapiens,9606
+959,Severe acute respiratory syndrome coronavirus 2,SARS-CoV-2/human/HKG/HKU-913a/2020,Homo sapiens,9606
+960,Severe acute respiratory syndrome coronavirus 2,SARS-CoV-2/human/HKG/HKU-911a/2020,Homo sapiens,9606
+961,Severe acute respiratory syndrome coronavirus 2,SARS-CoV-2/human/HKG/HKU-905a/2020,Homo sapiens,9606
+962,Severe acute respiratory syndrome coronavirus 2,SARS-CoV-2/human/USA/AZ-ASU2936/2020,Homo sapiens,9606
+963,Severe acute respiratory syndrome coronavirus 2,SARS-CoV-2/human/HKG/case163_VM20009579/2020,Homo sapiens,9606
+966,Severe acute respiratory syndrome coronavirus 2,SARS-CoV-2/human/USA/WA-UW378/2020,Homo sapiens,9606
+967,Severe acute respiratory syndrome coronavirus 2,SARS-CoV-2/human/USA/WA-UW390/2020,Homo sapiens,9606
+968,Severe acute respiratory syndrome coronavirus 2,SARS-CoV-2/human/USA/WA-UW376/2020,Homo sapiens,9606
+969,Severe acute respiratory syndrome coronavirus 2,SARS-CoV-2/human/USA/WA-UW375/2020,Homo sapiens,9606
+970,Severe acute respiratory syndrome coronavirus 2,SARS-CoV-2/human/USA/WA-UW374/2020,Homo sapiens,9606
+971,Severe acute respiratory syndrome coronavirus 2,SARS-CoV-2/human/USA/WA-UW373/2020,Homo sapiens,9606
+972,Severe acute respiratory syndrome coronavirus 2,SARS-CoV-2/human/USA/WA-UW372/2020,Homo sapiens,9606
+973,Severe acute respiratory syndrome coronavirus 2,SARS-CoV-2/human/USA/WA-UW371/2020,Homo sapiens,9606
+974,Severe acute respiratory syndrome coronavirus 2,SARS-CoV-2/human/USA/WA-UW370/2020,Homo sapiens,9606
+975,Severe acute respiratory syndrome coronavirus 2,SARS-CoV-2/human/USA/WA-UW369/2020,Homo sapiens,9606
+976,Severe acute respiratory syndrome coronavirus 2,SARS-CoV-2/human/USA/WA-UW368/2020,Homo sapiens,9606
+977,Severe acute respiratory syndrome coronavirus 2,SARS-CoV-2/human/USA/WA-UW367/2020,Homo sapiens,9606
+978,Severe acute respiratory syndrome coronavirus 2,SARS-CoV-2/human/USA/WA-UW366/2020,Homo sapiens,9606
+979,Severe acute respiratory syndrome coronavirus 2,SARS-CoV-2/human/USA/WA-UW365/2020,Homo sapiens,9606
+980,Severe acute respiratory syndrome coronavirus 2,SARS-CoV-2/human/USA/WA-UW364/2020,Homo sapiens,9606
+981,Severe acute respiratory syndrome coronavirus 2,SARS-CoV-2/human/USA/WA-UW363/2020,Homo sapiens,9606
+982,Severe acute respiratory syndrome coronavirus 2,SARS-CoV-2/human/USA/WA-UW362/2020,Homo sapiens,9606
+983,Severe acute respiratory syndrome coronavirus 2,SARS-CoV-2/human/USA/WA-UW361/2020,Homo sapiens,9606
+984,Severe acute respiratory syndrome coronavirus 2,SARS-CoV-2/human/USA/WA-UW360/2020,Homo sapiens,9606
+985,Severe acute respiratory syndrome coronavirus 2,SARS-CoV-2/human/USA/WA-UW359/2020,Homo sapiens,9606
+986,Severe acute respiratory syndrome coronavirus 2,SARS-CoV-2/human/USA/UNKNOWN-UW358/2020,Homo sapiens,9606
+987,Severe acute respiratory syndrome coronavirus 2,SARS-CoV-2/human/USA/WA-UW357/2020,Homo sapiens,9606
+988,Severe acute respiratory syndrome coronavirus 2,SARS-CoV-2/human/USA/WA-UW356/2020,Homo sapiens,9606
+989,Severe acute respiratory syndrome coronavirus 2,SARS-CoV-2/human/USA/WA-UW355/2020,Homo sapiens,9606
+990,Severe acute respiratory syndrome coronavirus 2,SARS-CoV-2/human/USA/WA-UW354/2020,Homo sapiens,9606
+991,Severe acute respiratory syndrome coronavirus 2,SARS-CoV-2/human/USA/IL-UW353/2020,Homo sapiens,9606
+992,Severe acute respiratory syndrome coronavirus 2,SARS-CoV-2/human/USA/WA-UW352/2020,Homo sapiens,9606
+993,Severe acute respiratory syndrome coronavirus 2,SARS-CoV-2/human/USA/WA-UW351/2020,Homo sapiens,9606
+994,Severe acute respiratory syndrome coronavirus 2,SARS-CoV-2/human/USA/WA-UW350/2020,Homo sapiens,9606
+995,Severe acute respiratory syndrome coronavirus 2,SARS-CoV-2/human/USA/IL-UW349/2020,Homo sapiens,9606
+996,Severe acute respiratory syndrome coronavirus 2,SARS-CoV-2/human/USA/IL-UW348/2020,Homo sapiens,9606
+997,Severe acute respiratory syndrome coronavirus 2,SARS-CoV-2/human/USA/WA-UW347/2020,Homo sapiens,9606
+998,Severe acute respiratory syndrome coronavirus 2,SARS-CoV-2/human/USA/WA-UW346/2020,Homo sapiens,9606
+999,Severe acute respiratory syndrome coronavirus 2,SARS-CoV-2/human/USA/WA-UW345/2020,Homo sapiens,9606
+1000,Severe acute respiratory syndrome coronavirus 2,SARS-CoV-2/human/USA/WA-UW344/2020,Homo sapiens,9606
+1001,Severe acute respiratory syndrome coronavirus 2,SARS-CoV-2/human/USA/WA-UW343/2020,Homo sapiens,9606
+1002,Severe acute respiratory syndrome coronavirus 2,SARS-CoV-2/human/USA/WA-UW342/2020,Homo sapiens,9606
+1003,Severe acute respiratory syndrome coronavirus 2,SARS-CoV-2/human/USA/WA-UW341/2020,Homo sapiens,9606
+1004,Severe acute respiratory syndrome coronavirus 2,SARS-CoV-2/human/USA/WA-UW340/2020,Homo sapiens,9606
+1005,Severe acute respiratory syndrome coronavirus 2,SARS-CoV-2/human/USA/WA-UW339/2020,Homo sapiens,9606
+1006,Severe acute respiratory syndrome coronavirus 2,SARS-CoV-2/human/USA/WA-UW338/2020,Homo sapiens,9606
+1007,Severe acute respiratory syndrome coronavirus 2,SARS-CoV-2/human/USA/WA-UW337/2020,Homo sapiens,9606
+1008,Severe acute respiratory syndrome coronavirus 2,SARS-CoV-2/human/USA/WA-UW336/2020,Homo sapiens,9606
+1009,Severe acute respiratory syndrome coronavirus 2,SARS-CoV-2/human/USA/MN-UW335/2020,Homo sapiens,9606
+1010,Severe acute respiratory syndrome coronavirus 2,SARS-CoV-2/human/USA/WA-UW334/2020,Homo sapiens,9606
+1011,Severe acute respiratory syndrome coronavirus 2,SARS-CoV-2/human/USA/WA-UW333/2020,Homo sapiens,9606
+1012,Severe acute respiratory syndrome coronavirus 2,SARS-CoV-2/human/USA/WA-UW332/2020,Homo sapiens,9606
+1013,Severe acute respiratory syndrome coronavirus 2,SARS-CoV-2/human/USA/CT-UW331/2020,Homo sapiens,9606
+1014,Severe acute respiratory syndrome coronavirus 2,SARS-CoV-2/human/USA/WA-UW330/2020,Homo sapiens,9606
+1015,Severe acute respiratory syndrome coronavirus 2,SARS-CoV-2/human/USA/WA-UW379/2020,Homo sapiens,9606
+1016,Severe acute respiratory syndrome coronavirus 2,SARS-CoV-2/human/USA/WA-UW328/2020,Homo sapiens,9606
+1017,Severe acute respiratory syndrome coronavirus 2,SARS-CoV-2/human/USA/CT-UW327/2020,Homo sapiens,9606
+1018,Severe acute respiratory syndrome coronavirus 2,SARS-CoV-2/human/USA/MN-UW326/2020,Homo sapiens,9606
+1019,Severe acute respiratory syndrome coronavirus 2,SARS-CoV-2/human/USA/WA-UW325/2020,Homo sapiens,9606
+1020,Severe acute respiratory syndrome coronavirus 2,SARS-CoV-2/human/USA/WA-UW324/2020,Homo sapiens,9606
+1021,Severe acute respiratory syndrome coronavirus 2,SARS-CoV-2/human/USA/WA-UW323/2020,Homo sapiens,9606
+1022,Severe acute respiratory syndrome coronavirus 2,SARS-CoV-2/human/USA/WA-UW322/2020,Homo sapiens,9606
+1023,Severe acute respiratory syndrome coronavirus 2,SARS-CoV-2/human/HKG/HK20/2020,Homo sapiens,9606
+1024,Severe acute respiratory syndrome coronavirus 2,TKYE6947_2020,Homo sapiens,9606
+1025,Severe acute respiratory syndrome coronavirus 2,SARS-CoV-2/human/IRN/MHKN-2/2020,Homo sapiens,9606
+1026,Severe acute respiratory syndrome coronavirus 2,SARS-CoV-2/human/IRN/MHKN-1/2020,Homo sapiens,9606
+1027,Severe acute respiratory syndrome coronavirus 2,SARS-CoV-2/human/CHN/SH01/2020,Homo sapiens,9606
+1028,Severe acute respiratory syndrome coronavirus 2,SARS-CoV-2/human/CHN/WH-09/2020,Homo sapiens,9606
+1029,Severe acute respiratory syndrome coronavirus 2,SARS-CoV-2/human/CHN/Yunnan-01/2020,Homo sapiens,9606
+1030,Severe acute respiratory syndrome coronavirus 2,Wuhan-Hu-1,Homo sapiens,9606
+1031,Severe acute respiratory syndrome coronavirus 2,WIV07,Homo sapiens,9606
+1032,Severe acute respiratory syndrome coronavirus 2,WIV06,Homo sapiens,9606
+1033,Severe acute respiratory syndrome coronavirus 2,WIV05,Homo sapiens,9606
+1034,Severe acute respiratory syndrome coronavirus 2,WIV04,Homo sapiens,9606
+1035,Severe acute respiratory syndrome coronavirus 2,WIV02,Homo sapiens,9606
+71,Human coronavirus OC43,Human coronavirus OC43,Homo sapiens (Human),9606
+569,Human coronavirus HKU1 (isolate N1),Human coronavirus HKU1 (isolate N1),Homo sapiens (Human),9606
+570,Human coronavirus HKU1 (isolate N2),Human coronavirus HKU1 (isolate N2),Homo sapiens (Human),9606
+571,Human coronavirus HKU1 (isolate N5),Human coronavirus HKU1 (isolate N5),Homo sapiens (Human),9606
+956,Severe acute respiratory syndrome coronavirus 2,Severe acute respiratory syndrome coronavirus 2,Homo sapiens (Human),9606
+422,Human coronavirus OC43,OC43/human/Mex/LRTI_238/2011,Homo sapiens; age: 2 months; sex: male,9606
+28,Human enteric coronavirus strain 4408,4408,Homo sapiens; bovine,9606
+33,Water deer coronavirus,W17-18,Hydropotes inermis (water deer),9883
+639,Hypsugo bat coronavirus HKU25,NL140462,Hypsugo pulveratus,867834
+640,Hypsugo bat coronavirus HKU25,YD131305,Hypsugo pulveratus,867834
+1043,Pangolin coronavirus,PCoV_GX-P5E,Manis javanica (Malayan pangolin),9974
+1044,Pangolin coronavirus,PCoV_GX-P5L,Manis javanica (Malayan pangolin),9974
+1045,Pangolin coronavirus,PCoV_GX-P1E,Manis javanica (Malayan pangolin),9974
+1046,Pangolin coronavirus,PCoV_GX-P4L,Manis javanica (Malayan pangolin),9974
+586,Murine hepatitis virus strain A59,A59,mouse,10090
+587,Murine hepatitis virus strain A59,A59,mouse,10090
+588,Murine hepatitis virus strain A59,A59,mouse,10090
+932,SARS coronavirus Urbani,SARS coronavirus Urbani,mouse,10090
+572,Murine coronavirus inf-MHV-A59,inf-MHV-A59,Mus musculus,10090
+573,Murine coronavirus MHV-1,MHV-1,Mus musculus,10090
+574,Murine coronavirus MHV-3,MHV-3,Mus musculus,10090
+575,Murine coronavirus MHV-JHM.IA,MHV-JHM.IA,Mus musculus,10090
+576,Murine coronavirus RA59/R13,RA59/R13,Mus musculus,10090
+577,Murine coronavirus RA59/SJHM,RA59/SJHM,Mus musculus,10090
+578,Murine coronavirus RA59/SJHM,RA59/SJHM,Mus musculus,10090
+579,Murine coronavirus repA59/RJHM,repA59/RJHM,Mus musculus,10090
+580,Murine coronavirus repJHM/RA59,repJHM/RA59,Mus musculus,10090
+581,Murine coronavirus RJHM/A,RJHM/A,Mus musculus,10090
+582,Murine coronavirus SA59/RJHM,SA59/RJHM,Mus musculus,10090
+584,Murine hepatitis virus strain 4,Murine hepatitis virus strain 4,Mus musculus (Mouse),10090
+585,Murine hepatitis virus strain A59,Murine hepatitis virus strain A59,Mus musculus (Mouse),10090
+589,Murine hepatitis virus strain JHM,Murine hepatitis virus strain JHM,Mus musculus (Mouse),10090
+591,Murine hepatitis virus strain JHMV / variant CL-2,Murine hepatitis virus strain JHMV / variant CL-2,Mus musculus (Mouse),10090
+736,SARS coronavirus MA15,MA15,Mus musculus; old,10090
+737,SARS coronavirus MA15,MA15,Mus musculus; old,10090
+738,SARS coronavirus MA15,MA15,Mus musculus; old,10090
+739,SARS coronavirus MA15,MA15,Mus musculus; old,10090
+740,SARS coronavirus MA15,MA15,Mus musculus; old,10090
+750,SARS coronavirus MA15,MA15,Mus musculus; old,10090
+751,SARS coronavirus MA15,MA15,Mus musculus; old,10090
+752,SARS coronavirus MA15,MA15,Mus musculus; old,10090
+753,SARS coronavirus MA15,MA15,Mus musculus; old,10090
+754,SARS coronavirus MA15,MA15,Mus musculus; old,10090
+762,SARS coronavirus MA15 ExoN1,MA15 ExoN1 mutant,Mus musculus; old,10090
+763,SARS coronavirus MA15 ExoN1,MA15 ExoN1 mutant,Mus musculus; old,10090
+764,SARS coronavirus MA15 ExoN1,MA15 ExoN1 mutant,Mus musculus; old,10090
+767,SARS coronavirus MA15 ExoN1,MA15 ExoN1 mutant,Mus musculus; old,10090
+768,SARS coronavirus MA15 ExoN1,MA15 ExoN1 mutant,Mus musculus; old,10090
+769,SARS coronavirus MA15 ExoN1,MA15 ExoN1 mutant,Mus musculus; old,10090
+770,SARS coronavirus MA15 ExoN1,MA15 ExoN1 mutant,Mus musculus; old,10090
+771,SARS coronavirus MA15 ExoN1,MA15 ExoN1 mutant,Mus musculus; old,10090
+772,SARS coronavirus MA15 ExoN1,MA15 ExoN1 mutant,Mus musculus; old,10090
+773,SARS coronavirus MA15 ExoN1,MA15 ExoN1 mutant,Mus musculus; old,10090
+741,SARS coronavirus MA15,MA15,Mus musculus; young,10090
+742,SARS coronavirus MA15,MA15,Mus musculus; young,10090
+743,SARS coronavirus MA15,MA15,Mus musculus; young,10090
+744,SARS coronavirus MA15,MA15,Mus musculus; young,10090
+745,SARS coronavirus MA15,MA15,Mus musculus; young,10090
+746,SARS coronavirus MA15,MA15,Mus musculus; young,10090
+747,SARS coronavirus MA15,MA15,Mus musculus; young,10090
+748,SARS coronavirus MA15,MA15,Mus musculus; young,10090
+749,SARS coronavirus MA15,MA15,Mus musculus; young,10090
+755,SARS coronavirus MA15,MA15,Mus musculus; young,10090
+765,SARS coronavirus MA15 ExoN1,MA15 ExoN1 mutant,Mus musculus; young,10090
+766,SARS coronavirus MA15 ExoN1,MA15 ExoN1 mutant,Mus musculus; young,10090
+774,SARS coronavirus MA15 ExoN1,MA15 ExoN1 mutant,Mus musculus; young,10090
+775,SARS coronavirus MA15 ExoN1,MA15 ExoN1 mutant,Mus musculus; young,10090
+776,SARS coronavirus MA15 ExoN1,MA15 ExoN1 mutant,Mus musculus; young,10090
+777,SARS coronavirus MA15 ExoN1,MA15 ExoN1 mutant,Mus musculus; young,10090
+778,SARS coronavirus MA15 ExoN1,MA15 ExoN1 mutant,Mus musculus; young,10090
+779,SARS coronavirus MA15 ExoN1,MA15 ExoN1 mutant,Mus musculus; young,10090
+780,SARS coronavirus MA15 ExoN1,MA15 ExoN1 mutant,Mus musculus; young,10090
+781,SARS coronavirus MA15 ExoN1,MA15 ExoN1 mutant,Mus musculus; young,10090
+618,Coronavirus Neoromicia/PML-PHE1/RSA/2011,Neoromicia/PML-PHE1/RSA/2011,Neoromicia capensis,110938
+601,Longquan Rl rat coronavirus,Longquan-708,Niviventer confucianus,248811
+1052,Betacoronavirus BtCoV/KW2E-F93/Nyc_spec/GHA/2010,BtCoV/KW2E-F93/Nyc_spec/GHA/2010,Nycteris sp.,59447
+604,Rabbit coronavirus HKU14,HKU14-1,Oryctolagus cuniculus,9986
+605,Rabbit coronavirus HKU14,HKU14-10,Oryctolagus cuniculus,9986
+606,Rabbit coronavirus HKU14,HKU14-8,Oryctolagus cuniculus,9986
+607,Rabbit coronavirus HKU14,HKU14-3,Oryctolagus cuniculus,9986
+608,Rabbit coronavirus HKU14,HKU14-1,Oryctolagus cuniculus,9986
+833,SARS coronavirus B039,B039,palm civet,71117
+866,SARS coronavirus CS21,CS21,palm civet cats,71117
+867,SARS coronavirus CS24,CS24,palm civet cats,71117
+872,SARS coronavirus ES191,ES191,palm civet cats,71117
+873,SARS coronavirus ES260,ES260,palm civet cats,71117
+940,SARS coronavirus WF188,WF188,palm civet cats,71117
+344,Human coronavirus OC43,TNP F1835_2,Pan troglodytes verus,37012
+345,Human coronavirus OC43,TNP F1834_2,Pan troglodytes verus,37012
+346,Human coronavirus OC43,TNP F1833_2,Pan troglodytes verus,37012
+347,Human coronavirus OC43,TNP F1832_2,Pan troglodytes verus,37012
+348,Human coronavirus OC43,TNP F1791_2,Pan troglodytes verus,37012
+349,Human coronavirus OC43,TNP F1790_2,Pan troglodytes verus,37012
+350,Human coronavirus OC43,TNP F1778_2,Pan troglodytes verus,37012
+1042,Pangolin coronavirus,PCoV_GX-P2V,pangolin,9971
+965,Severe acute respiratory syndrome coronavirus 2,SARS-CoV-2/tiger/NY/040420/2020,Panthera tigris jacksoni,419130
+629,BtPa-BetaCoV/GD2013,BtPa-GD2013,Pipistrellus abramus,105295
+641,Pipistrellus abramus bat coronavirus HKU5-related,BY140568,Pipistrellus abramus,105295
+1048,Bat coronavirus BtCoV/8-691/Pip_nat/ROU/2009,BtCoV/8-691/Pip_nat/ROU/2009,Pipistrellus nathusii,59473
+1050,Bat coronavirus BtCoV/UKR-G17/Pip_nat/UKR/2011,BtCoV/UKR-G17/Pip_nat/UKR/2011,Pipistrellus nathusii,59473
+1049,Bat coronavirus BtCoV/8-724/Pip_pyg/ROU/2009,BtCoV/8-724/Pip_pyg/ROU/2009,Pipistrellus pygmaeus,246814
+594,Rat coronavirus Parker,Parker,rat,10114
+595,Rat coronavirus Parker,Parker,rat,10114
+1058,Betacoronavirus sp.,VZ_BetaCoV_22084_6,Rattus argentiventer,83752
+1059,Betacoronavirus sp.,VZ_BetaCoV_22084_10,Rattus argentiventer,83752
+1060,Betacoronavirus sp.,VZ_BetaCoV_22084_1,Rattus argentiventer,83752
+1061,Betacoronavirus sp.,VZ_BetaCoV_22054_56,Rattus argentiventer,83752
+1062,Betacoronavirus sp.,VZ_BetaCoV_20724_43,Rattus argentiventer,83752
+1063,Betacoronavirus sp.,VZ_BetaCoV_20724_39,Rattus argentiventer,83752
+1064,Betacoronavirus sp.,VZ_BetaCoV_20724_38,Rattus argentiventer,83752
+1065,Betacoronavirus sp.,VZ_BetaCoV_20724_34_c13,Rattus argentiventer,83752
+1066,Betacoronavirus sp.,VZ_BetaCoV_20724_34_c12,Rattus argentiventer,83752
+1067,Betacoronavirus sp.,VZ_BetaCoV_20724_33,Rattus argentiventer,83752
+1068,Betacoronavirus sp.,VZ_BetaCoV_16715_52,Rattus argentiventer,83752
+602,Longquan Rl rat coronavirus,Longquan-370,Rattus losea,69075
+565,Betacoronavirus HKU24,HKU24-R05005I,Rattus norvegicus (Norway rat),10116
+566,Betacoronavirus HKU24,HKU24-R05010I,Rattus norvegicus (Norway rat),10116
+567,Betacoronavirus HKU24,HKU24-R05009I,Rattus norvegicus (Norway rat),10116
+568,Betacoronavirus HKU24,HKU24-R05005I,Rattus norvegicus (Norway rat),10116
+596,Rat coronavirus (strain 681),Rat coronavirus (strain 681),Rattus norvegicus (Rat),10116
+603,Longquan Rl rat coronavirus,Longquan-189,Rattus tanezumi,35732
+686,Bat SARS-like coronavirus,Rf4092,Rhinilophus ferrumequinum,59479
+654,Coronavirus BtRt-BetaCoV/GX2018,BtRt-BetaCoV/GX2018,Rhinolophus affinis,59477
+656,Bat coronavirus RaTG13,RaTG13,Rhinolophus affinis,59477
+819,Rhinolophus affinis coronavirus,LYRa3,Rhinolophus affinis,59477
+820,Rhinolophus affinis coronavirus,LYRa11,Rhinolophus affinis,59477
+1039,Coronavirus BtRs-BetaCoV/YN2018B,BtRs-BetaCoV/YN2018B,Rhinolophus affinis,59477
+1040,Coronavirus BtRs-BetaCoV/YN2018C,BtRs-BetaCoV/YN2018C,Rhinolophus affinis,59477
+1041,Coronavirus BtRs-BetaCoV/YN2018D,BtRs-BetaCoV/YN2018D,Rhinolophus affinis,59477
+1054,Coronavirus BtRs-BetaCoV/YN2018A,BtRs-BetaCoV/YN2018A,Rhinolophus affinis,59477
+1036,Bat coronavirus BM48-31/BGR/2008,BtCoV/BM48-31/BGR/2008,Rhinolophus blasii,519037
+1037,Bat coronavirus BM48-31/BGR/2008,BtCoV/BM48-31/BGR/2008,Rhinolophus blasii,519037
+1057,SARS-like coronavirus BatCoV/BB9904/BGR/2008,BatCoV/BB9904/BGR/2008,Rhinolophus euryale,109476
+694,Bat SARS-like coronavirus YNLF_31C,YNLF_31C,Rhinolophus Ferrumequinum,59479
+695,Bat SARS-like coronavirus YNLF_34C,YNLF_34C,Rhinolophus Ferrumequinum,59479
+696,BtRf-BetaCoV/HeB2013,BtRf-HeB2013,Rhinolophus ferrumequinum,59479
+697,BtRf-BetaCoV/JL2012,BtRf-JL2012,Rhinolophus ferrumequinum,59479
+698,BtRf-BetaCoV/SX2013,BtRf-SX2013,Rhinolophus ferrumequinum,59479
+1053,BtRf-BetaCoV/HuB2013,BtRf-HuB2013,Rhinolophus ferrumequinum,59479
+674,Bat SARS CoV Rp3/2004,Bat SARS CoV Rp3/2004,Rhinolophus ferrumequinum (Greater horseshoe bat),59479
+672,Bat CoV 279/2005,Bat CoV 279/2005,Rhinolophus macrotis (Big-eared horseshoe bat),196889
+676,Bat SARS-like coronavirus,Longquan-140,Rhinolophus monoceros,169756
+657,Bat coronavirus Rp/Shaanxi2011,Rp/Shaanxi2011,Rhinolophus pusillus,159858
+677,Bat SARS-like coronavirus,bat-SL-CoVZXC21,Rhinolophus sinicus,89399
+678,Bat SARS-like coronavirus,bat-SL-CoVZC45,Rhinolophus sinicus,89399
+679,Bat SARS-like coronavirus,Rs9401,Rhinolophus sinicus,89399
+680,Bat SARS-like coronavirus,Rs7327,Rhinolophus sinicus,89399
+681,Bat SARS-like coronavirus,Rs4874,Rhinolophus sinicus,89399
+682,Bat SARS-like coronavirus,Rs4255,Rhinolophus sinicus,89399
+683,Bat SARS-like coronavirus,Rs4247,Rhinolophus sinicus,89399
+684,Bat SARS-like coronavirus,Rs4237,Rhinolophus sinicus,89399
+685,Bat SARS-like coronavirus,Rs4231,Rhinolophus sinicus,89399
+687,Bat SARS-like coronavirus,Rs4084,Rhinolophus sinicus,89399
+688,Bat SARS-like coronavirus,Rs4081,Rhinolophus sinicus,89399
+690,Bat SARS-like coronavirus Rs3367,Rs3367,Rhinolophus sinicus,89399
+691,Bat SARS-like coronavirus RsSHC014,RsSHC014,Rhinolophus sinicus,89399
+692,Bat SARS-like coronavirus WIV1,WIV1,Rhinolophus sinicus,89399
+693,Bat SARS-like coronavirus WIV1,WIV1,Rhinolophus sinicus,89399
+699,BtRs-BetaCoV/GX2013,BtRs-GX2013,Rhinolophus sinicus,89399
+700,BtRs-BetaCoV/HuB2013,BtRs-HuB2013,Rhinolophus sinicus,89399
+701,BtRs-BetaCoV/YN2013,BtRs-YN2013,Rhinolophus sinicus,89399
+897,SARS coronavirus Rs_672/2006,Rs672,Rhinolophus sinicus,89399
+1047,SARS-like coronavirus WIV16,WIV16,Rhinolophus sinicus,89399
+1051,Bat SARS Cov Rs806/2006,Rs806,Rhinolophus sinicus,89399
+1038,Coronavirus BtRl-BetaCoV/SC2018,BtRl-BetaCoV/SC2018,Rhinolophus sp.,49442
+1056,Rousettus bat coronavirus/Kenya/KY06/2006,BtKY06,Rousettus aegyptiacus,9407
+643,Rousettus bat coronavirus,GCCDC1 356,Rousettus leschenaulti,9408
+644,Rousettus bat coronavirus,GCCDC1 356,Rousettus leschenaulti,9408
+645,Rousettus bat coronavirus,GCCDC1 346,Rousettus leschenaulti,9408
+30,Sambar deer coronavirus US/OH-WD388-TC/1994,Sambar deer coronavirus US/OH-WD388-TC/1994,sambar deer,662561
+31,Sambar deer coronavirus US/OH-WD388-TC/1994,Sambar deer coronavirus US/OH-WD388-TC/1994,sambar deer,662561
+32,Sambar deer coronavirus US/OH-WD388/1994,Sambar deer coronavirus US/OH-WD388/1994,sambar deer,662561
+562,Porcine hemagglutinating encephalomyelitis virus (strain 67N),Porcine hemagglutinating encephalomyelitis virus (strain 67N),Sus scrofa (Pig),9823
+563,Porcine hemagglutinating encephalomyelitis virus (strain IAF-404),Porcine hemagglutinating encephalomyelitis virus (strain IAF-404),Sus scrofa (Pig),9823
+636,BtTp-BetaCoV/GX2012,BtTp-GX2012,Tylonycteris pachypus,258959
+642,Tylonycteris pachypus bat coronavirus HKU4-related,GZ131656,Tylonycteris pachypus,258959
+630,Bat coronavirus (BtCoV/133/2005),Bat coronavirus (BtCoV/133/2005),Tylonycteris pachypus (Lesser bamboo bat),258959
+617,BtVs-BetaCoV/SC2013,BtVs-BetaCoV/SC2013,Vespertilio superans,105273
+34,Waterbuck coronavirus US/OH-WD358-GnC/1994,Waterbuck coronavirus US/OH-WD358-GnC/1994,waterbuck,9962
+35,Waterbuck coronavirus US/OH-WD358-TC/1994,Waterbuck coronavirus US/OH-WD358-TC/1994,waterbuck,9962
+36,Waterbuck coronavirus US/OH-WD358/1994,Waterbuck coronavirus US/OH-WD358/1994,waterbuck,9962
+37,White-tailed deer coronavirus US/OH-WD470/1994,White-tailed deer coronavirus US/OH-WD470/1994,white-tailed deer,9874
+564,Yak coronavirus,YAK/HY24/CH/2017,yak,30521
+38,Canine respiratory coronavirus,Canine respiratory coronavirus,,9615
+39,Canine respiratory coronavirus,Canine respiratory coronavirus,,9615
+40,Canine respiratory coronavirus,Canine respiratory coronavirus,,9615
+41,Canine respiratory coronavirus,Canine respiratory coronavirus,,9615
+42,Canine respiratory coronavirus,Canine respiratory coronavirus,,9615
+43,Canine respiratory coronavirus,Canine respiratory coronavirus,,9615
+44,Canine respiratory coronavirus,Canine respiratory coronavirus,,9615
+45,Canine respiratory coronavirus,Canine respiratory coronavirus,,9615
+46,Canine respiratory coronavirus,Canine respiratory coronavirus,,9615
+47,Canine respiratory coronavirus,Canine respiratory coronavirus,,9615
+48,Canine respiratory coronavirus,Canine respiratory coronavirus,,9615
+53,Canine respiratory coronavirus,CRCoV/NTU1/05,,9615
+59,Canine respiratory coronavirus,respiratory,,9615
+64,Canine respiratory coronavirus,06/075,,9615
+65,Canine respiratory coronavirus,4182,,9615
+66,Canine respiratory coronavirus,Canine respiratory coronavirus,,9615
+70,Equine coronavirus NC99,NC99,,9796
+91,Human coronavirus OC43,Caen743,,9606
+92,Human coronavirus OC43,Caen626,,9606
+93,Human coronavirus OC43,Caen609,,9606
+94,Human coronavirus OC43,Caen554,,9606
+95,Human coronavirus OC43,Caen552,,9606
+96,Human coronavirus OC43,Caen536,,9606
+97,Human coronavirus OC43,Caen531,,9606
+98,Human coronavirus OC43,Caen524,,9606
+99,Human coronavirus OC43,Caen516,,9606
+100,Human coronavirus OC43,Caen503,,9606
+101,Human coronavirus OC43,Caen472,,9606
+102,Human coronavirus OC43,Caen314,,9606
+103,Human coronavirus OC43,Caen241,,9606
+301,Human coronavirus OC43,MDS15,,9606
+302,Human coronavirus OC43,MDS16,,9606
+303,Human coronavirus OC43,MDS14,,9606
+304,Human coronavirus OC43,MDS12,,9606
+305,Human coronavirus OC43,MDS11,,9606
+306,Human coronavirus OC43,MDS4,,9606
+307,Human coronavirus OC43,MDS2,,9606
+308,Human coronavirus OC43,MDS6,,9606
+325,Human coronavirus OC43,ATCC VR-759,,9606
+327,Human coronavirus OC43,HZ-459,,9606
+328,Human coronavirus OC43,YC-207,,9606
+329,Human coronavirus OC43,YC-72,,9606
+330,Human coronavirus OC43,YC-68,,9606
+331,Human coronavirus OC43,YC-67,,9606
+332,Human coronavirus OC43,YC-55,,9606
+333,Human coronavirus OC43,WZ-522,,9606
+334,Human coronavirus OC43,WZ-303,,9606
+335,Human coronavirus OC43,GZYF-26,,9606
+336,Human coronavirus OC43,CC-23,,9606
+337,Human coronavirus OC43,BJ-221,,9606
+338,Human coronavirus OC43,BJ-165,,9606
+339,Human coronavirus OC43,BJ-164,,9606
+340,Human coronavirus OC43,BJ-124,,9606
+341,Human coronavirus OC43,BJ-112,,9606
+351,Human coronavirus OC43,Tokyo/SGH-65/2016,,9606
+352,Human coronavirus OC43,Tokyo/SGH-06/2015,,9606
+353,Human coronavirus OC43,Tokyo/SGH-61/2014,,9606
+354,Human coronavirus OC43,Tokyo/SGH-36/2014,,9606
+423,Human coronavirus OC43,CaenVAC,,9606
+424,Human coronavirus OC43,CaenBUT,,9606
+425,Human coronavirus OC43,CaenVUO,,9606
+426,Human coronavirus OC43,CaenEYM,,9606
+427,Human coronavirus OC43,CaenVAL,,9606
+428,Human coronavirus OC43,CaenBEL,,9606
+429,Human coronavirus OC43,CaenTHS,,9606
+430,Human coronavirus OC43,ATCC VR759,,9606
+583,Murine hepatitis virus strain 2,MHV-2,,10090
+590,Murine hepatitis virus strain JHM,Murine hepatitis virus strain JHM,,10090
+592,Murine hepatitis virus strain ML-11,ML-11,,10090
+593,Murine hepatitis virus strain S/3239-17,MHV/S/3239-17,,10090
+597,Rat sialodacryoadenitis coronavirus,SDAV-681,,10114
+623,Human betacoronavirus 2c Jordan-N3/2012,Jordan-N3/2012,,9606
+631,Bat coronavirus (BtCoV/133/2005),BtCoV/133/2005,,9397
+658,Bat SARS coronavirus HKU3-1,HKU3-1,,9397
+659,Bat SARS coronavirus HKU3-10,HKU3-10,,9397
+660,Bat SARS coronavirus HKU3-11,HKU3-11,,9397
+661,Bat SARS coronavirus HKU3-12,HKU3-12,,9397
+662,Bat SARS coronavirus HKU3-13,HKU3-13,,9397
+663,Bat SARS coronavirus HKU3-2,HKU3-2,,9397
+664,Bat SARS coronavirus HKU3-3,HKU3-3,,9397
+665,Bat SARS coronavirus HKU3-4,HKU3-4,,9397
+666,Bat SARS coronavirus HKU3-5,HKU3-5,,9397
+667,Bat SARS coronavirus HKU3-6,HKU3-6,,9397
+668,Bat SARS coronavirus HKU3-7,HKU3-7,,9397
+669,Bat SARS coronavirus HKU3-8,HKU3-8,,9397
+670,Bat SARS coronavirus HKU3-9,HKU3-9,,9397
+671,Bat CoV 273/2005,BtCoV/273/2005,,9397
+673,Bat CoV 279/2005,BtCoV/279/2005,,9397
+703,SARS coronavirus ExoN1,SARS/VeroE6_lab/USA/ExoN1_c5P10/2009,,9606
+704,SARS coronavirus ExoN1,SARS/VeroE6_lab/USA/ExoN1_c5.3P20/2010,,9606
+705,SARS coronavirus ExoN1,SARS/VeroE6_lab/USA/ExoN1_c5.8P20/2010,,9606
+706,SARS coronavirus ExoN1,SARS/VeroE6_lab/USA/ExoN1_c5P20/2009,,9606
+707,SARS coronavirus ExoN1,SARS/VeroE6_lab/USA/ExoN1_c13P20/2009,,9606
+708,SARS coronavirus ExoN1,SARS/VeroE6_lab/USA/ExoN1_c13P10/2009,,9606
+709,SARS coronavirus ExoN1,SARS/VeroE6_lab/USA/ExoN1_c8P20/2009,,9606
+710,SARS coronavirus ExoN1,SARS/VeroE6_lab/USA/ExoN1_c5.7P20/2010,,9606
+711,SARS coronavirus ExoN1,SARS/VeroE6_lab/USA/ExoN1_c13P1/2009,,9606
+712,SARS coronavirus ExoN1,SARS/VeroE6_lab/USA/ExoN1_c5.2P20/2010,,9606
+713,SARS coronavirus ExoN1,SARS/VeroE6_lab/USA/ExoN1_c5.1P20/2010,,9606
+714,SARS coronavirus ExoN1,SARS/VeroE6_lab/USA/ExoN1_c5.6P20/2010,,9606
+715,SARS coronavirus ExoN1,SARS/VeroE6_lab/USA/ExoN1_c5.5P20/2010,,9606
+716,SARS coronavirus ExoN1,SARS/VeroE6_lab/USA/ExoN1_c8P1/2009,,9606
+717,SARS coronavirus ExoN1,SARS/VeroE6_lab/USA/ExoN1_c5.10P20/2010,,9606
+718,SARS coronavirus ExoN1,SARS/VeroE6_lab/USA/ExoN1_c5.9P20/2010,,9606
+719,SARS coronavirus ExoN1,SARS/VeroE6_lab/USA/ExoN1_c5.4P20/2010,,9606
+720,SARS coronavirus ExoN1,SARS/VeroE6_lab/USA/ExoN1_c8P10/2009,,9606
+721,SARS coronavirus ExoN1,ExoN1 mutant,,9606
+722,SARS coronavirus ExoN1,ExoN1 mutant,,9606
+723,SARS coronavirus ExoN1,ExoN1 mutant,,9606
+724,SARS coronavirus ExoN1,ExoN1 mutant,,9606
+725,SARS coronavirus ExoN1,ExoN1 mutant,,9606
+726,SARS coronavirus ExoN1,ExoN1 mutant,,9606
+727,SARS coronavirus ExoN1,ExoN1 mutant,,9606
+728,SARS coronavirus ExoN1,ExoN1 mutant,,9606
+729,SARS coronavirus ExoN1,ExoN1 mutant,,9606
+730,SARS coronavirus ExoN1,ExoN1 mutant,,9606
+731,SARS coronavirus ExoN1,ExoN1 mutant,,9606
+732,SARS coronavirus ExoN1,ExoN1 mutant,,9606
+733,SARS coronavirus ExoN1,ExoN1 mutant,,9606
+734,SARS coronavirus ExoN1,ExoN1 mutant,,9606
+735,SARS coronavirus ExoN1,ExoN1 mutant,,9606
+756,SARS coronavirus MA15,MA15,,9606
+757,SARS coronavirus MA15,MA15,,9606
+758,SARS coronavirus MA15,MA15,,9606
+759,SARS coronavirus MA15,MA15,,9606
+760,SARS coronavirus MA15,MA15,,9606
+761,SARS coronavirus MA15,MA15,,9606
+782,SARS coronavirus MA15 ExoN1,MA15 ExoN1 mutant,,9606
+783,SARS coronavirus MA15 ExoN1,MA15 ExoN1 mutant,,9606
+784,SARS coronavirus MA15 ExoN1,MA15 ExoN1 mutant,,9606
+785,SARS coronavirus MA15 ExoN1,MA15 ExoN1 mutant,,9606
+786,SARS coronavirus MA15 ExoN1,MA15 ExoN1 mutant,,9606
+787,SARS coronavirus MA15 ExoN1,MA15 ExoN1 mutant,,9606
+788,SARS coronavirus wtic-MB,SARS/VeroE6_lab/USA/WTic_c3P20/2009,,9606
+789,SARS coronavirus wtic-MB,SARS/VeroE6_lab/USA/WTic_c1.3P20/2010,,9606
+790,SARS coronavirus wtic-MB,SARS/VeroE6_lab/USA/WTic_c1.2P20/2010,,9606
+791,SARS coronavirus wtic-MB,SARS/VeroE6_lab/USA/WTic_c1P10/2009,,9606
+792,SARS coronavirus wtic-MB,SARS/VeroE6_lab/USA/WTic_c3P1/2009,,9606
+793,SARS coronavirus wtic-MB,SARS/VeroE6_lab/USA/WTic_c1.7P20/2010,,9606
+794,SARS coronavirus wtic-MB,SARS/VeroE6_lab/USA/WTic_c1.6P20/2010,,9606
+795,SARS coronavirus wtic-MB,SARS/VeroE6_lab/USA/WTic_c2P20/2009,,9606
+796,SARS coronavirus wtic-MB,SARS/VeroE6_lab/USA/WTic_c2P1/2009,,9606
+797,SARS coronavirus wtic-MB,SARS/VeroE6_lab/USA/WTic_c1.9P20/2010,,9606
+798,SARS coronavirus wtic-MB,SARS/VeroE6_lab/USA/WTic_c1.8P20/2010,,9606
+799,SARS coronavirus wtic-MB,SARS/VeroE6_lab/USA/WTic_c1.1P20/2010,,9606
+800,SARS coronavirus wtic-MB,SARS/VeroE6_lab/USA/WTic_c1.10P20/2010,,9606
+801,SARS coronavirus wtic-MB,SARS/VeroE6_lab/USA/WTic_c2P10/2009,,9606
+802,SARS coronavirus wtic-MB,SARS/VeroE6_lab/USA/WTic_c3P10/2009,,9606
+803,SARS coronavirus wtic-MB,SARS/VeroE6_lab/USA/WTic_c1P20/2009,,9606
+804,SARS coronavirus wtic-MB,SARS/VeroE6_lab/USA/WTic_c1.4P20/2010,,9606
+805,SARS coronavirus wtic-MB,SARS/VeroE6_lab/USA/WTic_c1.5P20/2010,,9606
+806,SARS coronavirus wtic-MB,WTic,,9606
+807,SARS coronavirus wtic-MB,wtic-MB,,9606
+808,SARS coronavirus wtic-MB,wtic-MB,,9606
+809,SARS coronavirus wtic-MB,wtic-MB,,9606
+810,SARS coronavirus wtic-MB,wtic-MB,,9606
+811,SARS coronavirus wtic-MB,wtic-MB,,9606
+812,SARS coronavirus wtic-MB,wtic-MB,,9606
+813,SARS coronavirus wtic-MB,wtic-MB,,9606
+814,SARS coronavirus wtic-MB,wtic-MB,,9606
+815,SARS coronavirus wtic-MB,wtic-MB,,9606
+816,SARS coronavirus wtic-MB,wtic-MB,,9606
+817,SARS coronavirus wtic-MB,wtic-MB,,9606
+818,SARS coronavirus wtic-MB,wtic-MB,,9606
+821,SARS coronavirus A001,SARS coronavirus A001,,9606
+822,SARS coronavirus A013,SARS coronavirus A013,,9606
+823,SARS coronavirus A021,SARS coronavirus A021,,9606
+824,SARS coronavirus A022,SARS coronavirus A022,,9606
+825,SARS coronavirus A022,SARS coronavirus A022,,9606
+826,SARS coronavirus A030,SARS coronavirus A030,,9606
+827,SARS coronavirus A031,SARS coronavirus A031,,9606
+828,SARS coronavirus AS,AS,,9606
+829,SARS coronavirus B012,SARS coronavirus B012,,9606
+830,SARS coronavirus B024,SARS coronavirus B024,,9606
+831,SARS coronavirus B029,SARS coronavirus B029,,9606
+832,SARS coronavirus B033,SARS coronavirus B033,,9606
+834,SARS coronavirus B039,SARS coronavirus B039,,9606
+835,SARS coronavirus B040,SARS coronavirus B040,,9606
+836,SARS coronavirus BJ01,BJ01,,9606
+837,SARS coronavirus BJ01,BJ01,,9606
+838,SARS coronavirus BJ162,BJ162,,9606
+839,SARS coronavirus BJ182-12,SARS coronavirus BJ182-12,,9606
+840,SARS coronavirus BJ182-4,SARS coronavirus BJ182-4,,9606
+841,SARS coronavirus BJ182-8,SARS coronavirus BJ182-8,,9606
+842,SARS coronavirus BJ182a,SARS coronavirus BJ182a,,9606
+843,SARS coronavirus BJ182b,SARS coronavirus BJ182b,,9606
+844,SARS coronavirus BJ202,SARS coronavirus BJ202,,9606
+845,SARS coronavirus BJ302,SARS coronavirus BJ302,,9606
+846,SARS coronavirus BJ302,SARS coronavirus BJ302,,9606
+847,SARS coronavirus BJ302,SARS coronavirus BJ302,,9606
+848,SARS coronavirus BJ302,SARS coronavirus BJ302,,9606
+849,SARS coronavirus BJ302,SARS coronavirus BJ302,,9606
+850,SARS coronavirus BJ302,SARS coronavirus BJ302,,9606
+851,SARS coronavirus BJ302,SARS coronavirus BJ302,,9606
+852,SARS coronavirus BJ302,SARS coronavirus BJ302,,9606
+853,SARS coronavirus C013,SARS coronavirus C013,,9606
+854,SARS coronavirus C014,SARS coronavirus C014,,9606
+855,SARS coronavirus C017,SARS coronavirus C017,,9606
+856,SARS coronavirus C018,SARS coronavirus C018,,9606
+857,SARS coronavirus C019,SARS coronavirus C019,,9606
+858,SARS coronavirus C025,SARS coronavirus C025,,9606
+859,SARS coronavirus C028,SARS coronavirus C028,,9606
+860,SARS coronavirus C029,SARS coronavirus C029,,9606
+861,SARS Coronavirus CDC#200301157,SARS Coronavirus CDC#200301157,,9606
+868,SARS coronavirus CUHK-L2,SARS coronavirus CUHK-L2,,9606
+869,SARS coronavirus CUHK-L2,SARS coronavirus CUHK-L2,,9606
+870,SARS coronavirus cw037,cw037,,9606
+871,SARS coronavirus cw049,cw049,,9606
+874,SARS coronavirus FRA,FRA,,9606
+875,SARS coronavirus Frankfurt1-v01,Frankfurt1-v01,,9606
+876,SARS coronavirus GD01,GD01,,9606
+877,SARS coronavirus GD03T0013,SARS coronavirus GD03T0013,,9606
+878,SARS coronavirus GD322,GD322,,9606
+879,SARS coronavirus GZ02,GZ02,,9606
+880,SARS coronavirus GZ0403,GZ0403,,9606
+881,SARS coronavirus HHS-2004,Beijing,,9606
+882,SARS coronavirus HKU-39849,recSARS-CoV HKU-39849,,9606
+883,SARS coronavirus HKU-39849,HKU-39849,,9606
+887,SARS coronavirus HSR 1,HSR 1,,9606
+888,SARS coronavirus NS-1,NS-1,,9606
+890,SARS coronavirus PC4-115,SARS coronavirus PC4-115,,9606
+891,SARS coronavirus PC4-127,PC4-127,,9606
+892,SARS coronavirus PC4-137,SARS coronavirus PC4-137,,9606
+893,SARS coronavirus PC4-145,SARS coronavirus PC4-145,,9606
+894,SARS coronavirus PC4-199,SARS coronavirus PC4-199,,9606
+895,SARS coronavirus PC4-205,PC4-205,,9606
+896,SARS coronavirus PC4-241,SARS coronavirus PC4-241,,9606
+898,SARS coronavirus sf098,sf098,,9606
+899,SARS coronavirus sf098,sf098,,9606
+900,SARS coronavirus ShanghaiQXC1,ShanghaiQXC1,,9606
+901,SARS coronavirus ShanghaiQXC2,ShanghaiQXC2,,9606
+902,SARS coronavirus Shanhgai LY,SARS coronavirus Shanhgai LY,,9606
+903,SARS coronavirus Sino1-11,Sino1-11,,9606
+904,SARS coronavirus Sino3-11,Sino3-11,,9606
+905,SARS coronavirus Taiwan TC1,TC1,,9606
+906,SARS coronavirus Taiwan TC2,TC2,,9606
+907,SARS coronavirus Taiwan TC3,TC3,,9606
+908,SARS coronavirus TJF,TJF,,9606
+909,SARS coronavirus TW-GD1,TW-GD1_SC22-23,,9606
+910,SARS coronavirus TW-GD2,TW-GD2_SC22-23,,9606
+911,SARS coronavirus TW-GD3,TW-GD3_SC22-23,,9606
+912,SARS coronavirus TW-GD4,TW-GD4_SC22-23,,9606
+913,SARS coronavirus TW-GD5,TW-GD5_SC22-23,,9606
+914,SARS coronavirus TW-HP1,TW-HP1_SC22-23,,9606
+915,SARS coronavirus TW-HP2,TW-HP2_SC22-23,,9606
+916,SARS coronavirus TW-HP3,TW-HP3_SC22-23,,9606
+917,SARS coronavirus TW-HP4,TW-HP4_SC22-23,,9606
+918,SARS coronavirus TW-JC2,TW-JC2_SC22-23,,9606
+919,SARS coronavirus TW-KC1,TW-KC1_SC22-23,,9606
+920,SARS coronavirus TW-KC3,TW-KC3_SC22-23,,9606
+921,SARS coronavirus TW-PH1,TW-PH1_SC22-23,,9606
+922,SARS coronavirus TW-PH2,TW-PH2_SC22-23,,9606
+923,SARS coronavirus TW-YM1,TW-YM1_SC22-23,,9606
+924,SARS coronavirus TW-YM2,TW-YM2_SC22-23,,9606
+925,SARS coronavirus TW-YM3,TW-YM3_SC22-23,,9606
+926,SARS coronavirus TW-YM4,TW-YM4_SC22-23,,9606
+927,SARS coronavirus TWH,TWH,,9606
+928,SARS coronavirus TWJ,TWJ,,9606
+929,SARS coronavirus TWK,TWK,,9606
+930,SARS coronavirus TWS,TWS,,9606
+931,SARS coronavirus TWY,TWY,,9606
+939,SARS coronavirus Urbani,Urbani,,9606
+941,SARS coronavirus WH20,WH20,,9606
+942,SARS coronavirus ZJ01,ZJ01,,9606
+943,SARS coronavirus ZJ01,ZJ01b,,9606
+944,SARS coronavirus ZJ02,SARS coronavirus ZJ02,,9606
+945,SARS coronavirus ZJ02,ZJ02,,9606
+946,SARS coronavirus ZJ0301,ZJ0301,,9606

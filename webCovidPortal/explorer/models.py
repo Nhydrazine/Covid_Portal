@@ -271,25 +271,35 @@ class EpitopeExperiment(models.Model):
 # CRYSTAL STRUCTURES
 ################################################################################
 class Structure(models.Model):
-    pdb_id = models.CharField(max_length=10);
+    pdb_id = models.CharField(max_length=10, unique=True);
     taxon = models.ForeignKey(Taxon, on_delete=models.CASCADE);
+    def __string__(self):
+        return self.pdb_id;
 
 class StructureChain(models.Model):
     structure = models.ForeignKey(Structure, on_delete=models.CASCADE);
-    protein = models.ForeignKey(Protein, on_delete=models.CASCADE);
+    protein = models.ForeignKey(Protein, null=True, on_delete=models.CASCADE);
     name = models.CharField(max_length=1);
+    unique_together = ('structure','protein','name');
+    def __string__(self):
+        return self.structure.pdb_id+"."+self.name;
 
 class StructureChainSequence(models.Model):
     chain = models.ForeignKey(StructureChain, on_delete=models.CASCADE);
     alignment = models.ForeignKey(Alignment, on_delete=models.CASCADE);
     offset = models.IntegerField();
     sequence = models.TextField();
+    unique_together = ('chain','alignment');
 
-class StructureChainAtom(models.Model):
+class StructureChainResidue(models.Model):
     chain = models.ForeignKey(StructureChain, on_delete=models.CASCADE);
     resix = models.IntegerField(); # index relative to RAW ungapped sequence
     resid = models.IntegerField(); # index specified in crystal structure
     resn = models.CharField(max_length=1); # single-letter amino acid code
+    unique_together = ('chain','resix');
+
+class StructureAtom(models.Model):
+    residue = models.ForeignKey(StructureChainResidue, on_delete=models.CASCADE);
     atom = models.CharField(max_length=5);
     element = models.CharField(max_length=5);
     charge = models.IntegerField();
@@ -297,6 +307,7 @@ class StructureChainAtom(models.Model):
     x = models.FloatField();
     y = models.FloatField();
     z = models.FloatField();
+    unique_together = ('residue','atom');
 
 
 
