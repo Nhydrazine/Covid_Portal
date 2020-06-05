@@ -1,6 +1,6 @@
 # Explorer Data Folder
 
-This folder contains scripts gather and/or process various types of data that are needed for the explorer. Each data type object is in a seprate folder:
+This folder contains scripts that gather and/or process various types of data that are needed for the explorer. See documentation in each folder for specifics. Each data type object is in a seprate folder:
 
 | Folder | Model(s) | Description |
 |--------|----------|-------------|
